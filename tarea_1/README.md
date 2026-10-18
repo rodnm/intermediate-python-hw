@@ -36,9 +36,12 @@ streamlit run tarea_1/app.py
 ```
 
 La app se abre en <http://localhost:8501>. Se ejecuta desde la raíz del repositorio porque ahí está el tema
-(`.streamlit/config.toml`), igual que en Streamlit Community Cloud. Los pesos del modelo (517 MB) no están en Git porque superan el límite
-de 100 MB de GitHub. La primera vez que se usan el probador y el buscador, la app descarga sus modelos del Hugging
-Face Hub, así que esa primera consulta puede tardar unos minutos.
+(`.streamlit/config.toml`), igual que en Streamlit Community Cloud. También funciona desde `tarea_1/` con
+`streamlit run app.py`, pero con el tema por defecto de Streamlit.
+
+Los pesos del modelo (517 MB) no están en Git porque superan el límite de 100 MB de GitHub. La primera vez que se
+usan el probador y el buscador, la app descarga sus modelos del Hugging Face Hub, así que esa primera consulta puede
+tardar unos minutos.
 
 **Despliegue.** La app corre en Streamlit Community Cloud con Python 3.12. En Linux, `requirements.txt` instala la
 versión CPU de `torch` (192 MB) en lugar de la de PyPI, que arrastra varios GB de CUDA. Con los dos modelos
@@ -194,4 +197,4 @@ tarea_1/
 | :--- | :--- | :--- |
 | Recolección y limpieza | [#1](https://github.com/rodnm/intermediate-python-hw/issues/1) | [#4](https://github.com/rodnm/intermediate-python-hw/pull/4) |
 | Modelado y clasificación | [#2](https://github.com/rodnm/intermediate-python-hw/issues/2) | [#5](https://github.com/rodnm/intermediate-python-hw/pull/5) |
-| Dashboard y despliegue | [#3](https://github.com/rodnm/intermediate-python-hw/issues/3) | _pendiente_ |
+| Dashboard y despliegue | [#3](https://github.com/rodnm/intermediate-python-hw/issues/3) | [#6](https://github.com/rodnm/intermediate-python-hw/pull/6) |
