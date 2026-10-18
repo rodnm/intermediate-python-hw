@@ -17,7 +17,7 @@ MODELO_EMB = "intfloat/multilingual-e5-small"
 CATEGORIAS = ["politica", "economia", "deportes", "ciencia_tecnologia"]
 NOMBRES = {"politica": "Política", "economia": "Economía", "deportes": "Deportes",
            "ciencia_tecnologia": "Ciencia y tecnología"}
-COLORES_MEDIO = {"El Comercio": "#1f77b4", "La Republica": "#d62728"}
+COLORES_MEDIO = {"El Comercio": "#E0A100", "La Republica": "#d62728"}
 
 st.set_page_config(page_title="Clasificador de titulares peruanos", page_icon="🗞️", layout="wide")
 
