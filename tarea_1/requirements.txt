@@ -16,7 +16,9 @@ matplotlib==3.11.1
 
 # Modelado
 scikit-learn==1.9.0
-torch==2.13.0
+# En Linux x86_64 (Streamlit Community Cloud) se instala la versión CPU: la de PyPI arrastra varios GB de CUDA
+torch @ https://download.pytorch.org/whl/cpu/torch-2.13.0%2Bcpu-cp312-cp312-manylinux_2_28_x86_64.whl#sha256=4ca4a9394b0c771238a4f73590fdbbc4debad85ed0fa63d026ae1b085da7d6e2 ; sys_platform == "linux" and platform_machine == "x86_64" and python_version == "3.12"
+torch==2.13.0 ; sys_platform != "linux" or platform_machine != "x86_64" or python_version != "3.12"
 transformers==5.16.1
 datasets==5.0.1
 accelerate==1.14.0
