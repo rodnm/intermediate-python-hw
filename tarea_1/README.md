@@ -11,6 +11,8 @@ test clasifica en 4 categorías (`politica`, `economia`, `deportes`, `ciencia_te
 
 | | |
 | :--- | :--- |
+| **Autor** | Rodrigo Norabuena |
+| **Curso** | Python Intermedio · Diplomatura de especialización Ciencia de Datos para las Ciencias Sociales y la Gestión Pública 2026 |
 | **App desplegada** | <https://del-titular-al-clasificador-rodnm.streamlit.app> |
 | **Modelo publicado** | [`rodnm/distilbert-noticias-peru`](https://huggingface.co/rodnm/distilbert-noticias-peru) |
 | **Video** | _pendiente_ |

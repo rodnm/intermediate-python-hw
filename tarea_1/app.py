@@ -195,4 +195,5 @@ with tab_ner:
 
 st.divider()
 st.caption("Fuentes: larepublica.pe y elcomercio.pe (RSS, sitemaps y artículos públicos, respetando robots.txt). "
-           "Proyecto académico — Python Intermedio, 2026-II.")
+           "Rodrigo Norabuena · Curso Python Intermedio · Diplomatura de especialización Ciencia de Datos para las "
+           "Ciencias Sociales y la Gestión Pública 2026.")
