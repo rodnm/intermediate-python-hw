@@ -1,6 +1,6 @@
 """Dashboard de la Tarea 1: clasificador de titulares peruanos (La República + El Comercio).
 
-Ejecutar desde la carpeta tarea_1/:  streamlit run app.py
+Ejecutar desde la raíz del repositorio, donde está el tema (.streamlit/config.toml):  streamlit run tarea_1/app.py
 """
 import json
 from pathlib import Path
@@ -10,6 +10,8 @@ import pandas as pd
 import plotly.express as px
 import streamlit as st
 
+from kanagawa import COLORES_MEDIO  # paleta compartida con los notebooks
+
 BASE = Path(__file__).parent
 DATOS, MODELO = BASE / "datos", BASE / "modelo"
 MODELO_HUB = "rodnm/distilbert-noticias-peru"     # respaldo cuando no hay pesos locales (p. ej. en la nube)
@@ -17,7 +19,6 @@ MODELO_EMB = "intfloat/multilingual-e5-small"
 CATEGORIAS = ["politica", "economia", "deportes", "ciencia_tecnologia"]
 NOMBRES = {"politica": "Política", "economia": "Economía", "deportes": "Deportes",
            "ciencia_tecnologia": "Ciencia y tecnología"}
-COLORES_MEDIO = {"El Comercio": "#E0A100", "La Republica": "#d62728"}
 
 st.set_page_config(page_title="Clasificador de titulares peruanos", page_icon="🗞️", layout="wide")
 

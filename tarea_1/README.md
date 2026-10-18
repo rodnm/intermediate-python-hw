@@ -26,14 +26,15 @@ Requiere Python 3.12.
 
 ```bash
 git clone https://github.com/rodnm/intermediate-python-hw.git
-cd intermediate-python-hw/tarea_1
+cd intermediate-python-hw
 python -m venv .venv
 .venv\Scripts\activate            # Windows  ·  en macOS/Linux: source .venv/bin/activate
-pip install -r requirements.txt
-streamlit run app.py
+pip install -r tarea_1/requirements.txt
+streamlit run tarea_1/app.py
 ```
 
-La app se abre en <http://localhost:8501>. Los pesos del modelo (517 MB) no están en Git porque superan el límite
+La app se abre en <http://localhost:8501>. Se ejecuta desde la raíz del repositorio porque ahí está el tema
+(`.streamlit/config.toml`), igual que en Streamlit Community Cloud. Los pesos del modelo (517 MB) no están en Git porque superan el límite
 de 100 MB de GitHub. La primera vez que se usan el probador y el buscador, la app descarga sus modelos del Hugging
 Face Hub, así que esa primera consulta puede tardar unos minutos.
 
@@ -156,6 +157,10 @@ Todos los enfoques se evaluaron sobre el mismo test, que no se usó para entrena
 - **Datos:** un gráfico Plotly de categorías por medio y una tabla con descarga en CSV.
 - **Probador en vivo:** devuelve la categoría y la probabilidad de cada una de las 4. Muestra una advertencia si la
   confianza es menor que 0.6.
+- **Diseño:** paleta [Kanagawa](https://github.com/rebelot/kanagawa.nvim) (tema Wave), la misma de los gráficos de
+  los notebooks. Cada medio tiene su color: amarillo para El Comercio y rojo para La República, validados para que se
+  distingan también con daltonismo. El color de acento es violeta, para que la interfaz no se asocie con ninguno de
+  los dos diarios.
 
 ## Estructura
 
@@ -165,6 +170,7 @@ tarea_1/
 ├── 02_clasificacion.ipynb    # Zero-shot, LLM, auditoría, fine-tuning y comparativa
 ├── 03_innovacion.ipynb       # Bonus: embeddings, NER y sesgo LR vs EC
 ├── app.py                    # Dashboard Streamlit
+├── kanagawa.py               # Paleta Kanagawa compartida por el dashboard y los notebooks
 ├── requirements.txt          # Versiones exactas
 ├── img/dashboard.jpg         # Captura del dashboard desplegado
 ├── datos/

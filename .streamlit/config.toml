@@ -1,0 +1,30 @@
+# Tema Kanagawa Wave (https://github.com/rebelot/kanagawa.nvim) para tarea_1/app.py.
+# Streamlit Community Cloud solo lee este archivo en la raíz del repositorio, por eso la app se ejecuta desde aquí:
+#   streamlit run tarea_1/app.py
+
+[theme]
+base = "dark"
+primaryColor = "#957FB8"               # oniViolet: acento neutral, ni el rojo de LR ni el amarillo de EC
+backgroundColor = "#1F1F28"            # sumiInk3
+secondaryBackgroundColor = "#2A2A37"   # sumiInk4
+textColor = "#DCD7BA"                  # fujiWhite
+linkColor = "#7E9CD8"                  # crystalBlue
+borderColor = "#363646"                # sumiInk5
+dataframeBorderColor = "#363646"
+dataframeHeaderBackgroundColor = "#2A2A37"
+
+# Colores de estado con los roles de diagnóstico de Kanagawa
+greenColor = "#98BB6C"                 # springGreen (ok)
+yellowColor = "#FF9E3B"                # roninYellow (warning)
+redColor = "#E82424"                   # samuraiRed (error)
+blueColor = "#7FB4CA"                  # springBlue (info)
+orangeColor = "#FFA066"                # surimiOrange
+violetColor = "#957FB8"                # oniViolet
+grayColor = "#727169"                  # fujiGray
+
+# Plotly: series únicas en crystalBlue; los medios usan COLORES_MEDIO de tarea_1/kanagawa.py
+chartCategoricalColors = ["#7E9CD8", "#FFA066"]
+
+[theme.sidebar]
+backgroundColor = "#16161D"            # sumiInk0
+secondaryBackgroundColor = "#2A2A37"   # sumiInk4
