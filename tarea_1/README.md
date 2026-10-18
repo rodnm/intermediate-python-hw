@@ -9,10 +9,14 @@ test clasifica en 4 categorías (`politica`, `economia`, `deportes`, `ciencia_te
 - iguala a un LLM (0.909), pero es unas 60 veces más rápido y funciona sin internet;
 - supera con holgura a un zero-shot (0.640).
 
-**Medio:** Opción C – Comparada (La República + El Comercio) · **Modelo publicado:**
-[`rodnm/distilbert-noticias-peru`](https://huggingface.co/rodnm/distilbert-noticias-peru) · **Video:** _pendiente_
+| | |
+| :--- | :--- |
+| **App desplegada** | <https://del-titular-al-clasificador-rodnm.streamlit.app> |
+| **Modelo publicado** | [`rodnm/distilbert-noticias-peru`](https://huggingface.co/rodnm/distilbert-noticias-peru) |
+| **Video** | _pendiente_ |
+| **Medio** | Opción C – Comparada (La República + El Comercio) |
 
-<!-- PENDIENTE: captura del dashboard -->
+![Dashboard: el probador en vivo clasifica "El BCR recorta la tasa de interés" como Economía con 86.1 %](img/dashboard.jpg)
 
 ---
 
@@ -32,6 +36,10 @@ streamlit run app.py
 La app se abre en <http://localhost:8501>. Los pesos del modelo (517 MB) no están en Git porque superan el límite
 de 100 MB de GitHub. La primera vez que se usan el probador y el buscador, la app descarga sus modelos del Hugging
 Face Hub, así que esa primera consulta puede tardar unos minutos.
+
+**Despliegue.** La app corre en Streamlit Community Cloud con Python 3.12. En Linux, `requirements.txt` instala la
+versión CPU de `torch` (192 MB) en lugar de la de PyPI, que arrastra varios GB de CUDA. Con los dos modelos
+cargados, la app usa alrededor de 1.2 GB de RAM (medido en local).
 
 **Para reproducir los notebooks**, se ejecutan en orden (`01` → `02` → `03`). No hace falta ninguna API key:
 
@@ -158,6 +166,7 @@ tarea_1/
 ├── 03_innovacion.ipynb       # Bonus: embeddings, NER y sesgo LR vs EC
 ├── app.py                    # Dashboard Streamlit
 ├── requirements.txt          # Versiones exactas
+├── img/dashboard.jpg         # Captura del dashboard desplegado
 ├── datos/
 │   ├── noticias.csv          # 444 noticias, 7 columnas
 │   ├── etiquetas_llm.csv     # Etiquetas del LLM para todo el dataset
