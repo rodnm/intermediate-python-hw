@@ -1,0 +1,17 @@
+{
+  "f1_macro_test": 0.908,
+  "accuracy_test": 0.91,
+  "n_test": 67,
+  "f1_macro_por_medio": {
+    "El Comercio": 0.849,
+    "La Republica": 0.968
+  },
+  "f1_macro_zero_shot": 0.64,
+  "acuerdo_llm_humano": 19,
+  "n_auditoria": 20,
+  "extraccion_verificada": 20,
+  "acuerdo_llm_editorial": 0.957,
+  "modelo_base": "distilbert/distilbert-base-multilingual-cased",
+  "modelo_llm": "gemini-3.8-flash",
+  "fecha_entrenamiento": "2026-10-17"
+}
