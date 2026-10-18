@@ -1,30 +1,30 @@
-# Tema Kanagawa Wave (https://github.com/rebelot/kanagawa.nvim) para tarea_1/app.py.
+# Tema Catppuccin Mocha (https://catppuccin.com/palette/) para tarea_1/app.py.
 # Streamlit Community Cloud solo lee este archivo en la raíz del repositorio, por eso la app se ejecuta desde aquí:
 #   streamlit run tarea_1/app.py
 
 [theme]
 base = "dark"
-primaryColor = "#957FB8"               # oniViolet: acento neutral, ni el rojo de LR ni el amarillo de EC
-backgroundColor = "#1F1F28"            # sumiInk3
-secondaryBackgroundColor = "#2A2A37"   # sumiInk4
-textColor = "#DCD7BA"                  # fujiWhite
-linkColor = "#7E9CD8"                  # crystalBlue
-borderColor = "#363646"                # sumiInk5
-dataframeBorderColor = "#363646"
-dataframeHeaderBackgroundColor = "#2A2A37"
+primaryColor = "#cba6f7"               # mauve: acento neutral, ni el rojo de LR ni el amarillo de EC
+backgroundColor = "#1e1e2e"            # base
+secondaryBackgroundColor = "#313244"   # surface0
+textColor = "#cdd6f4"                  # text
+linkColor = "#89b4fa"                  # blue
+borderColor = "#45475a"                # surface1
+dataframeBorderColor = "#45475a"
+dataframeHeaderBackgroundColor = "#313244"
 
-# Colores de estado con los roles de diagnóstico de Kanagawa
-greenColor = "#98BB6C"                 # springGreen (ok)
-yellowColor = "#FF9E3B"                # roninYellow (warning)
-redColor = "#E82424"                   # samuraiRed (error)
-blueColor = "#7FB4CA"                  # springBlue (info)
-orangeColor = "#FFA066"                # surimiOrange
-violetColor = "#957FB8"                # oniViolet
-grayColor = "#727169"                  # fujiGray
+# Colores de estado
+greenColor = "#a6e3a1"                 # green
+yellowColor = "#f9e2af"                # yellow
+redColor = "#f38ba8"                   # red
+blueColor = "#89b4fa"                  # blue
+orangeColor = "#fab387"                # peach
+violetColor = "#cba6f7"                # mauve
+grayColor = "#7f849c"                  # overlay1
 
-# Plotly: series únicas en crystalBlue; los medios usan COLORES_MEDIO de tarea_1/kanagawa.py
-chartCategoricalColors = ["#7E9CD8", "#FFA066"]
+# Plotly: series únicas en blue; los medios usan COLORES_MEDIO de tarea_1/paleta.py
+chartCategoricalColors = ["#89b4fa", "#fab387"]
 
 [theme.sidebar]
-backgroundColor = "#16161D"            # sumiInk0
-secondaryBackgroundColor = "#2A2A37"   # sumiInk4
+backgroundColor = "#181825"            # mantle
+secondaryBackgroundColor = "#313244"   # surface0

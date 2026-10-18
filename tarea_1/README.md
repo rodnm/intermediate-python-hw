@@ -11,7 +11,7 @@ test clasifica en 4 categorías (`politica`, `economia`, `deportes`, `ciencia_te
 
 | | |
 | :--- | :--- |
-| **Autor** | Rodrigo Norabuena |
+| **Autor** | Rodrigo Andrés Norabuena Mascaraqui ([@rodnm](https://github.com/rodnm)) |
 | **Curso** | Python Intermedio · Diplomatura de especialización Ciencia de Datos para las Ciencias Sociales y la Gestión Pública 2026 |
 | **App desplegada** | <https://del-titular-al-clasificador-rodnm.streamlit.app> |
 | **Modelo publicado** | [`rodnm/distilbert-noticias-peru`](https://huggingface.co/rodnm/distilbert-noticias-peru) |
@@ -36,9 +36,12 @@ streamlit run tarea_1/app.py
 ```
 
 La app se abre en <http://localhost:8501>. Se ejecuta desde la raíz del repositorio porque ahí está el tema
-(`.streamlit/config.toml`), igual que en Streamlit Community Cloud. Los pesos del modelo (517 MB) no están en Git porque superan el límite
-de 100 MB de GitHub. La primera vez que se usan el probador y el buscador, la app descarga sus modelos del Hugging
-Face Hub, así que esa primera consulta puede tardar unos minutos.
+(`.streamlit/config.toml`), igual que en Streamlit Community Cloud. También funciona desde `tarea_1/` con
+`streamlit run app.py`, pero con el tema por defecto de Streamlit.
+
+Los pesos del modelo (517 MB) no están en Git porque superan el límite de 100 MB de GitHub. La primera vez que se
+usan el probador y el buscador, la app descarga sus modelos del Hugging Face Hub, así que esa primera consulta puede
+tardar unos minutos.
 
 **Despliegue.** La app corre en Streamlit Community Cloud con Python 3.12. En Linux, `requirements.txt` instala la
 versión CPU de `torch` (192 MB) en lugar de la de PyPI, que arrastra varios GB de CUDA. Con los dos modelos
@@ -159,10 +162,12 @@ Todos los enfoques se evaluaron sobre el mismo test, que no se usó para entrena
 - **Datos:** un gráfico Plotly de categorías por medio y una tabla con descarga en CSV.
 - **Probador en vivo:** devuelve la categoría y la probabilidad de cada una de las 4. Muestra una advertencia si la
   confianza es menor que 0.6.
-- **Diseño:** paleta [Kanagawa](https://github.com/rebelot/kanagawa.nvim) (tema Wave), la misma de los gráficos de
-  los notebooks. Cada medio tiene su color: amarillo para El Comercio y rojo para La República, validados para que se
-  distingan también con daltonismo. El color de acento es violeta, para que la interfaz no se asocie con ninguno de
-  los dos diarios.
+- **Diseño:** paleta [Catppuccin Mocha](https://catppuccin.com/palette/), la misma de los gráficos de los notebooks.
+  - **Medios:** amarillo para El Comercio y rojo para La República, validados para que se distingan también con
+    daltonismo.
+  - **Acento:** mauve, para que la interfaz no se asocie con ninguno de los dos diarios.
+  - **Botón "Clasificar":** es secundario. Streamlit pinta en blanco el texto del botón primario, y sobre los acentos
+    pastel de Catppuccin ese texto casi no se lee (contraste de 2:1).
 
 ## Estructura
 
@@ -172,7 +177,7 @@ tarea_1/
 ├── 02_clasificacion.ipynb    # Zero-shot, LLM, auditoría, fine-tuning y comparativa
 ├── 03_innovacion.ipynb       # Bonus: embeddings, NER y sesgo LR vs EC
 ├── app.py                    # Dashboard Streamlit
-├── kanagawa.py               # Paleta Kanagawa compartida por el dashboard y los notebooks
+├── paleta.py                 # Paleta Catppuccin Mocha compartida por el dashboard y los notebooks
 ├── requirements.txt          # Versiones exactas
 ├── img/dashboard.jpg         # Captura del dashboard desplegado
 ├── datos/
@@ -194,4 +199,4 @@ tarea_1/
 | :--- | :--- | :--- |
 | Recolección y limpieza | [#1](https://github.com/rodnm/intermediate-python-hw/issues/1) | [#4](https://github.com/rodnm/intermediate-python-hw/pull/4) |
 | Modelado y clasificación | [#2](https://github.com/rodnm/intermediate-python-hw/issues/2) | [#5](https://github.com/rodnm/intermediate-python-hw/pull/5) |
-| Dashboard y despliegue | [#3](https://github.com/rodnm/intermediate-python-hw/issues/3) | _pendiente_ |
+| Dashboard y despliegue | [#3](https://github.com/rodnm/intermediate-python-hw/issues/3) | [#6](https://github.com/rodnm/intermediate-python-hw/pull/6) |
