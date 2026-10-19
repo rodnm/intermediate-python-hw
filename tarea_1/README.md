@@ -15,7 +15,7 @@ test clasifica en 4 categorías (`politica`, `economia`, `deportes`, `ciencia_te
 | **Curso** | Python Intermedio · Diplomatura de especialización Ciencia de Datos para las Ciencias Sociales y la Gestión Pública 2026 |
 | **App desplegada** | <https://del-titular-al-clasificador-rodnm.streamlit.app> |
 | **Modelo publicado** | [`rodnm/distilbert-noticias-peru`](https://huggingface.co/rodnm/distilbert-noticias-peru) |
-| **Video** | _pendiente_ |
+| **Video** | <https://youtu.be/7wBcUbhUgcs> (2 min) |
 | **Medio** | Opción C – Comparada (La República + El Comercio) |
 
 ![Dashboard: el probador en vivo clasifica "El BCR recorta la tasa de interés" como Economía con 86.1 %](img/dashboard.jpg)
@@ -152,7 +152,7 @@ Todos los enfoques se evaluaron sobre el mismo test, que no se usó para entrena
 | **Sesgo comparativo LR vs EC** | Notebook 03 · pestaña ⚖️ | 19 pares confirmados a mano. Hallazgo 2 |
 | **Buscador semántico** | Notebook 03 · pestaña 🔎 | Embeddings `intfloat/multilingual-e5-small`. El 89.7 % de los vecinos más cercanos son de la misma categoría |
 | **NER peruano** | Notebook 03 · pestaña 🏷️ | `mrm8488/bert-spanish-cased-finetuned-ner`: 1515 menciones de 876 entidades, por categoría y por medio |
-| **Video demostrativo** | _pendiente_ | |
+| **Video demostrativo** | [YouTube](https://youtu.be/7wBcUbhUgcs) | 2 minutos: la pregunta, los datos, los tres modelos, la demo en vivo (incluido el error del BCR) y el sesgo entre diarios |
 
 ## Dashboard (`app.py`)
 
