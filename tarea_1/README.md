@@ -162,12 +162,13 @@ Todos los enfoques se evaluaron sobre el mismo test, que no se usó para entrena
 - **Datos:** un gráfico Plotly de categorías por medio y una tabla con descarga en CSV.
 - **Probador en vivo:** devuelve la categoría y la probabilidad de cada una de las 4. Muestra una advertencia si la
   confianza es menor que 0.6.
-- **Diseño:** paleta [Catppuccin Mocha](https://catppuccin.com/palette/), la misma de los gráficos de los notebooks.
-  - **Medios:** amarillo para El Comercio y rojo para La República, validados para que se distingan también con
-    daltonismo.
-  - **Acento:** mauve, para que la interfaz no se asocie con ninguno de los dos diarios.
-  - **Botón "Clasificar":** es secundario. Streamlit pinta en blanco el texto del botón primario, y sobre los acentos
-    pastel de Catppuccin ese texto casi no se lee (contraste de 2:1).
+- **Diseño:** una rampa de 8 colores, del azul petróleo `#003d5c` al ámbar `#ffa600`, con un negro (`#242424`) y un
+  blanco (`#fcfcfc`) como neutros. Es la misma paleta de los gráficos de los notebooks.
+  - **Fondo:** el negro, con texto blanco (15:1). Sobre el blanco, el amarillo de El Comercio quedaría con un
+    contraste de 1.9:1; sobre el negro llega a 7.9:1.
+  - **Medios:** amarillo (`#ffa600`) para El Comercio y rojo (`#f9596f`) para La República, validados para que se
+    distingan también con daltonismo.
+  - **Acento:** `#a14e9a`, para que la interfaz no se asocie con ninguno de los dos diarios.
 
 ## Estructura
 
@@ -177,7 +178,7 @@ tarea_1/
 ├── 02_clasificacion.ipynb    # Zero-shot, LLM, auditoría, fine-tuning y comparativa
 ├── 03_innovacion.ipynb       # Bonus: embeddings, NER y sesgo LR vs EC
 ├── app.py                    # Dashboard Streamlit
-├── paleta.py                 # Paleta Catppuccin Mocha compartida por el dashboard y los notebooks
+├── paleta.py                 # Paleta compartida por el dashboard y los notebooks
 ├── requirements.txt          # Versiones exactas
 ├── img/dashboard.jpg         # Captura del dashboard desplegado
 ├── datos/

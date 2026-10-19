@@ -112,8 +112,7 @@ tab_probador, tab_datos, tab_buscador, tab_sesgo, tab_ner = st.tabs(
 with tab_probador:
     st.subheader("Escribe o pega un titular nuevo")
     titular = st.text_input("Titular", placeholder="Ej.: BCR mantiene su tasa de referencia en 4,25 %")
-    # Secundario: Streamlit pinta blanco el texto del botón primario, ilegible sobre los acentos pastel de Catppuccin
-    if st.button("Clasificar", type="secondary", disabled=not titular.strip()):
+    if st.button("Clasificar", type="primary", disabled=not titular.strip()):
         probs = clasificar(titular.strip())
         mejor = probs.iloc[0]
         st.success(f"Categoría predicha: **{NOMBRES[mejor['categoria']]}** · probabilidad {mejor['probabilidad']:.1%}")

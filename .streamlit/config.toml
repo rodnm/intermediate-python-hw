@@ -1,30 +1,22 @@
-# Tema Catppuccin Mocha (https://catppuccin.com/palette/) para tarea_1/app.py.
-# Streamlit Community Cloud solo lee este archivo en la raíz del repositorio, por eso la app se ejecuta desde aquí:
+# Tema de tarea_1/app.py con la paleta del proyecto (tarea_1/paleta.py): rampa de #003d5c a #ffa600,
+# negro #242424 y blanco #fcfcfc. Streamlit Community Cloud solo lee este archivo en la raíz del repositorio,
+# por eso la app se ejecuta desde aquí:
 #   streamlit run tarea_1/app.py
 
 [theme]
 base = "dark"
-primaryColor = "#cba6f7"               # mauve: acento neutral, ni el rojo de LR ni el amarillo de EC
-backgroundColor = "#1e1e2e"            # base
-secondaryBackgroundColor = "#313244"   # surface0
-textColor = "#cdd6f4"                  # text
-linkColor = "#89b4fa"                  # blue
-borderColor = "#45475a"                # surface1
-dataframeBorderColor = "#45475a"
-dataframeHeaderBackgroundColor = "#313244"
+primaryColor = "#a14e9a"               # acento neutral, ni el rojo de LR ni el amarillo de EC (texto blanco 5.0:1)
+backgroundColor = "#242424"            # negro del proyecto
+secondaryBackgroundColor = "#003d5c"   # widgets
+textColor = "#fcfcfc"                  # blanco del proyecto (15:1)
+linkColor = "#ff7a47"
+borderColor = "#31497e"
+dataframeBorderColor = "#31497e"
+dataframeHeaderBackgroundColor = "#003d5c"
 
-# Colores de estado
-greenColor = "#a6e3a1"                 # green
-yellowColor = "#f9e2af"                # yellow
-redColor = "#f38ba8"                   # red
-blueColor = "#89b4fa"                  # blue
-orangeColor = "#fab387"                # peach
-violetColor = "#cba6f7"                # mauve
-grayColor = "#7f849c"                  # overlay1
-
-# Plotly: series únicas en blue; los medios usan COLORES_MEDIO de tarea_1/paleta.py
-chartCategoricalColors = ["#89b4fa", "#fab387"]
+# Plotly: series únicas en #d44c8d; los medios usan COLORES_MEDIO de tarea_1/paleta.py
+chartCategoricalColors = ["#d44c8d", "#ff7a47"]
 
 [theme.sidebar]
-backgroundColor = "#181825"            # mantle
-secondaryBackgroundColor = "#313244"   # surface0
+backgroundColor = "#003d5c"
+secondaryBackgroundColor = "#31497e"
