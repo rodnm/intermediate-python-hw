@@ -53,7 +53,7 @@
       "nota": "ablación: sin orientación, sin unwarping, sin orientación de línea"
     },
     "gemini_vlm": {
-      "modelo": "gemini-3.8-flash (respaldo gemini-3.7-flash, gemini-3.5-flash-lite)",
+      "modelo": "gemini-3.8-flash (respaldo gemini-3.6-flash, gemini-3.5-flash-lite)",
       "parametros": {
         "temperature": 0,
         "prompt": "Transcribe literalmente todo el texto visible de esta imagen, en orden de lectura. No corrijas ortografía, no resumas, no agregues nada. Si una palabra es ilegible, escribe [?]. Devuelve solo el texto."
@@ -94,10 +94,17 @@
   "llm": {
     "modelo": "gemini-3.8-flash",
     "respaldo": [
-      "gemini-3.7-flash",
+      "gemini-3.6-flash",
       "gemini-3.5-flash-lite"
     ],
     "temperature": 0
   },
-  "diarizacion": "voz.diarizar con umbral 0.7 por defecto, sin fijar n_hablantes"
+  "diarizacion": "voz.diarizar con umbral 0.7 por defecto, sin fijar n_hablantes",
+  "desviaciones": [
+    {
+      "momento": "2026-10-26 10:27",
+      "cambio": "gemini-3.7-flash reemplazado por gemini-3.6-flash como primer respaldo (OCR-VLM y extracción)",
+      "motivo": "gemini-3.8-flash y gemini-3.7-flash devolvieron 503 UNAVAILABLE (alta demanda); decidido sin ver ningún resultado"
+    }
+  ]
 }
