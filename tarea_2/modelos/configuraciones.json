@@ -1,0 +1,103 @@
+{
+  "fecha_congelado": "2026-10-26",
+  "semillas": {
+    "muestra_eval": 2026,
+    "auditoria": 2027,
+    "openslr": 7
+  },
+  "muestra": {
+    "documentos": "3 impresos + 3 fotos + 2 manuscritos s. XX + 2 manuscritos s. XIX",
+    "clips": "rec_02 (multihablante) + rec_07 (conferencia) + 4 grabaciones de Commons al azar, 1 clip >= 15 s de cada una; + 2 OpenSLR mujer + 2 OpenSLR hombre de hablantes distintos",
+    "region_eval_documentos": "40 % superior de la página (ocr.recorte_eval)"
+  },
+  "auditoria_ids": [
+    "doc_022",
+    "doc_016",
+    "doc_021",
+    "doc_011",
+    "doc_005",
+    "doc_025",
+    "doc_019",
+    "doc_007",
+    "doc_004",
+    "doc_014",
+    "clip_019",
+    "clip_026",
+    "clip_011",
+    "clip_023",
+    "clip_014",
+    "clip_016",
+    "clip_007",
+    "clip_150",
+    "clip_097",
+    "clip_059"
+  ],
+  "ocr": {
+    "paddle_base": {
+      "modelo": "PaddleOCR 3.7.0 PP-OCRv6",
+      "parametros": {
+        "lang": "es",
+        "engine": "onnxruntime"
+      },
+      "nota": "configuración por defecto de PaddleOCR (PP-OCRv6, lang=es, orientación y unwarping activos); motor onnxruntime porque en Windows el backend oneDNN de Paddle falla y sin oneDNN tarda 114 s por página"
+    },
+    "paddle_sin_geo": {
+      "modelo": "PaddleOCR 3.7.0 PP-OCRv6",
+      "parametros": {
+        "lang": "es",
+        "engine": "onnxruntime",
+        "use_doc_orientation_classify": false,
+        "use_doc_unwarping": false,
+        "use_textline_orientation": false
+      },
+      "nota": "ablación: sin orientación, sin unwarping, sin orientación de línea"
+    },
+    "gemini_vlm": {
+      "modelo": "gemini-3.8-flash (respaldo gemini-3.7-flash, gemini-3.5-flash-lite)",
+      "parametros": {
+        "temperature": 0,
+        "prompt": "Transcribe literalmente todo el texto visible de esta imagen, en orden de lectura. No corrijas ortografía, no resumas, no agregues nada. Si una palabra es ilegible, escribe [?]. Devuelve solo el texto."
+      }
+    }
+  },
+  "asr": {
+    "fw_small": {
+      "modelo": "faster-whisper small",
+      "parametros": {
+        "compute_type": "int8",
+        "device": "cpu",
+        "beam_size": 5,
+        "language": "es"
+      }
+    },
+    "fw_turbo": {
+      "modelo": "faster-whisper large-v3-turbo (mobiuslabsgmbh)",
+      "parametros": {
+        "compute_type": "int8",
+        "device": "cpu",
+        "beam_size": 5,
+        "language": "es"
+      }
+    },
+    "parakeet": {
+      "modelo": "nvidia/parakeet-tdt-0.6b-v3",
+      "parametros": {
+        "dtype": "float32",
+        "device": "cpu"
+      }
+    },
+    "comun": "mismos tramos de voz por clip (voz.tramos_de_voz, silencio_min=0.3, max_tramo=12) para los 3 modelos; 8 hilos; una pasada de calentamiento antes de medir; RTF = segundos / duración"
+  },
+  "normalizacion": "ocr.limpiar_para_metrica: quita [..], H\\d+:, dígitos -> palabras (num2words es), voz.normalizar; en WER además quita muletillas fijas (eh, em, emm, mm, mmm, ah, ehh)",
+  "metrica_oficial": "CER/WER agregado con jiwer sobre la lista de 10 (también media por archivo y por estrato)",
+  "regla_de_decision": "modelo final por modalidad = menor CER/WER agregado; si la diferencia es < 0.02, el más barato (local antes que API; menor RTF)",
+  "llm": {
+    "modelo": "gemini-3.8-flash",
+    "respaldo": [
+      "gemini-3.7-flash",
+      "gemini-3.5-flash-lite"
+    ],
+    "temperature": 0
+  },
+  "diarizacion": "voz.diarizar con umbral 0.7 por defecto, sin fijar n_hablantes"
+}
