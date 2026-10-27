@@ -1,0 +1,38 @@
+{
+  "documentos_procesados": 25,
+  "minutos_audio": 40.6,
+  "clips": 153,
+  "cer": {
+    "gemini_vlm": 0.138,
+    "paddle_base": 0.31,
+    "paddle_sin_geo": 0.323
+  },
+  "wer": {
+    "fw_small": 0.224,
+    "fw_turbo": 0.125,
+    "parakeet": 0.139
+  },
+  "rtf": {
+    "fw_small": 1.017,
+    "fw_turbo": 2.537,
+    "parakeet": 0.271
+  },
+  "linea_base": {
+    "cer": 0.31,
+    "wer": 0.224
+  },
+  "final": {
+    "ocr": "gemini_vlm",
+    "cer": 0.138,
+    "asr": "parakeet",
+    "wer": 0.139
+  },
+  "acuerdo_llm_humano": {
+    "correctas": 11,
+    "total": 20
+  },
+  "literalidad": {
+    "ok": 261,
+    "total": 273
+  }
+}
