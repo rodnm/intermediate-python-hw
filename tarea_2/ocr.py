@@ -75,15 +75,17 @@ def leer_gemini(cliente, ruta: Path, modelos: list[str]) -> dict:
     datos = ruta.read_bytes()
     ultimo = None
     for modelo in modelos:
-        for intento in range(3):
+        for intento in range(2):
             try:
                 t0 = time.perf_counter()
                 r = cliente.models.generate_content(
                     model=modelo, contents=[types.Part.from_bytes(data=datos, mime_type="image/png"), PROMPT_VLM],
                     config=types.GenerateContentConfig(temperature=0))
                 return {"texto": (r.text or "").strip(), "segundos": round(time.perf_counter() - t0, 2), "modelo": modelo}
-            except Exception as e:  # 429/503: esperar y reintentar, luego pasar al modelo de respaldo
+            except Exception as e:  # 503: pasar enseguida al respaldo; otros errores: esperar y reintentar
                 ultimo = e
+                if "503" in str(e) or "UNAVAILABLE" in str(e):
+                    break
                 time.sleep(5 * (intento + 1))
     raise RuntimeError(f"Gemini no respondió: {ultimo}")
 

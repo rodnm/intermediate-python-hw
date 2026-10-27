@@ -79,11 +79,14 @@ if modo == "Referencias":
     slr = muestra[muestra["estrato"].str.startswith("openslr")]
     if len(slr) and set(slr["id"]) <= hechos:
         with st.expander("Control de calidad (OpenSLR): tu texto contra la frase leída del corpus"):
-            import jiwer
+            import sys
+            sys.path.insert(0, str(T2))
+            from ocr import wer as wer_normalizado
             corpus_txt = pd.read_csv(RAW / "audio" / "clips_openslr.csv").set_index("id")["texto_corpus"]
             for i in slr["id"]:
                 tuyo = (REF / f"{i}.txt").read_text(encoding="utf-8").strip()
-                wer = jiwer.wer(corpus_txt[i].lower(), tuyo.lower() or "∅")
+                # misma normalización que la métrica: la puntuación y las mayúsculas no cuentan
+                wer = wer_normalizado([corpus_txt[i]], [tuyo])
                 st.write(f"**{i}** · diferencia {wer:.0%}" + (" ← volvé a escucharlo" if wer > 0.05 else ""))
 
 elif modo == "Privacidad":
@@ -100,8 +103,15 @@ elif modo == "Privacidad":
                "oficial o dirigente en conferencia · no_es_persona = falso positivo del NER")
     opciones = ["privado", "publico", "no_es_persona"]
     clases = {}
-    for k, f in cand.iterrows():
-        c1, c2 = st.columns([2, 3])
+    cand["en_audio"] = cand["ids"].str.contains("clip_")
+    st.markdown(f"**A. Candidatos que aparecen en audio ({int(cand.en_audio.sum())})** · aquí están los entrevistados: revisalos uno por uno")
+    contenedor_docs = None
+    for k, f in cand.sort_values(["en_audio", "apariciones"], ascending=[False, False]).iterrows():
+        if not f["en_audio"] and contenedor_docs is None:
+            contenedor_docs = st.expander(f"B. Candidatos solo en documentos ({int((~cand.en_audio).sum())}) · sugerencia "
+                                          "'publico' (autoridades, personajes históricos o ruido del OCR): revisá rápido")
+        zona = contenedor_docs if contenedor_docs is not None else st
+        c1, c2 = zona.columns([2, 3])
         c1.markdown(f"**{f['candidato']}** · {f['apariciones']} apariciones")
         c1.caption(f"{f['ids']}")
         if isinstance(f.get("contexto"), str) and f["contexto"]:
@@ -115,7 +125,7 @@ elif modo == "Privacidad":
     st.caption("Desmarcá lo que muestre a una persona privada identificable o datos personales, y los clips donde "
                "se oiga el nombre de una persona privada.")
     pub = st.data_editor(pub, disabled=[c for c in pub.columns if c != "publicable"], hide_index=True,
-                         use_container_width=True, key="pub")
+                         width="stretch", key="pub")
     if st.button("Guardar revisión", type="primary"):
         pd.DataFrame({"candidato": list(clases), "clase": list(clases.values())}).to_csv(ruta_r, index=False)
         pub.to_csv(ruta_p, index=False)
@@ -144,8 +154,12 @@ else:
             "- Se juzga contra el texto que leyó el LLM: los errores de OCR/ASR ya se miden con CER/WER.")
     k = st.selectbox("Caso", range(len(casos)),
                      format_func=lambda j: f"{'✅' if casos.iloc[j]['id'] in listos else '⬜'} {casos.iloc[j]['id']} · {casos.iloc[j]['modalidad']}")
+    if "guardado" in st.session_state:
+        st.success(f"Caso {st.session_state.pop('guardado')} guardado")
     caso = casos.iloc[k]
     campos = json.loads(caso["campos_json"])
+    # juicios ya guardados de este caso: se cargan en los controles para no pisarlos con los valores por defecto
+    previos = {f["campo"]: f for _, f in hecho[hecho["id"] == caso["id"]].iterrows()}
     izq, der = st.columns(2)
     izq.markdown("**Texto fuente (lo que leyó el LLM)**")
     izq.text_area("fuente", caso["texto_fuente"], height=460, disabled=True, label_visibility="collapsed")
@@ -156,14 +170,19 @@ else:
             continue
         der.markdown(f"`{campo}` → {json.dumps(valor, ensure_ascii=False)}")
         a, b = der.columns([1, 2])
+        previo = previos.get(campo)
+        nota_previa = previo["nota"] if previo is not None and isinstance(previo["nota"], str) else ""
         juicios[campo] = (a.radio(campo, ["correcto", "incorrecto"], key=f"{caso['id']}_{campo}", horizontal=True,
+                                  index=0 if previo is None or bool(previo["correcto"]) else 1,
                                   label_visibility="collapsed"),
-                          b.text_input("nota", key=f"{caso['id']}_{campo}_n", label_visibility="collapsed",
-                                       placeholder="nota si es incorrecto"))
+                          b.text_input("nota", value=nota_previa, key=f"{caso['id']}_{campo}_n",
+                                       label_visibility="collapsed", placeholder="nota si es incorrecto"))
+    if previos:
+        der.caption("Este caso ya estaba guardado: lo que ves son tus juicios anteriores.")
     if der.button("Guardar caso", type="primary"):
         nuevas = pd.DataFrame([{"id": caso["id"], "modalidad": caso["modalidad"], "campo": c,
                                 "correcto": v == "correcto", "nota": n} for c, (v, n) in juicios.items()])
         hecho = pd.concat([hecho[hecho["id"] != caso["id"]], nuevas], ignore_index=True)
         hecho.to_csv(salida, index=False)
-        st.success(f"Caso {caso['id']} guardado")
+        st.session_state["guardado"] = caso["id"]
         st.rerun()

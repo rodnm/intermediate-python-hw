@@ -1,8 +1,9 @@
 """Herramientas de la sesión 13: de audio a texto, solo con modelos abiertos y locales.
 
 Copia de sessions/13-audio-a-texto/voz.py del curso d2cml-ai/Data-Science-Python (licencia MIT,
-(c) 2025 d2cml-ai). Cambio para la Tarea 2: se agrega la clave "faster-whisper-small", la línea
-base que pide el enunciado (faster-whisper small en CPU).
+(c) 2025 d2cml-ai). Cambios para la Tarea 2: se agrega la clave "faster-whisper-small", la línea
+base que pide el enunciado (faster-whisper small en CPU), y el nombre del ejemplo de `seudonimizar`
+pasa a ser uno ficticio.
 
 Lo usan el notebook de la clase, la app de Gradio y el script de transcripción en vivo.
 Nada de lo que hay aquí envía audio a internet: los modelos se bajan una vez de Hugging Face
@@ -360,7 +361,7 @@ def a_texto(segmentos: list[Segmento]) -> str:
 def seudonimizar(texto: str, reemplazos: dict[str, str], parecido: int = 80) -> str:
     """Cambia nombres por seudónimos aunque el modelo los haya escrito mal.
 
-    'Isabel Vásquez' también atrapa 'Isabel Vázquez' (comparación difusa con rapidfuzz).
+    'Ana Torres' también atrapa 'Ana Torrez' (comparación difusa con rapidfuzz).
     Revisa siempre el resultado: ningún método automático garantiza el anonimato.
     """
     from rapidfuzz import fuzz

@@ -17,10 +17,13 @@ BORDE = "#31497e"
 TEXTO = "#fcfcfc"        # blanco (15:1 sobre el fondo)
 GRIS = "#674f95"
 
-# Un color por medio (ΔE 14.8 entre ambos con deuteranopía; 7.9:1 y 4.9:1 contra el fondo)
-COLORES_MEDIO = {"El Comercio": "#ffa600", "La Republica": "#f9596f"}
+# Colores por categoría de la Tarea 2 (tonos de la rampa con buen contraste sobre el fondo negro)
+COLORES_TIPO = {"impreso": "#ffa600", "foto": "#f9596f", "manuscrito": "#a14e9a"}
+COLORES_FUENTE = {"Wikimedia Commons": "#d44c8d", "OpenSLR 73": "#ffa600"}
+COLORES_MODELO = {"paddle_base": "#ffa600", "paddle_sin_geo": "#ff7a47", "gemini_vlm": "#a14e9a",
+                  "fw_small": "#ffa600", "fw_turbo": "#f9596f", "parakeet": "#a14e9a"}
 
-# Series que no representan a un medio (ΔE 17.2 entre ambas con deuteranopía; 3.9:1 y 6.0:1 contra el fondo)
+# Series sueltas (ΔE 17.2 entre ambas con deuteranopía; 3.9:1 y 6.0:1 contra el fondo)
 SERIE = "#d44c8d"
 CONTRASTE = "#ff7a47"
 SECUENCIAL = RAMPA[1:]  # de oscuro a claro, en el orden de la rampa

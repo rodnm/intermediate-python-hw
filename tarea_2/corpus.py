@@ -325,3 +325,26 @@ def cortar_en_clips(audio: np.ndarray, max_seg: float = 60.0, sr: int = 16_000) 
         paso = (b - a) / n
         salida += [(round(a + i * paso, 2), round(a + (i + 1) * paso, 2)) for i in range(n)]
     return salida
+
+
+def textos_de_clips(clips: pd.DataFrame, segmentos: pd.DataFrame) -> pd.DataFrame:
+    """Reparte los segmentos diarizados de cada grabación entre sus clips (por el punto medio del segmento).
+
+    Devuelve por clip: el texto con marcas [HABLANTE_n] (turnos consecutivos unidos) y cuántos hablantes hay.
+    La numeración de hablantes es la de la grabación completa: H1 es quien habla primero.
+    """
+    filas = []
+    for f in clips.itertuples():
+        s = segmentos[(segmentos.grabacion == f.grabacion)
+                      & ((segmentos.inicio + segmentos.fin) / 2 >= f.inicio_seg)
+                      & ((segmentos.inicio + segmentos.fin) / 2 < f.fin_seg)].sort_values("inicio")
+        turnos = []
+        for h, t in zip(s.hablante, s.texto):
+            marca = f"[HABLANTE_{str(h).lstrip('H')}]"
+            if turnos and turnos[-1][0] == marca:
+                turnos[-1][1].append(t)
+            else:
+                turnos.append([marca, [t]])
+        filas.append({"id": f.id, "texto_asr": " ".join(f"{m} {' '.join(x)}" for m, x in turnos),
+                      "n_hablantes": s.hablante.nunique()})
+    return pd.DataFrame(filas)
