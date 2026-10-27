@@ -124,14 +124,22 @@ Fecha de extracción: **26/10/2026**. Detalle por archivo (licencia, autor y có
 1. **Regex** para los identificadores: `[DNI]`, `[TELEFONO]`, `[CORREO]` y `[RUC]`.
 2. **NER** `mrm8488/bert-spanish-cased-finetuned-ner`: propone candidatos a nombre de persona en los OCR, los ASR, las salidas de todos los modelos y las referencias manuales.
 3. **Revisión humana** de los 146 candidatos: 39 privados, 23 públicos y 84 falsos positivos.
-4. **Reemplazo** difuso por `[PERSONA_n]`: `voz.seudonimizar` (rapidfuzz ≥ 85) y, además, las variantes con las palabras unidas o separadas de otra forma. Hubo 33 reemplazos en documentos y 28 en audio.
-5. **Chequeo de fugas** antes de cada push: cada nombre privado se busca en todos los archivos versionados, notebooks incluidos, incluso dentro de las rutas de archivo. **Resultado: 0.**
+4. **Reemplazo** por `[PERSONA_n]`:
+   - `voz.seudonimizar` (difuso, rapidfuzz ≥ 85);
+   - `privacidad.coincidencias`, que encuentra las variantes que dejan el OCR y el ASR: sin tildes, apellidos unidos o separados, apellidos sin el nombre de pila y nombres pegados a otras palabras.
 
-**Incidente declarado:** la primera versión del chequeo no veía los nombres unidos por guiones bajos ni los que el OCR escribió pegados.
-- Así quedaron en `corpus.py` tres rutas de Commons con nombres que la revisión marcó como privados. Ahora se guardan como `curid:<pageid>`.
-- Un nombre pegado de doc_010 llegó al texto que leyó el LLM, aunque no aparece en ninguna extracción.
+   Hubo 41 reemplazos en documentos y 29 en audio. El diccionario admite otras grafías de la misma persona, como el nombre tal como figura en un título de Commons.
+5. **Chequeo de fugas** antes de cada push: cada nombre privado se busca con la misma función en todos los archivos versionados, notebooks incluidos, incluso dentro de las rutas de archivo. **Resultado: 0.** Además, un verificador independiente lo volvió a revisar con un método propio: un flujo de letras sin tildes y coincidencias parciales por línea. **Resultado: 0.**
 
-Se corrigió antes del merge, pero esas versiones siguen en el historial de las ramas de los PR. En los tres casos, el nombre ya es público en el título del archivo en Commons.
+**Incidente declarado.** Las primeras versiones del chequeo no veían los nombres unidos por guiones bajos ni las variantes del OCR y del ASR:
+- En `corpus.py` había tres rutas de Commons con nombres que la revisión marcó como privados. Ahora se guardan como `curid:<pageid>`.
+- En el texto publicado y en el que leyó el LLM quedaron nombres que el OCR o el ASR escribieron pegados, partidos o sin el nombre de pila:
+  - doc_010, los titulares impresos en la foto;
+  - clip_004, un nombre que se dice en la entrevista.
+
+  Ninguna extracción del LLM los contiene.
+
+Se corrigió antes del merge, pero esas versiones siguen en el historial de las ramas de los PR. En todos los casos, el nombre ya era visible en el material publicado en Commons: el título del archivo, la foto o el audio.
 
 **Qué no se publica:**
 - los originales y los audios crudos (`datos/raw/`);
