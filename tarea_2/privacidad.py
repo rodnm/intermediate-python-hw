@@ -94,9 +94,9 @@ def coincidencias(texto: str, nombre: str, parecido: int = 85) -> list[tuple[int
     - Nombres de 2 o más palabras y 8 o más letras: ventanas de 1 a n+1 palabras comparadas sin espacios, para
       apellidos unidos o separados ("Quispeayala" / "Quispe Ayala"). Con 3 o más palabras, también los apellidos
       solos (el nombre sin la primera palabra).
-    - Nombres de 6 o más letras pegados a otras palabras o cortados en otro lugar ("dequispeayala", "anaqu ispeayala"):
-      las palabras seguidas que, unidas, los contienen. Se ignoran los tramos de más de 40 caracteres (imágenes en
-      base64 de los notebooks).
+    - Nombres de 6 o más letras pegados a otra palabra ("dequispeayala"): la palabra que los contiene. Con 8 o más
+      letras, también los cortados en otro lugar ("anaqu ispeayala"): las palabras seguidas que, unidas, los
+      contienen. Se ignoran los tramos de más de 40 caracteres (imágenes en base64 de los notebooks).
     - Cada coincidencia se recorta al tramo de mejor parecido, para no llevarse palabras vecinas.
     """
     from rapidfuzz import fuzz
@@ -113,7 +113,8 @@ def coincidencias(texto: str, nombre: str, parecido: int = 85) -> list[tuple[int
     puntaje = lambda a, b: max(fuzz.ratio(sep.join(plegadas[a:b]), o) for o in objetivos)
     tramos, i = [], 0
     while i < len(fichas):
-        contiene = next((m for m in range(1, n + 2) if len(unido) >= 6 and i + m <= len(fichas)
+        # entre palabras vecinas solo con 8 o más letras: con menos, "buscar los" ya contendría "carlos"
+        contiene = next((m for m in range(1, (n + 2) if len(unido) >= 8 else 2) if len(unido) >= 6 and i + m <= len(fichas)
                          and len(unido) < len("".join(plegadas[i:i + m])) <= 40 and unido in "".join(plegadas[i:i + m])
                          and unido not in "".join(plegadas[i + 1:i + m])), None)
         if contiene:
