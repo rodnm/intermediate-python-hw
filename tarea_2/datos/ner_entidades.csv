@@ -57,7 +57,7 @@ doc_001,documento,MISC,Filicineae
 doc_001,documento,MISC,Orchi
 doc_001,documento,LOC,Cadena de Sa kantay
 doc_001,documento,MISC,Unidad de Conservación
-doc_002,documento,ORG,El Peruano
+doc_002,documento,MISC,AÑO DE LA UNIVERSALIZACIÓN DE LA SALUD
 doc_002,documento,MISC,##cM
 doc_002,documento,MISC,Decreto Supremo
 doc_002,documento,MISC,Decreto Supremo N° O
@@ -354,11 +354,12 @@ doc_007,documento,ORG,Alfonso Ugarte Lima
 doc_007,documento,ORG,##mac
 doc_007,documento,ORG,Nacional F. B. C
 doc_007,documento,ORG,Alianza Ris
-doc_007,documento,ORG,Primeros so
+doc_007,documento,ORG,Primero
 doc_007,documento,ORG,Alianza Firpo
-doc_007,documento,ORG,Simón S
-doc_007,documento,ORG,##giolo
-doc_007,documento,ORG,Chorrillos
+doc_007,documento,ORG,[ PERSONA
+doc_007,documento,ORG,##gio
+doc_007,documento,ORG,Cho
+doc_007,documento,ORG,##rrillos
 doc_007,documento,ORG,Ayacucho Barranco
 doc_007,documento,ORG,Liber
 doc_007,documento,MISC,División Intermedia
@@ -431,33 +432,26 @@ doc_010,documento,LOC,Tele
 doc_010,documento,LOC,Gallere
 doc_010,documento,MISC,MAJESTIC
 doc_010,documento,LOC,EELUU
-doc_010,documento,LOC,RSTA BO
 doc_010,documento,LOC,##EL
+doc_010,documento,LOC,LOS
 doc_010,documento,LOC,Perú
-doc_010,documento,LOC,Popu
-doc_010,documento,MISC,COLABORACIÓN PENA
+doc_010,documento,MISC,FARSA DE LA COLABORACIÓN PENA
 doc_010,documento,ORG,PNP
-doc_010,documento,MISC,EL PAÍS
+doc_010,documento,LOC,República
 doc_010,documento,LOC,Pun
 doc_010,documento,LOC,##o
-doc_010,documento,LOC,##RE
-doc_010,documento,LOC,PÉREZ
+doc_010,documento,LOC,Uruguay
 doc_010,documento,LOC,Perú
-doc_010,documento,ORG,##F PAGL
-doc_010,documento,LOC,##LA
-doc_010,documento,MISC,##PC
-doc_010,documento,ORG,##H
+doc_010,documento,LOC,##ju
 doc_010,documento,MISC,BCKP
-doc_010,documento,MISC,Inc
-doc_010,documento,MISC,""" Lagarto """
-doc_010,documento,MISC,Caeta ANTIG
+doc_010,documento,LOC,##ier
+doc_010,documento,MISC,Caeta ANTIGUA
 doc_010,documento,MISC,C 297763 OTA
+doc_010,documento,LOC,##A
 doc_010,documento,MISC,Lava Jato
 doc_010,documento,MISC,Acu
-doc_010,documento,MISC,WWW
-doc_010,documento,MISC,##MA. COM
-doc_010,documento,MISC,SURENIT IS
-doc_010,documento,MISC,ADIÓS
+doc_010,documento,MISC,##L
+doc_010,documento,ORG,##EBRECH
 doc_010,documento,MISC,##ING
 doc_011,documento,MISC,##o
 doc_011,documento,LOC,Toledo
