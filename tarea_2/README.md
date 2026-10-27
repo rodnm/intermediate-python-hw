@@ -167,6 +167,8 @@ Los enlaces de atribución usan `?curid=<pageid>`, así ninguna URL lleva un nom
    - Con 10 documentos y 10 clips, un solo archivo (doc_014) invierte el resultado de las fotos.
    - Se evaluó el 40 % superior de cada página para que las referencias manuales fueran viables.
    - Cuando la persona marca como `[?]` lo que un modelo sí lee, el modelo queda penalizado.
+   - La decisión de ASR depende de cómo se promedia. Con el WER agregado, la métrica oficial fijada antes de medir, gana Parakeet por costo. Con la media por archivo, turbo lo supera por 0.025 y ganaría él.
+   - El CER con líneas ordenadas no logra separar el error de orden de lectura: los modelos cortan las líneas en otros lugares que la referencia y, al ordenarlas, quedan desalineadas.
    - La diarización no tiene verdad de terreno: en rec_02 detectó 1 hablante donde hay 3.
 2. **Dependencia de una API y desvío del modelo del corpus.**
    - Gemini 3.8 y 3.7 Flash estaban saturados (503). Se usaron los respaldos de la cadena congelada: 170 de 178 extracciones con `gemini-3.5-flash-lite`, y el modelo queda registrado fila por fila.
