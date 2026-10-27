@@ -48,7 +48,7 @@ DOCUMENTOS = [
      "Acta de creación de los símbolos del distrito de Mache (2023)"),
     ("doc_009", "foto", "6/69/Comunicado_horario_servicio_Lubarsa.jpg", None,
      "Foto de un comunicado impreso con el horario de una ruta de transporte (2026)"),
-    ("doc_010", "foto", "1/14/Fallecimiento_de_Yola_Polastri_Titulares_de_peri%C3%B3dicos.jpg", None,
+    ("doc_010", "foto", "curid:150148728", None,
      "Foto de titulares de periódicos en un puesto de venta (2024)"),
     ("doc_011", "foto", "6/63/Quiosco_en_Lima_%2822_de_Marzo%29.jpg", None,
      "Foto de portadas de diarios en un quiosco de Lima (2018)"),
@@ -118,9 +118,9 @@ GRABACIONES = [
     ("rec_04", "5/52/Entrevista_2.wav", "Entrevista grabada por un estudiante de la UNMSM (2)", None),
     ("rec_05", "1/10/Entrevista_3.wav", "Entrevista grabada por un estudiante de la UNMSM (3)", None),
     ("rec_06", "8/86/Entrevista_4.wav", "Entrevista grabada por un estudiante de la UNMSM (4)", None),
-    ("rec_07", "3/3e/Entrevista-Aurora_Coronado-organizaci%C3%B3n_de_mujeres_ind%C3%ADgenas-fiestas_patrias.ogg",
+    ("rec_07", "curid:121219890",
      "Dirigente de una organización de mujeres indígenas en conferencia de prensa (2022)", None),
-    ("rec_08", "9/97/Testimonio_Lucinda_Quispealaya_-_Jun%C3%ADn.ogg",
+    ("rec_08", "curid:149472732",
      "Testimonio de una mujer de Junín", None),
 ]
 
@@ -167,8 +167,29 @@ def obtener(url: str, rango: tuple[int, int] | None = None, metodo: str = "GET",
             time.sleep(3 * (intento + 1))
 
 
+def ruta_real(ruta: str) -> str:
+    """Resuelve las entradas "curid:<pageid>" a su ruta en upload.wikimedia.org.
+
+    Se usan para los archivos cuyo nombre en Commons lleva el nombre de una persona privada: así ese nombre no
+    queda en el código versionado. La respuesta de la API se guarda en datos/raw/, que no se versiona.
+    """
+    if not ruta.startswith("curid:"):
+        return ruta
+    cache = RAW / "rutas_curid.json"
+    rutas = json.loads(cache.read_text(encoding="utf-8")) if cache.exists() else {}
+    pageid = ruta.split(":", 1)[1]
+    if pageid not in rutas:
+        q = urllib.parse.urlencode({"action": "query", "format": "json", "prop": "imageinfo", "iiprop": "url",
+                                    "pageids": pageid})
+        url = json.loads(obtener(f"{API}?{q}", api=True))["query"]["pages"][pageid]["imageinfo"][0]["url"]
+        rutas[pageid] = url.split("?", 1)[0].removeprefix(COMMONS)   # la API agrega parámetros utm_* a la URL
+        cache.parent.mkdir(parents=True, exist_ok=True)
+        cache.write_text(json.dumps(rutas, ensure_ascii=False), encoding="utf-8")
+    return rutas[pageid]
+
+
 def titulo_commons(ruta: str) -> str:
-    return urllib.parse.unquote(ruta.rsplit("/", 1)[1]).replace("_", " ")
+    return urllib.parse.unquote(ruta_real(ruta).rsplit("/", 1)[1]).replace("_", " ")
 
 
 def metadatos_commons(rutas: list[str]) -> pd.DataFrame:
@@ -207,7 +228,7 @@ def descargar(ruta_commons: str, destino: Path) -> Path:
     """Descarga un archivo de Commons si todavía no está en disco."""
     destino.parent.mkdir(parents=True, exist_ok=True)
     if not destino.exists():
-        destino.write_bytes(obtener(COMMONS + ruta_commons))
+        destino.write_bytes(obtener(COMMONS + ruta_real(ruta_commons)))
     return destino
 
 
