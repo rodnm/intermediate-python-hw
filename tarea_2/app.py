@@ -6,6 +6,7 @@ Ejecutar desde la raíz del repositorio para cargar el tema:  streamlit run tare
 import difflib
 import html
 import json
+import re
 import unicodedata
 from pathlib import Path
 
@@ -184,7 +185,8 @@ with tab_aud:
         else:
             st.info("Este audio no se reproduce aquí (sin ejemplo publicable); se muestran la transcripción y los metadatos.")
         st.markdown(f"**Transcripción** · {int(a.n_hablantes)} hablante(s) detectado(s) por diarización")
-        st.markdown(str(a.texto_asr).replace("[HABLANTE_", "\n\n**[HABLANTE_").replace("]", "]**"))
+        # negrita solo en las marcas de hablante: [PERSONA_n] y [?] quedan tal cual
+        st.markdown(re.sub(r"\[HABLANTE_(\d+)\]", r"\n\n**[HABLANTE_\1]**", str(a.texto_asr)))
         cit = campos.get(i, {}).get("citas_clave", [])
         if cit:
             st.markdown("**Quién dijo qué** (citas del LLM; el hablante viene de la diarización)")

@@ -16,7 +16,7 @@ El punto débil son los manuscritos para el OCR local y la calle con varias voce
 | :--- | :--- |
 | **Autor** | Rodrigo Andrés Norabuena Mascaraqui ([@rodnm](https://github.com/rodnm)) |
 | **Curso** | Python Intermedio · Diplomatura de especialización Ciencia de Datos para las Ciencias Sociales y la Gestión Pública 2026 |
-| **App desplegada** | <https://voces-documentos-rodnm.streamlit.app> |
+| **App desplegada** | <https://voces-y-documentos-rodnm.streamlit.app> |
 | **Enunciado** | [d2cml-ai/Data-Science-Python#190](https://github.com/d2cml-ai/Data-Science-Python/issues/190) |
 | **Fuentes** | Wikimedia Commons y OpenSLR 73 (todo con licencia abierta) |
 
