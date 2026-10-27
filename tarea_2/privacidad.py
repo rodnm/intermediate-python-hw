@@ -9,6 +9,7 @@ from __future__ import annotations
 
 import re
 from collections import defaultdict
+from urllib.parse import unquote
 
 import pandas as pd
 
@@ -70,8 +71,38 @@ def diccionario(revision: pd.DataFrame) -> dict[str, str]:
     return {nombre: f"[PERSONA_{k}]" for k, nombre in enumerate(privados, 1)}
 
 
+def _tamanos_ventana(nombre: str) -> list[int]:
+    """Cuántas palabras seguidas se comparan con el nombre: n, y también n-1 y n+1 si el nombre es largo."""
+    n = len(nombre.split())
+    if n >= 2 and len(nombre.replace(" ", "")) >= 8:
+        return [n - 1, n, n + 1]
+    return [n]
+
+
+def _variantes(texto: str, nombre: str, seudonimo: str, parecido: int = 85) -> str:
+    """Reemplaza las variantes con las palabras unidas o separadas de otra forma ("Quispeayala" por "Quispe Ayala"),
+    que voz.seudonimizar no ve porque compara ventanas de exactamente n palabras."""
+    from rapidfuzz import fuzz
+    objetivo = nombre.lower().replace(" ", "")
+    for m in [t for t in _tamanos_ventana(nombre) if t != len(nombre.split())]:
+        fichas = list(re.finditer(r"[^\W_]+", texto))
+        cambios, i = [], 0
+        while i <= len(fichas) - m:
+            if fuzz.ratio("".join(f.group().lower() for f in fichas[i:i + m]), objetivo) >= parecido:
+                cambios.append((fichas[i].start(), fichas[i + m - 1].end()))
+                i += m
+            else:
+                i += 1
+        for a, b in reversed(cambios):
+            texto = texto[:a] + seudonimo + texto[b:]
+    return texto
+
+
 def seudonimizar(texto: str, reemplazos: dict[str, str]) -> tuple[str, int]:
-    """voz.seudonimizar (difuso, rapidfuzz >= 85) + identificadores. Devuelve el texto y cuántos reemplazos hubo."""
+    """voz.seudonimizar (difuso, rapidfuzz >= 85) + variantes unidas o separadas + identificadores.
+
+    Devuelve el texto y cuántos reemplazos hubo.
+    """
     from voz import seudonimizar as _seud
     if not isinstance(texto, str) or not texto:
         return texto, 0
@@ -80,6 +111,7 @@ def seudonimizar(texto: str, reemplazos: dict[str, str]) -> tuple[str, int]:
     # nombres compuestos primero, para que "Ana María Pérez" no quede a medias por "Ana María"
     for nombre in sorted(reemplazos, key=lambda n: -len(n.split())):
         salida = _seud(salida, {nombre: reemplazos[nombre]}, parecido=85)
+        salida = _variantes(salida, nombre, reemplazos[nombre])
     personas = len(re.findall(r"\[PERSONA_\d+\]", salida)) - antes
     return salida, personas + sum(conteo.values())
 
@@ -97,22 +129,29 @@ def fugas(textos: list[str], reemplazos: dict[str, str], publicos: list[str] = (
       coinciden con palabras comunes. Igual se reemplazan al seudonimizar.
     - Una sola palabra de menos de 6 letras se busca exacta: con 4 o 5 letras, el umbral difuso de 85
       ya tolera un carácter de diferencia, y una palabra de 3 letras contenida en el nombre lo activaría.
+    - El guion bajo y la codificación de URL separan palabras, como en las rutas de archivo.
+    - En nombres de 2 o más palabras y 8 o más letras se comparan también ventanas de n-1 y n+1 palabras sin
+      espacios, para que un apellido escrito junto o separado ("Quispe Ayala" / "Quispeayala") no se escape.
     """
     from rapidfuzz import fuzz
     limpios = []
     for t in textos:
+        t = unquote(t or "").replace("_", " ")
         for p in publicos:
-            t = re.sub(re.escape(p), " ", t or "", flags=re.I)
-        limpios.append(re.findall(r"\w+", t or ""))
+            t = re.sub(re.escape(p), " ", t, flags=re.I)
+        limpios.append([w.lower() for w in re.findall(r"[^\W_]+", t)])
     encontrados = []
     for nombre in reemplazos:
         n = len(nombre.split())
         if len(nombre) < 4:
             continue
         umbral = 100 if n == 1 and len(nombre) < 6 else 85
+        # ventana de n palabras: con espacios, como voz.seudonimizar; ventanas n±1: sin espacios
+        formas = [(m, " " if m == n else "", nombre.lower() if m == n else nombre.lower().replace(" ", ""))
+                  for m in _tamanos_ventana(nombre)]
         for palabras in limpios:
-            if any(fuzz.ratio(" ".join(palabras[i:i + n]).lower(), nombre.lower()) >= umbral
-                   for i in range(len(palabras) - n + 1)):
+            if any(fuzz.ratio(sep.join(palabras[i:i + m]), objetivo) >= umbral
+                   for m, sep, objetivo in formas for i in range(len(palabras) - m + 1)):
                 encontrados.append(nombre)
                 break
     return encontrados
