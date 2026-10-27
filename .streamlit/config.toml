@@ -1,7 +1,8 @@
-# Tema de tarea_1/app.py con la paleta del proyecto (tarea_1/paleta.py): rampa de #003d5c a #ffa600,
-# negro #242424 y blanco #fcfcfc. Streamlit Community Cloud solo lee este archivo en la raíz del repositorio,
-# por eso la app se ejecuta desde aquí:
+# Tema compartido por tarea_1/app.py y tarea_2/app.py, con la paleta del proyecto (paleta.py de cada tarea):
+# rampa de #003d5c a #ffa600, negro #242424 y blanco #fcfcfc. Streamlit Community Cloud solo lee este archivo
+# en la raíz del repositorio, por eso las apps se ejecutan desde aquí:
 #   streamlit run tarea_1/app.py
+#   streamlit run tarea_2/app.py
 
 [theme]
 base = "dark"
