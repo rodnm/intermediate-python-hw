@@ -28,7 +28,7 @@ rec_01,132.97,134.97,Esperamos que ganemos.,HABLANTE_2
 rec_01,134.97,136.1,Muchas gracias.,HABLANTE_1
 rec_02,0.02,5.58,Buenos días profesor y compañeros. Hoy estoy cerca de aquí por mi casa y voy a,HABLANTE_1
 rec_02,5.58,10.18,hacer entrevistas cerca del fútbol como unión de masas. Estoy con las señoras,HABLANTE_1
-rec_02,10.18,16.26,[PERSONA_1]. ¿Estáis sabarrientos? Muy bien. Voy a comenzar con la primera,HABLANTE_1
+rec_02,10.18,16.26,[PERSONA_1]. ¿Estáis [PERSONA_13]? Muy bien. Voy a comenzar con la primera,HABLANTE_1
 rec_02,16.26,22.22,pregunta y es ¿qué expectativas tienen ante este partido?,HABLANTE_1
 rec_02,22.22,30.82,Que la fisión se encuentra motivado para ganar este partido.,HABLANTE_1
 rec_02,30.82,34.39,¿Me puede decir su nombre? [PERSONA_1].,HABLANTE_1
