@@ -1,0 +1,123 @@
+1
+00:00:00,300 --> 00:00:04,980
+[HABLANTE_1] Buenas noches, soy [PERSONA_2], estudiante de Los San Marcos, ¿cuál es su nombre?
+
+2
+00:00:04,980 --> 00:00:05,980
+[HABLANTE_2] [PERSONA_4].
+
+3
+00:00:05,980 --> 00:00:10,180
+[HABLANTE_1] Señor [PERSONA_4], esta entrevista va a ser publicada en un forum de internet, ¿está de acuerdo?
+
+4
+00:00:10,180 --> 00:00:11,180
+[HABLANTE_3] Ya no, está bien.
+
+5
+00:00:11,180 --> 00:00:14,980
+[HABLANTE_1] Muy bien, la primera pregunta es ¿qué es el Perú para usted?
+
+6
+00:00:14,980 --> 00:00:21,460
+[HABLANTE_3] El Perú es mi patria, es una patria donde aún nací mis ancestros,
+
+7
+00:00:21,460 --> 00:00:34,360
+[HABLANTE_3] que nací hoyo y está ubicado en un sitio de América que está delimitado por sus fronteras.
+
+8
+00:00:34,360 --> 00:00:36,650
+[HABLANTE_3] Es de mi patria.
+
+9
+00:00:36,650 --> 00:00:41,970
+[HABLANTE_1] En toda su vida, ¿cuáles serían las principales características positivas que pueda rescatar
+
+10
+00:00:41,970 --> 00:00:43,480
+[HABLANTE_1] el Perú?
+
+11
+00:00:43,480 --> 00:00:51,260
+[HABLANTE_3] Bueno, las características serían su gastronomía, la gastronomía a nivel mundial tiene prestigio,
+
+12
+00:00:51,260 --> 00:01:00,050
+[HABLANTE_3] de muy conocido a nivel internacional, su música, también su literatura y también los grandes
+
+13
+00:01:00,050 --> 00:01:05,460
+[HABLANTE_3] científicos que ha aportado a nuestro país.
+
+14
+00:01:05,460 --> 00:01:07,580
+[HABLANTE_1] ¿Y los aspectos negativos?
+
+15
+00:01:07,580 --> 00:01:15,980
+[HABLANTE_3] Bueno, los aspectos negativos, digamos, el desempleo que hace Echa, a veces la inflación
+
+16
+00:01:15,980 --> 00:01:23,130
+[HABLANTE_3] que hemos sufrido durante años, la inflación significa aumento constante de los precios,
+
+17
+00:01:23,130 --> 00:01:27,050
+[HABLANTE_3] ese es uno de los aspectos negativos que no se quisieron controlar, no, se vivió bastante
+
+18
+00:01:27,050 --> 00:01:29,110
+[HABLANTE_3] tiempo con la inflación.
+
+19
+00:01:29,110 --> 00:01:33,270
+[HABLANTE_1] Si pudiera darle un comentario a la juventud, ¿cuál sería?
+
+20
+00:01:33,270 --> 00:01:38,410
+[HABLANTE_3] Bueno, como dice, ¿no?
+
+21
+00:01:38,410 --> 00:01:43,000
+[HABLANTE_3] ¿Por qué Estados Unidos progresan y por qué el Perú?
+
+22
+00:01:43,000 --> 00:01:50,600
+[HABLANTE_3] No, porque la gran mayoría de los países desarrollados, la mentalidad de la juventud
+
+23
+00:01:50,600 --> 00:02:00,430
+[HABLANTE_3] está ligada a la producción, pero nuestro país no necesariamente, porque el pensamiento
+
+24
+00:02:00,430 --> 00:02:05,630
+[HABLANTE_3] de la juventud a veces piensa, por ejemplo, ser literato dice la juventud, quiero ser
+
+25
+00:02:05,630 --> 00:02:12,010
+[HABLANTE_3] abogado, quiero ser periodista, pero eso no hay producción, ese no es un aspecto
+
+26
+00:02:12,010 --> 00:02:20,370
+[HABLANTE_3] que no hay producción, entonces la juventud de hoy debe pensar en lo que es la producción,
+
+27
+00:02:20,370 --> 00:02:28,970
+[HABLANTE_3] no deben seguir carreras técnicas, ingenierías, ligadas a la producción, porque solamente
+
+28
+00:02:28,970 --> 00:02:35,970
+[HABLANTE_3] con la producción, si la juventud piensa en la producción, no, como lo hace la juventud
+
+29
+00:02:35,970 --> 00:02:39,570
+[HABLANTE_3] de los Estados Unidos, como lo hace la juventud de los Estados Unidos, entonces podemos llegar
+
+30
+00:02:39,570 --> 00:02:40,570
+[HABLANTE_3] a un desarrollo.
+
+31
+00:02:40,570 --> 00:02:43,570
+[HABLANTE_1] Muchas gracias por sus palabras, felices fiestas, gracias.

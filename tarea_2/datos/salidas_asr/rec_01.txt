@@ -1,0 +1,21 @@
+[00:00:00] HABLANTE_1: Buenos días, aquí son las 10 y 28 y estoy con una señora que va a darme su opinión acerca de partido de hoy. ¿Puedes decirme su nombre por favor?
+
+[00:00:10] HABLANTE_2: [PERSONA_11].
+
+[00:00:12] HABLANTE_1: Mucho gusto, yo soy [PERSONA_7], soy alumno de la Universidad Nacional Mayor de San Marcos y le voy a hacer estas preguntas acerca del partido de hoy. ¿Qué expectativas tiene acerca de este partido? ¿Quién piensa que va a atacar más o defender?
+
+[00:00:29] HABLANTE_2: Bueno, esperamos que Perú ganemos, ¿no? Espero que Padula se eche goles.
+
+[00:00:39] HABLANTE_1: Muy bien, la siguiente pregunta es acerca de qué jugador piensa que va a ser más decisivo en este partido. Muy bien, y la tercera pregunta es acerca de cuál es el resultado que espera en este partido. ¿Quién gana y a cuánto? ¿Por cuánto?
+
+[00:01:03] HABLANTE_2: Es que esperar lo que Dios, primeramente es Dios, pero si perdemos a mí hay que esperar lo mejor, porque estamos demostrando lo mejor que pueden nuestros jugadores, ¿no?
+
+[00:01:20] HABLANTE_1: Muy bien, o sea, está diciendo que está esperando lo mínimo, no importa si ganemos 1-0 o perdamos lo más importante es Dios. Y la última pregunta, ¿qué piensa del fútbol como unión de masas? Porque como puede ver, muy pronto en muchos locales va a haber muchas personas viendo este partido. ¿Qué piensa acerca de ello?
+
+[00:01:44] HABLANTE_2: Eso es una la gente no de juntarse, o sea, tomar, hacer barras. Es decir, es de dormir arco.
+
+[00:02:00] HABLANTE_1: Muchas gracias por su opinión. Un mensaje final que desea dar.
+
+[00:02:07] HABLANTE_2: Que Perú gane. Es solo que Dios pienso. Esperamos que ganemos.
+
+[00:02:14] HABLANTE_1: Muchas gracias.

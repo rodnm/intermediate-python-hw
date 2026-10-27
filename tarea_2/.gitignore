@@ -1,0 +1,16 @@
+# Secretos
+.env
+
+# Entorno local
+.venv/
+
+# Originales, salidas crudas, referencias crudas y el diccionario de seudónimos (contiene nombres reales)
+datos/raw/
+
+# Pesos de modelos (superan el límite de 100 MB de GitHub)
+modelos/*.safetensors
+modelos/*.bin
+modelos/checkpoint-*/
+
+__pycache__/
+.ipynb_checkpoints/

@@ -1,0 +1,959 @@
+1
+00:00:00,000 --> 00:00:04,510
+[HABLANTE_1] mi nombre es [PERSONA_17].
+
+2
+00:00:04,510 --> 00:00:07,510
+[HABLANTE_2] ¿De dónde vienes? ¿Cuál es tu comunidad?
+
+3
+00:00:07,510 --> 00:00:10,540
+[HABLANTE_1] Yo vengo de la Comunidad Campesina de Shikui,
+
+4
+00:00:10,540 --> 00:00:14,740
+[HABLANTE_1] del distrito San Juan de Jarpa de la provincia de Chupaca.
+
+5
+00:00:14,740 --> 00:00:17,740
+[HABLANTE_1] Bien, como ustedes saben,
+
+6
+00:00:17,740 --> 00:00:21,740
+[HABLANTE_1] yo vengo trabajando desde muy niña en la Chakra,
+
+7
+00:00:21,740 --> 00:00:23,740
+[HABLANTE_1] conjuntamente con mis padres,
+
+8
+00:00:23,740 --> 00:00:26,740
+[HABLANTE_1] donde también me enseñaron la responsabilidad.
+
+9
+00:00:26,740 --> 00:00:29,740
+[HABLANTE_1] Con el ejemplo, me enseñaron a trabajar con dignidad
+
+10
+00:00:29,740 --> 00:00:32,740
+[HABLANTE_1] en la agricultura. Somos de la pequeña agricultura,
+
+11
+00:00:32,740 --> 00:00:37,740
+[HABLANTE_1] en donde producimos lo que es habas, papas, cebada,
+
+12
+00:00:37,740 --> 00:00:43,790
+[HABLANTE_1] y otros nos dedicamos también a la agricultura,
+
+13
+00:00:43,790 --> 00:00:46,890
+[HABLANTE_1] a la ganadería. Todos somos de auto,
+
+14
+00:00:46,890 --> 00:00:48,890
+[HABLANTE_1] consumo, los alimentos,
+
+15
+00:00:48,890 --> 00:00:53,890
+[HABLANTE_1] porque nosotros nos encontramos entre los 3800 sobre el nivel del mar.
+
+16
+00:00:53,890 --> 00:00:58,400
+[HABLANTE_1] Pero sin embargo, desde el año 2000,
+
+17
+00:00:58,400 --> 00:01:02,400
+[HABLANTE_1] nosotros veníamos promoviendo toda la agricultura sostenible,
+
+18
+00:01:02,400 --> 00:01:05,400
+[HABLANTE_1] en las cuales la agricultura sostenible,
+
+19
+00:01:05,400 --> 00:01:10,400
+[HABLANTE_1] donde vemos la parte social, vemos la parte política,
+
+20
+00:01:10,400 --> 00:01:12,400
+[HABLANTE_1] la parte cultural.
+
+21
+00:01:12,400 --> 00:01:15,400
+[HABLANTE_1] Entonces, en esas dimensiones de verdad,
+
+22
+00:01:15,400 --> 00:01:17,400
+[HABLANTE_1] que nosotros hemos hecho trabajado bastante
+
+23
+00:01:17,400 --> 00:01:20,400
+[HABLANTE_1] en las provincias de Concepción,
+
+24
+00:01:20,400 --> 00:01:22,620
+[HABLANTE_1] Chupaca y Huancayo,
+
+25
+00:01:22,620 --> 00:01:25,620
+[HABLANTE_1] y todos relacionados a lo que es basado
+
+26
+00:01:25,620 --> 00:01:28,620
+[HABLANTE_1] en la agriculofía con alimentos sanos,
+
+27
+00:01:28,620 --> 00:01:31,620
+[HABLANTE_1] y eso garantice la alimentación
+
+28
+00:01:31,620 --> 00:01:33,620
+[HABLANTE_1] del Perú y también del mundo.
+
+29
+00:01:33,620 --> 00:01:35,620
+[HABLANTE_1] La alimentación es la base fundamental,
+
+30
+00:01:35,620 --> 00:01:40,620
+[HABLANTE_1] y somos el 93% de productores de la pequeña agricultura
+
+31
+00:01:40,620 --> 00:01:43,620
+[HABLANTE_1] que nosotros subsistimos a los mercados locales,
+
+32
+00:01:43,620 --> 00:01:45,620
+[HABLANTE_1] a los mercados nacionales,
+
+33
+00:01:45,620 --> 00:01:48,620
+[HABLANTE_1] y así estamos subsistiendo
+
+34
+00:01:48,620 --> 00:01:51,620
+[HABLANTE_1] esa gran alimentación que nosotros lo tenemos.
+
+35
+00:01:51,620 --> 00:01:53,620
+[HABLANTE_1] Pensando en la agricultura familiar,
+
+36
+00:01:53,620 --> 00:01:56,620
+[HABLANTE_1] entonces la ley existe de la agricultura familiar,
+
+37
+00:01:56,620 --> 00:01:58,620
+[HABLANTE_1] entonces la reglamentación de la ley,
+
+38
+00:01:58,620 --> 00:02:00,620
+[HABLANTE_1] y yo creo que es importante también,
+
+39
+00:02:00,620 --> 00:02:03,620
+[HABLANTE_1] se podría tener lo que son los presupuestos,
+
+40
+00:02:03,620 --> 00:02:05,620
+[HABLANTE_1] los presupuestos del Ministerio de Agricultura,
+
+41
+00:02:05,620 --> 00:02:08,620
+[HABLANTE_1] y es importante que se debe desarrollarse
+
+42
+00:02:08,620 --> 00:02:11,620
+[HABLANTE_1] presupuestar en la extensión agraria
+
+43
+00:02:11,620 --> 00:02:13,620
+[HABLANTE_1] en las comunidades campesinas,
+
+44
+00:02:13,620 --> 00:02:14,620
+[HABLANTE_1] en las zonas rurales,
+
+45
+00:02:14,620 --> 00:02:16,620
+[HABLANTE_1] de donde provenimos alimentos,
+
+46
+00:02:16,620 --> 00:02:17,620
+[HABLANTE_1] y es importante,
+
+47
+00:02:17,620 --> 00:02:19,620
+[HABLANTE_1] y entonces con este COVID,
+
+48
+00:02:19,620 --> 00:02:20,620
+[HABLANTE_1] que nos ha enseñado,
+
+49
+00:02:20,620 --> 00:02:22,620
+[HABLANTE_1] y también la variación climática
+
+50
+00:02:22,620 --> 00:02:24,620
+[HABLANTE_1] que nosotros cada año lo vivimos
+
+51
+00:02:24,620 --> 00:02:26,620
+[HABLANTE_1] con este cambio climático,
+
+52
+00:02:26,620 --> 00:02:28,620
+[HABLANTE_1] está desapareciendo muchas variedades
+
+53
+00:02:28,620 --> 00:02:30,620
+[HABLANTE_1] lo que es de las semillas nativas,
+
+54
+00:02:30,620 --> 00:02:32,620
+[HABLANTE_1] como es de la papa, el amas,
+
+55
+00:02:32,620 --> 00:02:34,620
+[HABLANTE_1] el trigo y el ajos,
+
+56
+00:02:34,620 --> 00:02:36,620
+[HABLANTE_1] entonces están apareciendo otros
+
+57
+00:02:36,620 --> 00:02:38,620
+[HABLANTE_1] semillas supuestamente mejoradas,
+
+58
+00:02:38,620 --> 00:02:41,620
+[HABLANTE_1] que podría ser en este caso el trigo, el amas,
+
+59
+00:02:41,620 --> 00:02:43,620
+[HABLANTE_1] y el perdón, el ajos,
+
+60
+00:02:43,620 --> 00:02:46,620
+[HABLANTE_1] pero solamente tienen esos monocultivos,
+
+61
+00:02:46,620 --> 00:02:49,620
+[HABLANTE_1] solamente tienen una producción de un año.
+
+62
+00:02:49,620 --> 00:02:51,620
+[HABLANTE_1] Por ejemplo, yo siembro ajos,
+
+63
+00:02:51,620 --> 00:02:53,620
+[HABLANTE_1] antes yo guardaba dos, tres años
+
+64
+00:02:53,620 --> 00:02:55,620
+[HABLANTE_1] para poderlo sembrar mis ajos,
+
+65
+00:02:55,620 --> 00:02:56,620
+[HABLANTE_1] pero sí ahora,
+
+66
+00:02:56,620 --> 00:02:58,620
+[HABLANTE_1] pero ¿qué está pasando?
+
+67
+00:02:58,620 --> 00:03:01,620
+[HABLANTE_1] Esos ajos que solamente tienen una campaña,
+
+68
+00:03:01,620 --> 00:03:02,620
+[HABLANTE_1] y luego tiene que ser,
+
+69
+00:03:02,620 --> 00:03:04,620
+[HABLANTE_1] entonces con grandes encepticidas,
+
+70
+00:03:04,620 --> 00:03:06,620
+[HABLANTE_1] congicidas que unigan,
+
+71
+00:03:06,620 --> 00:03:09,620
+[HABLANTE_1] entonces nosotros queremos una alternativa
+
+72
+00:03:09,620 --> 00:03:11,620
+[HABLANTE_1] y una alimentación sana para la población,
+
+73
+00:03:11,620 --> 00:03:13,620
+[HABLANTE_1] porque nosotros garantizamos
+
+74
+00:03:13,620 --> 00:03:15,620
+[HABLANTE_1] realmente esa alimentación sana,
+
+75
+00:03:15,620 --> 00:03:17,620
+[HABLANTE_1] porque nosotros producimos
+
+76
+00:03:17,620 --> 00:03:20,620
+[HABLANTE_1] no solamente en la cantidad,
+
+77
+00:03:20,620 --> 00:03:22,620
+[HABLANTE_1] sino la calidad.
+
+78
+00:03:22,620 --> 00:03:24,620
+[HABLANTE_1] ¿Por qué la calidad?
+
+79
+00:03:24,620 --> 00:03:26,620
+[HABLANTE_1] La calidad, decimos que nosotros
+
+80
+00:03:26,620 --> 00:03:28,620
+[HABLANTE_1] con cariño sembramos,
+
+81
+00:03:28,620 --> 00:03:30,620
+[HABLANTE_1] entonces el arte de sembrar,
+
+82
+00:03:30,620 --> 00:03:32,620
+[HABLANTE_1] el arte de cultivar,
+
+83
+00:03:32,620 --> 00:03:33,620
+[HABLANTE_1] entonces por ejemplo,
+
+84
+00:03:33,620 --> 00:03:35,620
+[HABLANTE_1] tenemos en Zapallán el axotata
+
+85
+00:03:35,620 --> 00:03:37,620
+[HABLANTE_1] y en toda la zona altina
+
+86
+00:03:37,620 --> 00:03:38,620
+[HABLANTE_1] del canipaco y del punas,
+
+87
+00:03:38,620 --> 00:03:40,620
+[HABLANTE_1] tenemos también lo que es
+
+88
+00:03:40,620 --> 00:03:41,620
+[HABLANTE_1] las rayadas con las yuntas,
+
+89
+00:03:41,620 --> 00:03:43,620
+[HABLANTE_1] que con ese cariño
+
+90
+00:03:43,620 --> 00:03:44,620
+[HABLANTE_1] nosotros lo sembramos,
+
+91
+00:03:44,620 --> 00:03:46,620
+[HABLANTE_1] y bastantes costumbres culturales,
+
+92
+00:03:46,620 --> 00:03:48,620
+[HABLANTE_1] ancestrales que nosotros practicamos,
+
+93
+00:03:48,620 --> 00:03:50,620
+[HABLANTE_1] por ejemplo nosotros tenemos como combatir
+
+94
+00:03:50,620 --> 00:03:52,620
+[HABLANTE_1] lo que es la granizada,
+
+95
+00:03:52,620 --> 00:03:54,620
+[HABLANTE_1] y como combatir lo que es
+
+96
+00:03:54,620 --> 00:03:57,140
+[HABLANTE_1] varias cosas,
+
+97
+00:03:57,140 --> 00:03:59,140
+[HABLANTE_1] entonces implementando nuevos sistemas
+
+98
+00:03:59,140 --> 00:04:01,140
+[HABLANTE_1] tecnológicas que podría taparse
+
+99
+00:04:01,140 --> 00:04:03,810
+[HABLANTE_1] todo este cambio climático,
+
+100
+00:04:03,810 --> 00:04:05,810
+[HABLANTE_1] pero sin embargo,
+
+101
+00:04:05,810 --> 00:04:07,810
+[HABLANTE_1] todo ese cambio climático que nosotros
+
+102
+00:04:07,810 --> 00:04:09,810
+[HABLANTE_1] lo estamos viviendo,
+
+103
+00:04:09,810 --> 00:04:11,810
+[HABLANTE_1] y es una gran preocupación,
+
+104
+00:04:11,810 --> 00:04:13,810
+[HABLANTE_1] porque no estamos dando alternativas
+
+105
+00:04:13,810 --> 00:04:15,810
+[HABLANTE_1] y tampoco estamos recogiendo
+
+106
+00:04:15,810 --> 00:04:17,810
+[HABLANTE_1] las prácticas ancestrales
+
+107
+00:04:17,810 --> 00:04:19,810
+[HABLANTE_1] que practicamos día a día,
+
+108
+00:04:19,810 --> 00:04:21,810
+[HABLANTE_1] por ejemplo, lo que es cuando caía hielo,
+
+109
+00:04:21,810 --> 00:04:23,810
+[HABLANTE_1] nosotros hacíamos unir,
+
+110
+00:04:23,810 --> 00:04:25,810
+[HABLANTE_1] entonces en estos últimos tiempos
+
+111
+00:04:25,810 --> 00:04:27,810
+[HABLANTE_1] frecuentemente tenemos también
+
+112
+00:04:27,810 --> 00:04:29,810
+[HABLANTE_1] lo que es la escasez del agua,
+
+113
+00:04:29,810 --> 00:04:31,810
+[HABLANTE_1] y la escasez del agua está
+
+114
+00:04:31,810 --> 00:04:33,810
+[HABLANTE_1] haciéndose parte de lo que es
+
+115
+00:04:33,810 --> 00:04:35,810
+[HABLANTE_1] en la población rural
+
+116
+00:04:35,810 --> 00:04:37,810
+[HABLANTE_1] y también en la población urbana,
+
+117
+00:04:37,810 --> 00:04:39,810
+[HABLANTE_1] entonces es una gran preocupación,
+
+118
+00:04:39,810 --> 00:04:41,810
+[HABLANTE_1] yo creo que debe haber alternativas
+
+119
+00:04:41,810 --> 00:04:43,810
+[HABLANTE_1] que se debe adaptar
+
+120
+00:04:43,810 --> 00:04:45,810
+[HABLANTE_1] y trabajar en todos los niveles,
+
+121
+00:04:45,810 --> 00:04:47,810
+[HABLANTE_1] yo solo así nosotros pueden ser,
+
+122
+00:04:47,810 --> 00:04:49,810
+[HABLANTE_1] y entonces como usted me dice
+
+123
+00:04:49,810 --> 00:04:51,810
+[HABLANTE_1] es que te sientes siendo mujer del campo,
+
+124
+00:04:51,810 --> 00:04:53,810
+[HABLANTE_1] siendo mujer del campo tiene rostro
+
+125
+00:04:53,810 --> 00:04:55,810
+[HABLANTE_1] de producción, tiene rostro
+
+126
+00:04:55,810 --> 00:04:57,810
+[HABLANTE_1] lo que es el trabajo del campo,
+
+127
+00:04:57,810 --> 00:04:59,810
+[HABLANTE_1] es el trabajo de las semillas,
+
+128
+00:04:59,810 --> 00:05:01,810
+[HABLANTE_1] por ejemplo,
+
+129
+00:05:01,810 --> 00:05:03,810
+[HABLANTE_1] identificarse realmente con la producción
+
+130
+00:05:03,810 --> 00:05:05,810
+[HABLANTE_1] agrícola,
+
+131
+00:05:05,810 --> 00:05:07,810
+[HABLANTE_1] en la producción y en la ganadería,
+
+132
+00:05:07,810 --> 00:05:09,810
+[HABLANTE_1] entonces por qué decimos esto que tiene rostro,
+
+133
+00:05:09,810 --> 00:05:11,810
+[HABLANTE_1] y ahora me dirá,
+
+134
+00:05:11,810 --> 00:05:13,810
+[HABLANTE_1] porque nosotros día a día,
+
+135
+00:05:13,810 --> 00:05:15,810
+[HABLANTE_1] constantemente protegemos
+
+136
+00:05:15,810 --> 00:05:17,810
+[HABLANTE_1] y cuidamos todos los costumbres
+
+137
+00:05:17,810 --> 00:05:19,810
+[HABLANTE_1] en nuestras venas, en nuestras sangre,
+
+138
+00:05:19,810 --> 00:05:21,810
+[HABLANTE_1] llevamos toda esa sabiduría,
+
+139
+00:05:21,810 --> 00:05:23,810
+[HABLANTE_1] nosotros somos dignas de saber
+
+140
+00:05:23,810 --> 00:05:25,810
+[HABLANTE_1] de producir, y sentimos también
+
+141
+00:05:25,810 --> 00:05:27,810
+[HABLANTE_1] sumamente, y yo me siento muy feliz
+
+142
+00:05:27,810 --> 00:05:29,810
+[HABLANTE_1] porque soy productora y vengo del campo,
+
+143
+00:05:29,810 --> 00:05:31,810
+[HABLANTE_1] porque sé los alimentos que yo produzco,
+
+144
+00:05:31,810 --> 00:05:33,810
+[HABLANTE_1] y doy con cariño y comparto
+
+145
+00:05:33,810 --> 00:05:35,810
+[HABLANTE_1] con la población en general,
+
+146
+00:05:35,810 --> 00:05:37,810
+[HABLANTE_1] en donde practicamos el aire, la solidad,
+
+147
+00:05:37,810 --> 00:05:39,810
+[HABLANTE_1] la minga,
+
+148
+00:05:39,810 --> 00:05:41,810
+[HABLANTE_1] eso es lo que nosotros realmente lo hacemos.
+
+149
+00:05:41,810 --> 00:05:43,810
+[HABLANTE_1] Es importante lo que es la promoción del fondo
+
+150
+00:05:43,810 --> 00:05:45,810
+[HABLANTE_1] de la mujer rural, porque si es importante,
+
+151
+00:05:45,810 --> 00:05:47,810
+[HABLANTE_1] no basta los 10 millones
+
+152
+00:05:47,810 --> 00:05:49,810
+[HABLANTE_1] que existen, porque nosotros queremos
+
+153
+00:05:49,810 --> 00:05:51,810
+[HABLANTE_1] emprender en las mujeres rurales
+
+154
+00:05:51,810 --> 00:05:53,810
+[HABLANTE_1] varios proyectos de lo que es
+
+155
+00:05:53,810 --> 00:05:55,810
+[HABLANTE_1] emprender mujer, porque nosotros
+
+156
+00:05:55,810 --> 00:05:57,810
+[HABLANTE_1] si es realmente en las mujeres
+
+157
+00:05:57,810 --> 00:05:59,810
+[HABLANTE_1] tenemos esa capacidad de juntarnos,
+
+158
+00:05:59,810 --> 00:06:01,810
+[HABLANTE_1] entonces yo creo que no solamente
+
+159
+00:06:01,810 --> 00:06:03,810
+[HABLANTE_1] es para recibir lo que es
+
+160
+00:06:03,810 --> 00:06:05,810
+[HABLANTE_1] promover como dicen los vasos
+
+161
+00:06:05,810 --> 00:06:07,810
+[HABLANTE_1] de leyes y en otros,
+
+162
+00:06:07,810 --> 00:06:09,810
+[HABLANTE_1] lo que es el estado, sino nosotros queremos
+
+163
+00:06:09,810 --> 00:06:11,810
+[HABLANTE_1] emprender nuestro propio trabajo,
+
+164
+00:06:11,810 --> 00:06:13,810
+[HABLANTE_1] nuestro propio emprendimiento
+
+165
+00:06:13,810 --> 00:06:15,810
+[HABLANTE_1] y sabemos muy bien la migración
+
+166
+00:06:15,810 --> 00:06:17,810
+[HABLANTE_1] del campo a la ciudad, y tenemos
+
+167
+00:06:17,810 --> 00:06:19,810
+[HABLANTE_1] muchas comunidades han dejado
+
+168
+00:06:19,810 --> 00:06:21,810
+[HABLANTE_1] lo que es la existencia de
+
+169
+00:06:21,810 --> 00:06:23,810
+[HABLANTE_1] solamente están quedando los mayores,
+
+170
+00:06:23,810 --> 00:06:25,810
+[HABLANTE_1] pero lo que es
+
+171
+00:06:25,810 --> 00:06:27,810
+[HABLANTE_1] los jóvenes se están migrándose
+
+172
+00:06:27,810 --> 00:06:29,810
+[HABLANTE_1] mayormente a Estados Unidos, a otros países,
+
+173
+00:06:29,810 --> 00:06:31,810
+[HABLANTE_1] pero al final del fondo
+
+174
+00:06:31,810 --> 00:06:33,810
+[HABLANTE_1] todos los terrenos muchos se están quedándose
+
+175
+00:06:33,810 --> 00:06:35,810
+[HABLANTE_1] también así libres los terrenos,
+
+176
+00:06:35,810 --> 00:06:37,810
+[HABLANTE_1] yo creo que es importante
+
+177
+00:06:37,810 --> 00:06:39,810
+[HABLANTE_1] volver a trabajar en la
+
+178
+00:06:39,810 --> 00:06:41,810
+[HABLANTE_1] Chakra, nuestros hermanos, los jóvenes
+
+179
+00:06:41,810 --> 00:06:43,810
+[HABLANTE_1] ¿Por qué? Porque
+
+180
+00:06:43,810 --> 00:06:45,810
+[HABLANTE_1] para eso debería
+
+181
+00:06:45,810 --> 00:06:47,810
+[HABLANTE_1] de garantizarse el fondo de la mujer rural
+
+182
+00:06:47,810 --> 00:06:49,810
+[HABLANTE_1] que se debe presupuestar más,
+
+183
+00:06:49,810 --> 00:06:51,810
+[HABLANTE_1] debe tener conciencia
+
+184
+00:06:51,810 --> 00:06:53,810
+[HABLANTE_1] que realmente el Ministerio de Cultura
+
+185
+00:06:53,810 --> 00:06:55,810
+[HABLANTE_1] debe tener conciencia que realmente
+
+186
+00:06:55,810 --> 00:06:57,810
+[HABLANTE_1] deben
+
+187
+00:06:57,810 --> 00:06:59,810
+[HABLANTE_1] seguir emprendiendo a las mujeres, porque
+
+188
+00:06:59,810 --> 00:07:01,810
+[HABLANTE_1] nosotros las mujeres tenemos esa gran capacidad
+
+189
+00:07:01,810 --> 00:07:03,810
+[HABLANTE_1] de poder hacer muchos productos
+
+190
+00:07:03,810 --> 00:07:05,810
+[HABLANTE_1] y dar valor agregado a nuestros productos
+
+191
+00:07:05,810 --> 00:07:07,810
+[HABLANTE_1] que realmente podemos hacer
+
+192
+00:07:07,810 --> 00:07:09,810
+[HABLANTE_1] por ejemplo, las variedades de papa,
+
+193
+00:07:09,810 --> 00:07:11,810
+[HABLANTE_1] las papas nativas, la papa laí
+
+194
+00:07:11,810 --> 00:07:13,810
+[HABLANTE_1] otras cosas las abastostadas, las canchas
+
+195
+00:07:13,810 --> 00:07:15,810
+[HABLANTE_1] tostadas, entonces volver a
+
+196
+00:07:15,810 --> 00:07:17,810
+[HABLANTE_1] también a hacer nuestros productos
+
+197
+00:07:17,810 --> 00:07:19,810
+[HABLANTE_1] que realmente si no lo necesitamos
+
+198
+00:07:19,810 --> 00:07:21,810
+[HABLANTE_1] entonces viendo todo este cambio climático
+
+199
+00:07:21,810 --> 00:07:23,810
+[HABLANTE_1] viendo toda esta crisis alimentaria
+
+200
+00:07:23,810 --> 00:07:25,810
+[HABLANTE_1] es importante que
+
+201
+00:07:25,810 --> 00:07:27,810
+[HABLANTE_1] también emprendemos todo
+
+202
+00:07:27,810 --> 00:07:29,810
+[HABLANTE_1] las mujeres tenemos esa garantía
+
+203
+00:07:29,810 --> 00:07:31,810
+[HABLANTE_1] y las mujeres quienes cuidamos
+
+204
+00:07:31,810 --> 00:07:33,810
+[HABLANTE_1] y las mujeres quienes alimentamos a nuestros hijos
+
+205
+00:07:33,810 --> 00:07:35,810
+[HABLANTE_1] y sabemos la vivencia
+
+206
+00:07:35,810 --> 00:07:37,810
+[HABLANTE_1] como pasamos en la escuela, en el colegio
+
+207
+00:07:37,810 --> 00:07:39,810
+[HABLANTE_1] y entonces se deben
+
+208
+00:07:39,810 --> 00:07:41,810
+[HABLANTE_1] incentivar también las loncheras escolares
+
+209
+00:07:41,810 --> 00:07:43,810
+[HABLANTE_1] dando ese incentivo
+
+210
+00:07:43,810 --> 00:07:45,810
+[HABLANTE_1] dando trabajo a las mujeres
+
+211
+00:07:45,810 --> 00:07:47,810
+[HABLANTE_1] y también finalmente
+
+212
+00:07:47,810 --> 00:07:49,810
+[HABLANTE_1] yo quería dar un mensaje
+
+213
+00:07:49,810 --> 00:07:51,810
+[HABLANTE_1] a los jóvenes, incentivar a los jóvenes
+
+214
+00:07:51,810 --> 00:07:53,810
+[HABLANTE_1] que realmente la agricultura
+
+215
+00:07:53,810 --> 00:07:56,030
+[HABLANTE_1] es sano
+
+216
+00:07:56,030 --> 00:07:58,030
+[HABLANTE_1] porque se viviendo en el campo
+
+217
+00:07:58,030 --> 00:08:00,030
+[HABLANTE_1] compartiendo con la chakra
+
+218
+00:08:00,030 --> 00:08:02,030
+[HABLANTE_1] y con los animales, nosotros no hay
+
+219
+00:08:02,030 --> 00:08:04,030
+[HABLANTE_1] nada, respetando a nuestra cosmovisión andina
+
+220
+00:08:04,030 --> 00:08:06,030
+[HABLANTE_1] y como decimos
+
+221
+00:08:06,030 --> 00:08:08,030
+[HABLANTE_1] el buen vivir
+
+222
+00:08:08,030 --> 00:08:10,030
+[HABLANTE_1] nosotros nos sentimos es volver
+
+223
+00:08:10,030 --> 00:08:12,030
+[HABLANTE_1] a reunirnos, es volver también
+
+224
+00:08:12,030 --> 00:08:14,030
+[HABLANTE_1] a recuperar nuestro costumbre, nuestra cultura
+
+225
+00:08:14,030 --> 00:08:16,030
+[HABLANTE_1] porque nos han dejado nuestros ancestros
+
+226
+00:08:16,030 --> 00:08:18,030
+[HABLANTE_1] nuestros padres
+
+227
+00:08:18,030 --> 00:08:20,030
+[HABLANTE_1] realmente que si se debe respetar
+
+228
+00:08:20,030 --> 00:08:22,030
+[HABLANTE_1] lo que nos han dejado, toda esa cultura
+
+229
+00:08:22,030 --> 00:08:24,030
+[HABLANTE_1] toda esa tradición, toda esa sabedoria
+
+230
+00:08:24,030 --> 00:08:26,030
+[HABLANTE_1] es algo profundo
+
+231
+00:08:26,030 --> 00:08:28,030
+[HABLANTE_1] que realmente se trabaja
+
+232
+00:08:28,030 --> 00:08:30,030
+[HABLANTE_1] y también se trabaja una conexión
+
+233
+00:08:30,030 --> 00:08:32,030
+[HABLANTE_1] grandemente con la naturaleza
+
+234
+00:08:32,030 --> 00:08:34,030
+[HABLANTE_1] donde todo es vida
+
+235
+00:08:34,030 --> 00:08:36,030
+[HABLANTE_1] y toda esa alegría
+
+236
+00:08:36,030 --> 00:08:38,030
+[HABLANTE_1] y también es garantía
+
+237
+00:08:38,030 --> 00:08:40,030
+[HABLANTE_1] y también hay lo que podemos
+
+238
+00:08:40,030 --> 00:08:42,030
+[HABLANTE_1] garantizar nuestra alimentación
+
+239
+00:08:42,030 --> 00:08:44,030
+[HABLANTE_1] para nosotros, para el Perú y para el mundo
+
+240
+00:08:44,030 --> 00:08:46,030
+[HABLANTE_3] gracias

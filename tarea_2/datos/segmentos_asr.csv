@@ -1,0 +1,500 @@
+grabacion,inicio,fin,texto,hablante
+rec_01,0.34,8.34,"Buenos días, aquí son las 10 y 28 y estoy con una señora que va a darme su opinión acerca de partido de hoy.",HABLANTE_1
+rec_01,8.34,10.34,¿Puedes decirme su nombre por favor?,HABLANTE_1
+rec_01,10.34,12.34,[PERSONA_11].,HABLANTE_2
+rec_01,12.34,18.34,"Mucho gusto, yo soy [PERSONA_7], soy alumno de la Universidad Nacional Mayor de San Marcos",HABLANTE_1
+rec_01,18.34,22.34,y le voy a hacer estas preguntas acerca del partido de hoy.,HABLANTE_1
+rec_01,22.34,26.34,¿Qué expectativas tiene acerca de este partido?,HABLANTE_1
+rec_01,26.34,29.34,¿Quién piensa que va a atacar más o defender?,HABLANTE_1
+rec_01,29.34,34.33,"Bueno, esperamos que Perú ganemos, ¿no?",HABLANTE_2
+rec_01,34.33,39.71,Espero que Padula se eche goles.,HABLANTE_2
+rec_01,39.71,47.71,"Muy bien, la siguiente pregunta es acerca de qué jugador piensa que va a ser más decisivo en este partido.",HABLANTE_1
+rec_01,47.71,60.28,"Muy bien, y la tercera pregunta es acerca de cuál es el resultado que espera en este partido.",HABLANTE_1
+rec_01,60.28,62.28,¿Quién gana y a cuánto?,HABLANTE_1
+rec_01,62.28,63.28,¿Por cuánto?,HABLANTE_1
+rec_01,63.28,75.55,"Es que esperar lo que Dios, primeramente es Dios, pero si perdemos a mí hay que esperar lo mejor,",HABLANTE_2
+rec_01,75.55,80.55,"porque estamos demostrando lo mejor que pueden nuestros jugadores, ¿no?",HABLANTE_2
+rec_01,80.55,89.55,"Muy bien, o sea, está diciendo que está esperando lo mínimo, no importa si ganemos 1-0 o perdamos lo más importante es Dios.",HABLANTE_1
+rec_01,89.55,95.55,"Y la última pregunta, ¿qué piensa del fútbol como unión de masas?",HABLANTE_1
+rec_01,95.55,102.55,"Porque como puede ver, muy pronto en muchos locales va a haber muchas personas viendo este partido.",HABLANTE_1
+rec_01,102.55,104.55,¿Qué piensa acerca de ello?,HABLANTE_1
+rec_01,104.55,117.6,"Eso es una la gente no de juntarse, o sea, tomar, hacer barras.",HABLANTE_2
+rec_01,117.6,120.3,"Es decir, es de dormir arco.",HABLANTE_2
+rec_01,120.3,124.42,Muchas gracias por su opinión.,HABLANTE_1
+rec_01,124.42,127.42,Un mensaje final que desea dar.,HABLANTE_1
+rec_01,127.42,129.42,Que Perú gane.,HABLANTE_2
+rec_01,129.68,132.97,Es solo que Dios pienso.,HABLANTE_2
+rec_01,132.97,134.97,Esperamos que ganemos.,HABLANTE_2
+rec_01,134.97,136.1,Muchas gracias.,HABLANTE_1
+rec_02,0.02,5.58,Buenos días profesor y compañeros. Hoy estoy cerca de aquí por mi casa y voy a,HABLANTE_1
+rec_02,5.58,10.18,hacer entrevistas cerca del fútbol como unión de masas. Estoy con las señoras,HABLANTE_1
+rec_02,10.18,16.26,[PERSONA_1]. ¿Estáis [PERSONA_13]? Muy bien. Voy a comenzar con la primera,HABLANTE_1
+rec_02,16.26,22.22,pregunta y es ¿qué expectativas tienen ante este partido?,HABLANTE_1
+rec_02,22.22,30.82,Que la fisión se encuentra motivado para ganar este partido.,HABLANTE_1
+rec_02,30.82,34.39,¿Me puede decir su nombre? [PERSONA_1].,HABLANTE_1
+rec_02,34.39,40.83,"La expectativa que pienso es que acá que el Perú va a dar todo por todo, todo su corazón va a",HABLANTE_1
+rec_02,40.83,46.95,entregar para que ganemos ¿no? para que seamos ganemos este para ir a las,HABLANTE_1
+rec_02,46.95,51.34,olimpiadas al Mundial. ¿Me puede decir este su nombre?,HABLANTE_1
+rec_02,51.34,58.46,[PERSONA_5]. Bien. Sigo con la siguiente pregunta ¿Qué jugador piensa que va a,HABLANTE_1
+rec_02,58.46,63.06,ser más determinante? Antes de que diga su respuesta dígame su nombre por,HABLANTE_1
+rec_02,63.06,69.2,favor. [PERSONA_1]. La padula. ¿Por qué?,HABLANTE_1
+rec_02,69.2,78.35,Porque ha demostrado su fuerza y su barra para para jugar y ha metido unos,HABLANTE_1
+rec_02,78.35,83.63,cuantos goles. Muy bien. Sigo con la siguiente señora.,HABLANTE_1
+rec_02,83.63,88.43,[PERSONA_5]. Para mí sería la la padula con cueva ¿no? porque los dos,HABLANTE_1
+rec_02,88.51,94.27,han hecho un duo y la padula más para que demuestre que tiene el corazón más peruano,HABLANTE_1
+rec_02,94.27,101.42,quitaliano. Muchas gracias. Sigo con la siguiente. Sigo con la pregunta y antes de,HABLANTE_1
+rec_02,101.42,107.18,empezar con ella puedo decir que han destacado la padula más ¿no? y la,HABLANTE_1
+rec_02,107.18,112.34,siguiente pregunta es ¿Cuál es el resultado de hoy? ¿Cuál piensa que va a,HABLANTE_1
+rec_02,112.34,118.71,ser el resultado de hoy? [PERSONA_1]. Dos cero.,HABLANTE_1
+rec_02,118.71,125.62,"Sigo con la siguiente señorita ¿Señora? [PERSONA_5]. Dos cero, para la que sea",HABLANTE_1
+rec_02,125.62,132.01,dos cero. Veo que ambas han dicho el mismo resultado y esperemos que sea,HABLANTE_1
+rec_02,132.01,141.28,así. Y la última pregunta ¿Qué opina del fútbol acerca como factor de,HABLANTE_1
+rec_02,141.28,155.06,"unión de masas? [PERSONA_1], deporte, apasiona a todos los peruanos tanto como",HABLANTE_1
+rec_02,155.06,162.13,fuera del país también y es este un deporte que une a toda la familia a,HABLANTE_1
+rec_02,162.13,168.24,todas las amistades generales. Muchas gracias y ya finalizando su,HABLANTE_1
+rec_02,168.24,173.65,comentario final. Esa va [PERSONA_13]. Hace que la gente se,HABLANTE_1
+rec_02,173.65,182.69,una. No hay distinción de raza ni religión ¿no? Por que todos sean unidos y que el deporte,HABLANTE_1
+rec_02,182.69,188.65,siga adelante. Gracias. Muchas gracias con esto termina la entrevista.,HABLANTE_1
+rec_03,0.0,7.13,"Buenas noches, primeramente es mi nombre [PERSONA_2], soy estudiante de la Universidad San Marcos.",HABLANTE_1
+rec_03,7.13,9.7,"A ver un momento, por favor.",HABLANTE_1
+rec_03,9.7,11.7,Yo te voy a decir la verdad.,HABLANTE_2
+rec_03,11.7,13.7,"Sí, no, está bien, es lo que yo busco.",HABLANTE_1
+rec_03,13.7,15.99,"A ver, buenas noches.",HABLANTE_1
+rec_03,15.99,19.99,"Sí, buenas noches, mi nombre [PERSONA_2], soy estudiante de la Universidad San Marcos.",HABLANTE_1
+rec_03,19.99,20.99,¿Cómo se llama usted?,HABLANTE_1
+rec_03,20.99,22.99,[PERSONA_12].,HABLANTE_2
+rec_03,22.99,26.99,"Señor [PERSONA_16], esta entrevista va a ser publicada en un foro de internet, ¿está de acuerdo?",HABLANTE_1
+rec_03,26.99,27.99,"Exacto, sí.",HABLANTE_2
+rec_03,27.99,29.99,"Muy bien, ¿qué es el Perú para usted?",HABLANTE_1
+rec_03,29.99,34.31,El Perú es un país con mucha historia.,HABLANTE_2
+rec_03,34.31,37.31,"Bueno, el lugar donde yo nací, y me gusta.",HABLANTE_2
+rec_03,37.31,42.82,¿Cuáles serían los principales aspectos positivos que rescata el Perú?,HABLANTE_1
+rec_03,42.82,55.66,"Mira, realmente en el Perú, aunque tengas problemas, ya sea del poder judicial o de todo el sistema en sí,",HABLANTE_2
+rec_03,55.66,63.66,yo pienso que para mí lo beneficioso de este país es la enseñanza que nos da cómo ganarnos el dinero.,HABLANTE_2
+rec_03,63.66,69.66,"Porque como yo lo veo, este es un país, créame, muy rico, que yo no sé cómo hace la gente,",HABLANTE_2
+rec_03,69.66,76.66,"pero aquí la gente tiene dinero, pero no lo sabe cómo realmente ahorrarlo o conservarlo.",HABLANTE_2
+rec_03,77.66,82.66,"Donde yo vengo, créeme, tengo que venir acá a inspirarme para llevarme lo que yo veo aquí",HABLANTE_2
+rec_03,82.66,85.66,para poder ganarme todo el dinero allá en Estados Unidos.,HABLANTE_2
+rec_03,85.66,93.76,¿Y cuáles serían las principales negatividades que encuentran el Perú?,HABLANTE_1
+rec_03,93.76,100.82,"Faltaría así que toda la gente tuviera más respeto, por ejemplo, con la policía.",HABLANTE_2
+rec_03,100.82,105.82,"Aunque yo entiendo que hay muchos elementos malos, pero hay muchos elementos buenos, muy buenos.",HABLANTE_2
+rec_03,105.82,107.95,Esas son las cosas negativas para mí.,HABLANTE_2
+rec_03,107.95,110.11,"Después, ¿qué te digo?",HABLANTE_2
+rec_03,110.11,116.85,"Yo creo que si todos nos educamos, ya sea desde la familia que empiece la educación",HABLANTE_2
+rec_03,116.85,121.85,"para que nuestros hijos, los que vienen del mañana, tengan un comportamiento positivo",HABLANTE_2
+rec_03,121.85,126.68,"con la sociedad, con la gente, y hagan las cosas bien.",HABLANTE_2
+rec_03,126.68,130.68,"Si usted pudiese enviarle un mensaje a esos jóvenes, ¿cuál sería?",HABLANTE_1
+rec_03,130.68,137.68,"Mira, yo les deseo realmente y el mensaje que le daría a los jóvenes ahora",HABLANTE_2
+rec_03,137.68,140.68,"y tal vez funcione aquí, pero funcione en Estados Unidos.",HABLANTE_2
+rec_03,140.68,145.84,"Por ejemplo, punto número uno, estudia y aprende todo lo que puedas,",HABLANTE_2
+rec_03,145.84,149.84,"porque mientras más sabes, más después de desarrollar en muchos trabajos.",HABLANTE_2
+rec_03,149.84,153.84,"No solamente si estudias una cosa, no solamente si no hay trabajo en eso",HABLANTE_2
+rec_03,153.84,156.1,"y si no hay, te vas a morir de a menos.",HABLANTE_2
+rec_03,156.1,161.1,"En lo que yo hago, por ejemplo, tengo diversidad de habilidades, ¿me entiendes?",HABLANTE_2
+rec_03,161.1,163.1,Si encuentro esto o si encuentro el otro.,HABLANTE_2
+rec_03,163.1,166.1,"Aparte, yo daría tres consejos.",HABLANTE_2
+rec_03,166.1,169.19,"Punto número uno, no prestes dinero.",HABLANTE_2
+rec_03,169.19,172.19,"Punto número dos, no seas aval de nadie.",HABLANTE_2
+rec_03,172.19,175.19,"Y punto número tres, ahorra tu dinero.",HABLANTE_2
+rec_03,175.19,179.19,"Es que si quieres ayudar a alguien, ayúdate a ti mismo.",HABLANTE_2
+rec_03,179.19,183.19,"Si quieres sentir pena por alguien, siente pena por ti, no por nadie.",HABLANTE_2
+rec_03,183.19,187.19,"A la finales, si ayudas a alguien, lo ayudes,",HABLANTE_2
+rec_03,187.19,191.19,"igual se van a quejar de ti, por ayudar y por no ayudar.",HABLANTE_2
+rec_03,191.19,193.19,Muchas gracias por sus palabras. Feliz de fiestas.,HABLANTE_1
+rec_03,193.19,198.19,Feliz de fiestas.,HABLANTE_2
+rec_04,0.62,6.87,Nos encontramos aquí.,HABLANTE_1
+rec_04,6.87,14.29,"Buenas noches, nos encontramos aquí con el señor [PERSONA_15].",HABLANTE_1
+rec_04,14.29,20.29,"Señor [PERSONA_14], esta entrevista va a ser subida en internet, ¿está usted de acuerdo con eso?",HABLANTE_1
+rec_04,20.29,26.58,"Sí, muchas gracias. La primera pregunta es, ¿qué significa el Perú para usted?",HABLANTE_1
+rec_04,26.58,28.8,¿Qué significa el Perú?,HABLANTE_2
+rec_04,28.8,36.93,"Yo pienso que para cada Perú el Perú debe significar casi todo porque en la tierra donde estamos,",HABLANTE_2
+rec_04,36.93,45.34,"si lo vemos en aspecto geográfico, en lo cual, a pesar de nuestras descendencias,",HABLANTE_2
+rec_04,45.34,51.6,"de todas nuestras descendencias es la tierra que nos acoge, que es ese límite que se llama Perú.",HABLANTE_2
+rec_04,51.6,57.6,"En el Perú, ¿cuáles serían las características positivas más resaltantes que usted puede notar?",HABLANTE_1
+rec_04,57.6,67.6,"Las características que cada vez vamos avanzando de poco a poco, como por ejemplo que no podemos comparar la época del rey nato con la actualidad,",HABLANTE_2
+rec_04,67.6,74.6,"cada momento avanzando, son características que vas desarrollando.",HABLANTE_2
+rec_04,74.6,78.6,¿Y cuáles serían las características negativas que usted puede observar?,HABLANTE_1
+rec_04,78.6,92.19,"Indudablemente las malas funciones que hacen nuestras autoridades, si lo vemos en el lado político, la corrupción, todo eso.",HABLANTE_2
+rec_04,92.19,95.42,"Muchas gracias, señor. Feliz de fiestas, padre.",HABLANTE_1
+rec_05,0.85,6.85,"Buenas noches, soy [PERSONA_8], estudiante de Los San Marcos.",HABLANTE_1
+rec_05,6.85,10.85,"Esta entrevista va a ser registrada en internet, ¿está de acuerdo usted?",HABLANTE_1
+rec_05,10.85,11.85,"Sí, estoy de acuerdo.",HABLANTE_2
+rec_05,11.85,12.85,Muy bien.,HABLANTE_1
+rec_05,12.85,14.85,"Para usted, ¿qué es el Perú?",HABLANTE_1
+rec_05,14.85,20.0,"Pues yo no soy peruano, entrada.",HABLANTE_3
+rec_05,20.0,26.19,"Pero Perú, yo creo que junto con México los dos países que más historia tienen,",HABLANTE_3
+rec_05,26.19,31.74,"más cultura y más restos de civilizaciones prehispánicas,",HABLANTE_3
+rec_05,31.74,37.74,"más ciudades coloniales, mucho más riquezas de cultura, de todo.",HABLANTE_3
+rec_05,37.74,39.74,En América me parece que son los dos más ricos.,HABLANTE_3
+rec_05,39.74,40.86,Muchas gracias.,HABLANTE_1
+rec_05,40.86,45.86,"¿Y usted en su estadía en Perú, cuáles son las principales características positivas que podría destacar?",HABLANTE_1
+rec_05,45.86,49.34,La gente es increíblemente amable.,HABLANTE_3
+rec_05,49.34,51.34,"Lima, por ejemplo, me parece que no ha sido muy ordenada.",HABLANTE_3
+rec_05,51.34,52.34,¡Ah!,HABLANTE_4
+rec_05,52.34,53.34,¡Ah!,HABLANTE_5
+rec_05,53.34,55.34,El hotel es muy bien organizada.,HABLANTE_3
+rec_05,55.34,58.34,Yo apenas un día entonces no te puedo decir mucho más de eso.,HABLANTE_3
+rec_05,58.34,63.21,"En ese día, ¿cuál sería el aspecto más negativo que notó?",HABLANTE_1
+rec_05,63.21,67.27,Pues aquí en Lima el servicio es muy lento.,HABLANTE_3
+rec_05,67.27,70.53,El servicio es terriblemente lento en los restaurantes.,HABLANTE_3
+rec_05,70.53,72.53,"Pero digo, eso no es que sea tan negativo,",HABLANTE_3
+rec_05,72.53,75.53,por lo único negativo que puedo decir de Lima en realidad.,HABLANTE_3
+rec_05,75.53,76.53,"Muchas gracias, señor.",HABLANTE_1
+rec_05,76.53,77.53,¡Felices fiestas!,HABLANTE_1
+rec_06,0.3,4.98,"Buenas noches, soy [PERSONA_2], estudiante de Los San Marcos, ¿cuál es su nombre?",HABLANTE_1
+rec_06,4.98,5.98,[PERSONA_4].,HABLANTE_2
+rec_06,5.98,10.18,"Señor [PERSONA_4], esta entrevista va a ser publicada en un forum de internet, ¿está de acuerdo?",HABLANTE_1
+rec_06,10.18,11.18,"Ya no, está bien.",HABLANTE_3
+rec_06,11.18,14.98,"Muy bien, la primera pregunta es ¿qué es el Perú para usted?",HABLANTE_1
+rec_06,14.98,21.46,"El Perú es mi patria, es una patria donde aún nací mis ancestros,",HABLANTE_3
+rec_06,21.46,34.36,que nací hoyo y está ubicado en un sitio de América que está delimitado por sus fronteras.,HABLANTE_3
+rec_06,34.36,36.65,Es de mi patria.,HABLANTE_3
+rec_06,36.65,41.97,"En toda su vida, ¿cuáles serían las principales características positivas que pueda rescatar",HABLANTE_1
+rec_06,41.97,43.48,el Perú?,HABLANTE_1
+rec_06,43.48,51.26,"Bueno, las características serían su gastronomía, la gastronomía a nivel mundial tiene prestigio,",HABLANTE_3
+rec_06,51.26,60.05,"de muy conocido a nivel internacional, su música, también su literatura y también los grandes",HABLANTE_3
+rec_06,60.05,65.46,científicos que ha aportado a nuestro país.,HABLANTE_3
+rec_06,65.46,67.58,¿Y los aspectos negativos?,HABLANTE_1
+rec_06,67.58,75.98,"Bueno, los aspectos negativos, digamos, el desempleo que hace Echa, a veces la inflación",HABLANTE_3
+rec_06,75.98,83.13,"que hemos sufrido durante años, la inflación significa aumento constante de los precios,",HABLANTE_3
+rec_06,83.13,87.05,"ese es uno de los aspectos negativos que no se quisieron controlar, no, se vivió bastante",HABLANTE_3
+rec_06,87.05,89.11,tiempo con la inflación.,HABLANTE_3
+rec_06,89.11,93.27,"Si pudiera darle un comentario a la juventud, ¿cuál sería?",HABLANTE_1
+rec_06,93.27,98.41,"Bueno, como dice, ¿no?",HABLANTE_3
+rec_06,98.41,103.0,¿Por qué Estados Unidos progresan y por qué el Perú?,HABLANTE_3
+rec_06,103.0,110.6,"No, porque la gran mayoría de los países desarrollados, la mentalidad de la juventud",HABLANTE_3
+rec_06,110.6,120.43,"está ligada a la producción, pero nuestro país no necesariamente, porque el pensamiento",HABLANTE_3
+rec_06,120.43,125.63,"de la juventud a veces piensa, por ejemplo, ser literato dice la juventud, quiero ser",HABLANTE_3
+rec_06,125.63,132.01,"abogado, quiero ser periodista, pero eso no hay producción, ese no es un aspecto",HABLANTE_3
+rec_06,132.01,140.37,"que no hay producción, entonces la juventud de hoy debe pensar en lo que es la producción,",HABLANTE_3
+rec_06,140.37,148.97,"no deben seguir carreras técnicas, ingenierías, ligadas a la producción, porque solamente",HABLANTE_3
+rec_06,148.97,155.97,"con la producción, si la juventud piensa en la producción, no, como lo hace la juventud",HABLANTE_3
+rec_06,155.97,159.57,"de los Estados Unidos, como lo hace la juventud de los Estados Unidos, entonces podemos llegar",HABLANTE_3
+rec_06,159.57,160.57,a un desarrollo.,HABLANTE_3
+rec_06,160.57,163.57,"Muchas gracias por sus palabras, felices fiestas, gracias.",HABLANTE_1
+rec_07,0.05,7.05,"Bueno, hola, estamos en la San Martín, entre Fritas Patreas, 28 de julio.",HABLANTE_1
+rec_07,7.05,10.05,"Entonces, primero podría comenzarme diciéndome su nombre, por favor.",HABLANTE_1
+rec_07,10.05,12.05,Mi nombre es [PERSONA_6].,HABLANTE_2
+rec_07,12.05,15.05,"[PERSONA_6], bien. Primera pregunta por usted.",HABLANTE_1
+rec_07,15.05,17.11,"Para usted, ¿qué significa el Perú?",HABLANTE_1
+rec_07,17.11,19.11,"Bueno, el Perú es mi país donde nacido.",HABLANTE_2
+rec_07,19.11,26.11,Amo mucho porque acá vivo tengo todo lo que necesito y adoro mi país.,HABLANTE_2
+rec_07,26.11,30.11,Es mi patria. Es un territorio donde nosotros vivimos.,HABLANTE_2
+rec_07,30.11,32.11,"Por ejemplo, yo soy de la selva central.",HABLANTE_2
+rec_07,32.11,35.11,"Amo mi territorio porque de ahí vivo, de ahí como.",HABLANTE_2
+rec_07,35.11,38.11,"Tengo mi medicina, mis plantas ancestrales.",HABLANTE_2
+rec_07,38.11,42.11,Tengo mi cultura y mi identidad también.,HABLANTE_2
+rec_07,42.11,46.11,"¿En qué momento diría usted que se dio cuenta de que era peruana,",HABLANTE_1
+rec_07,46.11,48.11,que sintió que era peruana?,HABLANTE_1
+rec_07,48.11,50.11,"Bueno, creo que desde que nacido siempre, no.",HABLANTE_2
+rec_07,50.11,55.11,"Nuestros padres nos han inculcado que siempre el 28 de julio,",HABLANTE_2
+rec_07,55.11,61.11,"el día de la independencia, desde muy pequeños, lo celebrabamos.",HABLANTE_2
+rec_07,61.11,64.11,"No solamente con alimentación, sino que era nuestro Perú",HABLANTE_2
+rec_07,64.11,66.11,y que nos compraban ropa nueva.,HABLANTE_2
+rec_07,66.11,68.11,"Me acuerdo de pequeños, una fiesta.",HABLANTE_2
+rec_07,68.11,70.11,Era una fiesta para nosotros.,HABLANTE_2
+rec_07,70.11,73.11,Yo creo que eso se ha perdido un poco para la tradición,HABLANTE_2
+rec_07,73.11,76.11,porque algunos nos compraban hasta juguetes también.,HABLANTE_2
+rec_07,76.11,80.11,"Era como Navidad, 28 de julio, y nos compraban ropa.",HABLANTE_2
+rec_07,80.11,83.11,Era hoy y era la fiesta y que íbamos a los desfiles,HABLANTE_2
+rec_07,83.11,86.11,en nuestra zona donde vivimos.,HABLANTE_2
+rec_07,86.11,89.11,"Muy bonito, pero creo que eso se ha perdido un poco.",HABLANTE_2
+rec_07,89.11,92.3,"¿Y ahora, cuál diría que son los aspectos positivos,",HABLANTE_1
+rec_07,92.3,94.3,las características positivas del Perú?,HABLANTE_1
+rec_07,94.3,97.3,"Bueno, de Perú que ha crecido bastante, se ha incrementado.",HABLANTE_2
+rec_07,97.3,100.3,Se ha incrementado.,HABLANTE_2
+rec_07,100.3,102.3,Hay muchas fuentes también.,HABLANTE_2
+rec_07,102.3,105.3,Ha cambiado bastante la tecnología.,HABLANTE_2
+rec_07,105.3,108.3,"Ha crecido, pero ha crecido las ciudades,",HABLANTE_2
+rec_07,108.3,111.3,"no solamente poblacional,",HABLANTE_2
+rec_07,111.3,114.3,"sino en el aspecto social, en el aspecto cultural,",HABLANTE_2
+rec_07,114.3,116.3,"en el aspecto indígena también,",HABLANTE_2
+rec_07,116.3,119.3,"muchos aspectos, y en el aspecto económico también.",HABLANTE_2
+rec_07,119.3,122.3,"¿Y ahora, cuál diría que serían los aspectos negativos del Perú?",HABLANTE_1
+rec_07,122.3,125.3,"Bueno, los aspectos negativos es que",HABLANTE_2
+rec_07,125.3,128.3,la corrupción y dentro de los gobiernos,HABLANTE_2
+rec_07,128.3,131.3,siempre ha habido demasiada corrupción,HABLANTE_2
+rec_07,131.3,134.3,"y no hay políticas para nosotros, las mujeres indígenas,",HABLANTE_2
+rec_07,134.3,138.3,"no respetan los convenios, las leyes las tenemos por gusto.",HABLANTE_2
+rec_07,138.3,142.3,"Los derechos también, se nos vulneran los derechos a las mujeres,",HABLANTE_2
+rec_07,142.3,144.3,"los derechos sexuales y reproductivos,",HABLANTE_2
+rec_07,144.3,147.3,"invisibilizan el trabajo de nuestras mujeres,",HABLANTE_2
+rec_07,147.3,151.3,"y no respetan a las personas como derecho,",HABLANTE_2
+rec_07,151.3,153.3,"como seres de derechos,",HABLANTE_2
+rec_07,153.3,155.3,"porque dentro de las personas estamos las mujeres,",HABLANTE_2
+rec_07,155.3,158.3,"los hombres y los hermanos y hermanas de la ECTBI,",HABLANTE_2
+rec_07,158.3,161.3,y son seres humanos y tienen derechos también.,HABLANTE_2
+rec_07,161.3,165.3,"Y también hay mucho racismo, no hemos perdido el racismo.",HABLANTE_2
+rec_07,165.3,168.3,Hay mucha gente que selecciona a las personas.,HABLANTE_2
+rec_07,168.3,171.3,"¿Acaso cuando Dios, bueno, Dios es católica,",HABLANTE_2
+rec_07,171.3,173.3,"cuando Dios, o cuando oramos, Dios dice,",HABLANTE_2
+rec_07,173.3,175.3,"¿tú eres blanco? Sí, te escucho.",HABLANTE_2
+rec_07,175.3,178.3,"¿Tú eres negro? No, Dios escucha,",HABLANTE_2
+rec_07,178.3,180.3,porque somos seres humanos nada más.,HABLANTE_2
+rec_07,180.3,184.3,"Él no ve ni el color, ni el sexo, ni la raza, nada.",HABLANTE_2
+rec_07,184.3,186.59,"¿Y por último, qué mensaje le daría",HABLANTE_1
+rec_07,186.59,189.59,a las futuras generaciones de peruanos?,HABLANTE_1
+rec_07,189.59,194.98,"Bueno, ahora con esa tecnología los jóvenes no leen.",HABLANTE_2
+rec_07,194.98,196.98,"No hay mucha educación,",HABLANTE_2
+rec_07,196.98,198.98,mucha falta de respeto a los padres.,HABLANTE_2
+rec_07,198.98,201.98,"Yo creo que tienen que ser educados, formados,",HABLANTE_2
+rec_07,201.98,204.04,tienen que tener valores.,HABLANTE_2
+rec_07,204.04,206.04,Y de acuerdo a los ejemplos que tenemos,HABLANTE_2
+rec_07,206.04,209.04,de este índice de corrupción que hay en el Perú,HABLANTE_2
+rec_07,209.04,211.04,"que se ha estabilizado, creo,",HABLANTE_2
+rec_07,211.04,215.04,"en los entes, en municipalidades,",HABLANTE_2
+rec_07,215.04,218.04,"en gobiernos regionales, en el mismo gobierno,",HABLANTE_2
+rec_07,218.04,220.04,"tienen que cambiar, tienen que mejorarlo.",HABLANTE_2
+rec_07,220.04,223.04,Tenemos que tener generaciones nuevas.,HABLANTE_2
+rec_07,223.04,225.04,"Por ejemplo, nosotros como mujeres luchadoras",HABLANTE_2
+rec_07,225.04,227.04,que debemos dejar generaciones,HABLANTE_2
+rec_07,227.04,229.04,"que conozcan sus derechos,",HABLANTE_2
+rec_07,229.04,231.04,que se hagan respetar.,HABLANTE_2
+rec_07,231.04,233.04,No solamente el derecho a nuestro territorio,HABLANTE_2
+rec_07,233.04,235.04,"donde vivimos, sino el derecho a nuestro cuerpo.",HABLANTE_2
+rec_07,235.04,238.04,"Que nadie nos toque, que nadie nos viola,",HABLANTE_2
+rec_07,238.04,241.04,que nadie haga abuso de nosotras.,HABLANTE_2
+rec_07,241.04,243.04,Y no nos maten tampoco.,HABLANTE_2
+rec_07,243.04,245.07,"Bueno, muchas gracias por la entrevista.",HABLANTE_1
+rec_07,245.07,247.07,Me sigamos luchando por un Perú.,HABLANTE_1
+rec_07,247.07,249.74,Gracias.,HABLANTE_3
+rec_08,0.0,4.51,mi nombre es [PERSONA_17].,HABLANTE_1
+rec_08,4.51,7.51,¿De dónde vienes? ¿Cuál es tu comunidad?,HABLANTE_2
+rec_08,7.51,10.54,"Yo vengo de la Comunidad Campesina de Shikui,",HABLANTE_1
+rec_08,10.54,14.74,del distrito San Juan de Jarpa de la provincia de Chupaca.,HABLANTE_1
+rec_08,14.74,17.74,"Bien, como ustedes saben,",HABLANTE_1
+rec_08,17.74,21.74,"yo vengo trabajando desde muy niña en la Chakra,",HABLANTE_1
+rec_08,21.74,23.74,"conjuntamente con mis padres,",HABLANTE_1
+rec_08,23.74,26.74,donde también me enseñaron la responsabilidad.,HABLANTE_1
+rec_08,26.74,29.74,"Con el ejemplo, me enseñaron a trabajar con dignidad",HABLANTE_1
+rec_08,29.74,32.74,"en la agricultura. Somos de la pequeña agricultura,",HABLANTE_1
+rec_08,32.74,37.74,"en donde producimos lo que es habas, papas, cebada,",HABLANTE_1
+rec_08,37.74,43.79,"y otros nos dedicamos también a la agricultura,",HABLANTE_1
+rec_08,43.79,46.89,"a la ganadería. Todos somos de auto,",HABLANTE_1
+rec_08,46.89,48.89,"consumo, los alimentos,",HABLANTE_1
+rec_08,48.89,53.89,porque nosotros nos encontramos entre los 3800 sobre el nivel del mar.,HABLANTE_1
+rec_08,53.89,58.4,"Pero sin embargo, desde el año 2000,",HABLANTE_1
+rec_08,58.4,62.4,"nosotros veníamos promoviendo toda la agricultura sostenible,",HABLANTE_1
+rec_08,62.4,65.4,"en las cuales la agricultura sostenible,",HABLANTE_1
+rec_08,65.4,70.4,"donde vemos la parte social, vemos la parte política,",HABLANTE_1
+rec_08,70.4,72.4,la parte cultural.,HABLANTE_1
+rec_08,72.4,75.4,"Entonces, en esas dimensiones de verdad,",HABLANTE_1
+rec_08,75.4,77.4,que nosotros hemos hecho trabajado bastante,HABLANTE_1
+rec_08,77.4,80.4,"en las provincias de Concepción,",HABLANTE_1
+rec_08,80.4,82.62,"Chupaca y Huancayo,",HABLANTE_1
+rec_08,82.62,85.62,y todos relacionados a lo que es basado,HABLANTE_1
+rec_08,85.62,88.62,"en la agriculofía con alimentos sanos,",HABLANTE_1
+rec_08,88.62,91.62,y eso garantice la alimentación,HABLANTE_1
+rec_08,91.62,93.62,del Perú y también del mundo.,HABLANTE_1
+rec_08,93.62,95.62,"La alimentación es la base fundamental,",HABLANTE_1
+rec_08,95.62,100.62,y somos el 93% de productores de la pequeña agricultura,HABLANTE_1
+rec_08,100.62,103.62,"que nosotros subsistimos a los mercados locales,",HABLANTE_1
+rec_08,103.62,105.62,"a los mercados nacionales,",HABLANTE_1
+rec_08,105.62,108.62,y así estamos subsistiendo,HABLANTE_1
+rec_08,108.62,111.62,esa gran alimentación que nosotros lo tenemos.,HABLANTE_1
+rec_08,111.62,113.62,"Pensando en la agricultura familiar,",HABLANTE_1
+rec_08,113.62,116.62,"entonces la ley existe de la agricultura familiar,",HABLANTE_1
+rec_08,116.62,118.62,"entonces la reglamentación de la ley,",HABLANTE_1
+rec_08,118.62,120.62,"y yo creo que es importante también,",HABLANTE_1
+rec_08,120.62,123.62,"se podría tener lo que son los presupuestos,",HABLANTE_1
+rec_08,123.62,125.62,"los presupuestos del Ministerio de Agricultura,",HABLANTE_1
+rec_08,125.62,128.62,y es importante que se debe desarrollarse,HABLANTE_1
+rec_08,128.62,131.62,presupuestar en la extensión agraria,HABLANTE_1
+rec_08,131.62,133.62,"en las comunidades campesinas,",HABLANTE_1
+rec_08,133.62,134.62,"en las zonas rurales,",HABLANTE_1
+rec_08,134.62,136.62,"de donde provenimos alimentos,",HABLANTE_1
+rec_08,136.62,137.62,"y es importante,",HABLANTE_1
+rec_08,137.62,139.62,"y entonces con este COVID,",HABLANTE_1
+rec_08,139.62,140.62,"que nos ha enseñado,",HABLANTE_1
+rec_08,140.62,142.62,y también la variación climática,HABLANTE_1
+rec_08,142.62,144.62,que nosotros cada año lo vivimos,HABLANTE_1
+rec_08,144.62,146.62,"con este cambio climático,",HABLANTE_1
+rec_08,146.62,148.62,está desapareciendo muchas variedades,HABLANTE_1
+rec_08,148.62,150.62,"lo que es de las semillas nativas,",HABLANTE_1
+rec_08,150.62,152.62,"como es de la papa, el amas,",HABLANTE_1
+rec_08,152.62,154.62,"el trigo y el ajos,",HABLANTE_1
+rec_08,154.62,156.62,entonces están apareciendo otros,HABLANTE_1
+rec_08,156.62,158.62,"semillas supuestamente mejoradas,",HABLANTE_1
+rec_08,158.62,161.62,"que podría ser en este caso el trigo, el amas,",HABLANTE_1
+rec_08,161.62,163.62,"y el perdón, el ajos,",HABLANTE_1
+rec_08,163.62,166.62,"pero solamente tienen esos monocultivos,",HABLANTE_1
+rec_08,166.62,169.62,solamente tienen una producción de un año.,HABLANTE_1
+rec_08,169.62,171.62,"Por ejemplo, yo siembro ajos,",HABLANTE_1
+rec_08,171.62,173.62,"antes yo guardaba dos, tres años",HABLANTE_1
+rec_08,173.62,175.62,"para poderlo sembrar mis ajos,",HABLANTE_1
+rec_08,175.62,176.62,"pero sí ahora,",HABLANTE_1
+rec_08,176.62,178.62,pero ¿qué está pasando?,HABLANTE_1
+rec_08,178.62,181.62,"Esos ajos que solamente tienen una campaña,",HABLANTE_1
+rec_08,181.62,182.62,"y luego tiene que ser,",HABLANTE_1
+rec_08,182.62,184.62,"entonces con grandes encepticidas,",HABLANTE_1
+rec_08,184.62,186.62,"congicidas que unigan,",HABLANTE_1
+rec_08,186.62,189.62,entonces nosotros queremos una alternativa,HABLANTE_1
+rec_08,189.62,191.62,"y una alimentación sana para la población,",HABLANTE_1
+rec_08,191.62,193.62,porque nosotros garantizamos,HABLANTE_1
+rec_08,193.62,195.62,"realmente esa alimentación sana,",HABLANTE_1
+rec_08,195.62,197.62,porque nosotros producimos,HABLANTE_1
+rec_08,197.62,200.62,"no solamente en la cantidad,",HABLANTE_1
+rec_08,200.62,202.62,sino la calidad.,HABLANTE_1
+rec_08,202.62,204.62,¿Por qué la calidad?,HABLANTE_1
+rec_08,204.62,206.62,"La calidad, decimos que nosotros",HABLANTE_1
+rec_08,206.62,208.62,"con cariño sembramos,",HABLANTE_1
+rec_08,208.62,210.62,"entonces el arte de sembrar,",HABLANTE_1
+rec_08,210.62,212.62,"el arte de cultivar,",HABLANTE_1
+rec_08,212.62,213.62,"entonces por ejemplo,",HABLANTE_1
+rec_08,213.62,215.62,tenemos en Zapallán el axotata,HABLANTE_1
+rec_08,215.62,217.62,y en toda la zona altina,HABLANTE_1
+rec_08,217.62,218.62,"del canipaco y del punas,",HABLANTE_1
+rec_08,218.62,220.62,tenemos también lo que es,HABLANTE_1
+rec_08,220.62,221.62,"las rayadas con las yuntas,",HABLANTE_1
+rec_08,221.62,223.62,que con ese cariño,HABLANTE_1
+rec_08,223.62,224.62,"nosotros lo sembramos,",HABLANTE_1
+rec_08,224.62,226.62,"y bastantes costumbres culturales,",HABLANTE_1
+rec_08,226.62,228.62,"ancestrales que nosotros practicamos,",HABLANTE_1
+rec_08,228.62,230.62,por ejemplo nosotros tenemos como combatir,HABLANTE_1
+rec_08,230.62,232.62,"lo que es la granizada,",HABLANTE_1
+rec_08,232.62,234.62,y como combatir lo que es,HABLANTE_1
+rec_08,234.62,237.14,"varias cosas,",HABLANTE_1
+rec_08,237.14,239.14,entonces implementando nuevos sistemas,HABLANTE_1
+rec_08,239.14,241.14,tecnológicas que podría taparse,HABLANTE_1
+rec_08,241.14,243.81,"todo este cambio climático,",HABLANTE_1
+rec_08,243.81,245.81,"pero sin embargo,",HABLANTE_1
+rec_08,245.81,247.81,todo ese cambio climático que nosotros,HABLANTE_1
+rec_08,247.81,249.81,"lo estamos viviendo,",HABLANTE_1
+rec_08,249.81,251.81,"y es una gran preocupación,",HABLANTE_1
+rec_08,251.81,253.81,porque no estamos dando alternativas,HABLANTE_1
+rec_08,253.81,255.81,y tampoco estamos recogiendo,HABLANTE_1
+rec_08,255.81,257.81,las prácticas ancestrales,HABLANTE_1
+rec_08,257.81,259.81,"que practicamos día a día,",HABLANTE_1
+rec_08,259.81,261.81,"por ejemplo, lo que es cuando caía hielo,",HABLANTE_1
+rec_08,261.81,263.81,"nosotros hacíamos unir,",HABLANTE_1
+rec_08,263.81,265.81,entonces en estos últimos tiempos,HABLANTE_1
+rec_08,265.81,267.81,frecuentemente tenemos también,HABLANTE_1
+rec_08,267.81,269.81,"lo que es la escasez del agua,",HABLANTE_1
+rec_08,269.81,271.81,y la escasez del agua está,HABLANTE_1
+rec_08,271.81,273.81,haciéndose parte de lo que es,HABLANTE_1
+rec_08,273.81,275.81,en la población rural,HABLANTE_1
+rec_08,275.81,277.81,"y también en la población urbana,",HABLANTE_1
+rec_08,277.81,279.81,"entonces es una gran preocupación,",HABLANTE_1
+rec_08,279.81,281.81,yo creo que debe haber alternativas,HABLANTE_1
+rec_08,281.81,283.81,que se debe adaptar,HABLANTE_1
+rec_08,283.81,285.81,"y trabajar en todos los niveles,",HABLANTE_1
+rec_08,285.81,287.81,"yo solo así nosotros pueden ser,",HABLANTE_1
+rec_08,287.81,289.81,y entonces como usted me dice,HABLANTE_1
+rec_08,289.81,291.81,"es que te sientes siendo mujer del campo,",HABLANTE_1
+rec_08,291.81,293.81,siendo mujer del campo tiene rostro,HABLANTE_1
+rec_08,293.81,295.81,"de producción, tiene rostro",HABLANTE_1
+rec_08,295.81,297.81,"lo que es el trabajo del campo,",HABLANTE_1
+rec_08,297.81,299.81,"es el trabajo de las semillas,",HABLANTE_1
+rec_08,299.81,301.81,"por ejemplo,",HABLANTE_1
+rec_08,301.81,303.81,identificarse realmente con la producción,HABLANTE_1
+rec_08,303.81,305.81,"agrícola,",HABLANTE_1
+rec_08,305.81,307.81,"en la producción y en la ganadería,",HABLANTE_1
+rec_08,307.81,309.81,"entonces por qué decimos esto que tiene rostro,",HABLANTE_1
+rec_08,309.81,311.81,"y ahora me dirá,",HABLANTE_1
+rec_08,311.81,313.81,"porque nosotros día a día,",HABLANTE_1
+rec_08,313.81,315.81,constantemente protegemos,HABLANTE_1
+rec_08,315.81,317.81,y cuidamos todos los costumbres,HABLANTE_1
+rec_08,317.81,319.81,"en nuestras venas, en nuestras sangre,",HABLANTE_1
+rec_08,319.81,321.81,"llevamos toda esa sabiduría,",HABLANTE_1
+rec_08,321.81,323.81,nosotros somos dignas de saber,HABLANTE_1
+rec_08,323.81,325.81,"de producir, y sentimos también",HABLANTE_1
+rec_08,325.81,327.81,"sumamente, y yo me siento muy feliz",HABLANTE_1
+rec_08,327.81,329.81,"porque soy productora y vengo del campo,",HABLANTE_1
+rec_08,329.81,331.81,"porque sé los alimentos que yo produzco,",HABLANTE_1
+rec_08,331.81,333.81,y doy con cariño y comparto,HABLANTE_1
+rec_08,333.81,335.81,"con la población en general,",HABLANTE_1
+rec_08,335.81,337.81,"en donde practicamos el aire, la solidad,",HABLANTE_1
+rec_08,337.81,339.81,"la minga,",HABLANTE_1
+rec_08,339.81,341.81,eso es lo que nosotros realmente lo hacemos.,HABLANTE_1
+rec_08,341.81,343.81,Es importante lo que es la promoción del fondo,HABLANTE_1
+rec_08,343.81,345.81,"de la mujer rural, porque si es importante,",HABLANTE_1
+rec_08,345.81,347.81,no basta los 10 millones,HABLANTE_1
+rec_08,347.81,349.81,"que existen, porque nosotros queremos",HABLANTE_1
+rec_08,349.81,351.81,emprender en las mujeres rurales,HABLANTE_1
+rec_08,351.81,353.81,varios proyectos de lo que es,HABLANTE_1
+rec_08,353.81,355.81,"emprender mujer, porque nosotros",HABLANTE_1
+rec_08,355.81,357.81,si es realmente en las mujeres,HABLANTE_1
+rec_08,357.81,359.81,"tenemos esa capacidad de juntarnos,",HABLANTE_1
+rec_08,359.81,361.81,entonces yo creo que no solamente,HABLANTE_1
+rec_08,361.81,363.81,es para recibir lo que es,HABLANTE_1
+rec_08,363.81,365.81,promover como dicen los vasos,HABLANTE_1
+rec_08,365.81,367.81,"de leyes y en otros,",HABLANTE_1
+rec_08,367.81,369.81,"lo que es el estado, sino nosotros queremos",HABLANTE_1
+rec_08,369.81,371.81,"emprender nuestro propio trabajo,",HABLANTE_1
+rec_08,371.81,373.81,nuestro propio emprendimiento,HABLANTE_1
+rec_08,373.81,375.81,y sabemos muy bien la migración,HABLANTE_1
+rec_08,375.81,377.81,"del campo a la ciudad, y tenemos",HABLANTE_1
+rec_08,377.81,379.81,muchas comunidades han dejado,HABLANTE_1
+rec_08,379.81,381.81,lo que es la existencia de,HABLANTE_1
+rec_08,381.81,383.81,"solamente están quedando los mayores,",HABLANTE_1
+rec_08,383.81,385.81,pero lo que es,HABLANTE_1
+rec_08,385.81,387.81,los jóvenes se están migrándose,HABLANTE_1
+rec_08,387.81,389.81,"mayormente a Estados Unidos, a otros países,",HABLANTE_1
+rec_08,389.81,391.81,pero al final del fondo,HABLANTE_1
+rec_08,391.81,393.81,todos los terrenos muchos se están quedándose,HABLANTE_1
+rec_08,393.81,395.81,"también así libres los terrenos,",HABLANTE_1
+rec_08,395.81,397.81,yo creo que es importante,HABLANTE_1
+rec_08,397.81,399.81,volver a trabajar en la,HABLANTE_1
+rec_08,399.81,401.81,"Chakra, nuestros hermanos, los jóvenes",HABLANTE_1
+rec_08,401.81,403.81,¿Por qué? Porque,HABLANTE_1
+rec_08,403.81,405.81,para eso debería,HABLANTE_1
+rec_08,405.81,407.81,de garantizarse el fondo de la mujer rural,HABLANTE_1
+rec_08,407.81,409.81,"que se debe presupuestar más,",HABLANTE_1
+rec_08,409.81,411.81,debe tener conciencia,HABLANTE_1
+rec_08,411.81,413.81,que realmente el Ministerio de Cultura,HABLANTE_1
+rec_08,413.81,415.81,debe tener conciencia que realmente,HABLANTE_1
+rec_08,415.81,417.81,deben,HABLANTE_1
+rec_08,417.81,419.81,"seguir emprendiendo a las mujeres, porque",HABLANTE_1
+rec_08,419.81,421.81,nosotros las mujeres tenemos esa gran capacidad,HABLANTE_1
+rec_08,421.81,423.81,de poder hacer muchos productos,HABLANTE_1
+rec_08,423.81,425.81,y dar valor agregado a nuestros productos,HABLANTE_1
+rec_08,425.81,427.81,que realmente podemos hacer,HABLANTE_1
+rec_08,427.81,429.81,"por ejemplo, las variedades de papa,",HABLANTE_1
+rec_08,429.81,431.81,"las papas nativas, la papa laí",HABLANTE_1
+rec_08,431.81,433.81,"otras cosas las abastostadas, las canchas",HABLANTE_1
+rec_08,433.81,435.81,"tostadas, entonces volver a",HABLANTE_1
+rec_08,435.81,437.81,también a hacer nuestros productos,HABLANTE_1
+rec_08,437.81,439.81,que realmente si no lo necesitamos,HABLANTE_1
+rec_08,439.81,441.81,entonces viendo todo este cambio climático,HABLANTE_1
+rec_08,441.81,443.81,viendo toda esta crisis alimentaria,HABLANTE_1
+rec_08,443.81,445.81,es importante que,HABLANTE_1
+rec_08,445.81,447.81,también emprendemos todo,HABLANTE_1
+rec_08,447.81,449.81,las mujeres tenemos esa garantía,HABLANTE_1
+rec_08,449.81,451.81,y las mujeres quienes cuidamos,HABLANTE_1
+rec_08,451.81,453.81,y las mujeres quienes alimentamos a nuestros hijos,HABLANTE_1
+rec_08,453.81,455.81,y sabemos la vivencia,HABLANTE_1
+rec_08,455.81,457.81,"como pasamos en la escuela, en el colegio",HABLANTE_1
+rec_08,457.81,459.81,y entonces se deben,HABLANTE_1
+rec_08,459.81,461.81,incentivar también las loncheras escolares,HABLANTE_1
+rec_08,461.81,463.81,dando ese incentivo,HABLANTE_1
+rec_08,463.81,465.81,dando trabajo a las mujeres,HABLANTE_1
+rec_08,465.81,467.81,y también finalmente,HABLANTE_1
+rec_08,467.81,469.81,yo quería dar un mensaje,HABLANTE_1
+rec_08,469.81,471.81,"a los jóvenes, incentivar a los jóvenes",HABLANTE_1
+rec_08,471.81,473.81,que realmente la agricultura,HABLANTE_1
+rec_08,473.81,476.03,es sano,HABLANTE_1
+rec_08,476.03,478.03,porque se viviendo en el campo,HABLANTE_1
+rec_08,478.03,480.03,compartiendo con la chakra,HABLANTE_1
+rec_08,480.03,482.03,"y con los animales, nosotros no hay",HABLANTE_1
+rec_08,482.03,484.03,"nada, respetando a nuestra cosmovisión andina",HABLANTE_1
+rec_08,484.03,486.03,y como decimos,HABLANTE_1
+rec_08,486.03,488.03,el buen vivir,HABLANTE_1
+rec_08,488.03,490.03,nosotros nos sentimos es volver,HABLANTE_1
+rec_08,490.03,492.03,"a reunirnos, es volver también",HABLANTE_1
+rec_08,492.03,494.03,"a recuperar nuestro costumbre, nuestra cultura",HABLANTE_1
+rec_08,494.03,496.03,porque nos han dejado nuestros ancestros,HABLANTE_1
+rec_08,496.03,498.03,nuestros padres,HABLANTE_1
+rec_08,498.03,500.03,realmente que si se debe respetar,HABLANTE_1
+rec_08,500.03,502.03,"lo que nos han dejado, toda esa cultura",HABLANTE_1
+rec_08,502.03,504.03,"toda esa tradición, toda esa sabedoria",HABLANTE_1
+rec_08,504.03,506.03,es algo profundo,HABLANTE_1
+rec_08,506.03,508.03,que realmente se trabaja,HABLANTE_1
+rec_08,508.03,510.03,y también se trabaja una conexión,HABLANTE_1
+rec_08,510.03,512.03,grandemente con la naturaleza,HABLANTE_1
+rec_08,512.03,514.03,donde todo es vida,HABLANTE_1
+rec_08,514.03,516.03,y toda esa alegría,HABLANTE_1
+rec_08,516.03,518.03,y también es garantía,HABLANTE_1
+rec_08,518.03,520.03,y también hay lo que podemos,HABLANTE_1
+rec_08,520.03,522.03,garantizar nuestra alimentación,HABLANTE_1
+rec_08,522.03,524.03,"para nosotros, para el Perú y para el mundo",HABLANTE_1
+rec_08,524.03,526.03,gracias,HABLANTE_3

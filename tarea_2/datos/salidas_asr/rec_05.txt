@@ -1,0 +1,23 @@
+[00:00:00] HABLANTE_1: Buenas noches, soy [PERSONA_8], estudiante de Los San Marcos. Esta entrevista va a ser registrada en internet, ¿está de acuerdo usted?
+
+[00:00:10] HABLANTE_2: Sí, estoy de acuerdo.
+
+[00:00:11] HABLANTE_1: Muy bien. Para usted, ¿qué es el Perú?
+
+[00:00:14] HABLANTE_3: Pues yo no soy peruano, entrada. Pero Perú, yo creo que junto con México los dos países que más historia tienen, más cultura y más restos de civilizaciones prehispánicas, más ciudades coloniales, mucho más riquezas de cultura, de todo. En América me parece que son los dos más ricos.
+
+[00:00:39] HABLANTE_1: Muchas gracias. ¿Y usted en su estadía en Perú, cuáles son las principales características positivas que podría destacar?
+
+[00:00:45] HABLANTE_3: La gente es increíblemente amable. Lima, por ejemplo, me parece que no ha sido muy ordenada.
+
+[00:00:51] HABLANTE_4: ¡Ah!
+
+[00:00:52] HABLANTE_5: ¡Ah!
+
+[00:00:53] HABLANTE_3: El hotel es muy bien organizada. Yo apenas un día entonces no te puedo decir mucho más de eso.
+
+[00:00:58] HABLANTE_1: En ese día, ¿cuál sería el aspecto más negativo que notó?
+
+[00:01:03] HABLANTE_3: Pues aquí en Lima el servicio es muy lento. El servicio es terriblemente lento en los restaurantes. Pero digo, eso no es que sea tan negativo, por lo único negativo que puedo decir de Lima en realidad.
+
+[00:01:15] HABLANTE_1: Muchas gracias, señor. ¡Felices fiestas!

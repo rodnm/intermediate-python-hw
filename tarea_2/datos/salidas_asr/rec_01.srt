@@ -1,0 +1,107 @@
+1
+00:00:00,340 --> 00:00:08,340
+[HABLANTE_1] Buenos días, aquí son las 10 y 28 y estoy con una señora que va a darme su opinión acerca de partido de hoy.
+
+2
+00:00:08,340 --> 00:00:10,340
+[HABLANTE_1] ¿Puedes decirme su nombre por favor?
+
+3
+00:00:10,340 --> 00:00:12,340
+[HABLANTE_2] [PERSONA_11].
+
+4
+00:00:12,340 --> 00:00:18,340
+[HABLANTE_1] Mucho gusto, yo soy [PERSONA_7], soy alumno de la Universidad Nacional Mayor de San Marcos
+
+5
+00:00:18,340 --> 00:00:22,340
+[HABLANTE_1] y le voy a hacer estas preguntas acerca del partido de hoy.
+
+6
+00:00:22,340 --> 00:00:26,340
+[HABLANTE_1] ¿Qué expectativas tiene acerca de este partido?
+
+7
+00:00:26,340 --> 00:00:29,340
+[HABLANTE_1] ¿Quién piensa que va a atacar más o defender?
+
+8
+00:00:29,340 --> 00:00:34,330
+[HABLANTE_2] Bueno, esperamos que Perú ganemos, ¿no?
+
+9
+00:00:34,330 --> 00:00:39,710
+[HABLANTE_2] Espero que Padula se eche goles.
+
+10
+00:00:39,710 --> 00:00:47,710
+[HABLANTE_1] Muy bien, la siguiente pregunta es acerca de qué jugador piensa que va a ser más decisivo en este partido.
+
+11
+00:00:47,710 --> 00:01:00,280
+[HABLANTE_1] Muy bien, y la tercera pregunta es acerca de cuál es el resultado que espera en este partido.
+
+12
+00:01:00,280 --> 00:01:02,280
+[HABLANTE_1] ¿Quién gana y a cuánto?
+
+13
+00:01:02,280 --> 00:01:03,280
+[HABLANTE_1] ¿Por cuánto?
+
+14
+00:01:03,280 --> 00:01:15,550
+[HABLANTE_2] Es que esperar lo que Dios, primeramente es Dios, pero si perdemos a mí hay que esperar lo mejor,
+
+15
+00:01:15,550 --> 00:01:20,550
+[HABLANTE_2] porque estamos demostrando lo mejor que pueden nuestros jugadores, ¿no?
+
+16
+00:01:20,550 --> 00:01:29,550
+[HABLANTE_1] Muy bien, o sea, está diciendo que está esperando lo mínimo, no importa si ganemos 1-0 o perdamos lo más importante es Dios.
+
+17
+00:01:29,550 --> 00:01:35,550
+[HABLANTE_1] Y la última pregunta, ¿qué piensa del fútbol como unión de masas?
+
+18
+00:01:35,550 --> 00:01:42,550
+[HABLANTE_1] Porque como puede ver, muy pronto en muchos locales va a haber muchas personas viendo este partido.
+
+19
+00:01:42,550 --> 00:01:44,550
+[HABLANTE_1] ¿Qué piensa acerca de ello?
+
+20
+00:01:44,550 --> 00:01:57,600
+[HABLANTE_2] Eso es una la gente no de juntarse, o sea, tomar, hacer barras.
+
+21
+00:01:57,600 --> 00:02:00,300
+[HABLANTE_2] Es decir, es de dormir arco.
+
+22
+00:02:00,300 --> 00:02:04,420
+[HABLANTE_1] Muchas gracias por su opinión.
+
+23
+00:02:04,420 --> 00:02:07,420
+[HABLANTE_1] Un mensaje final que desea dar.
+
+24
+00:02:07,420 --> 00:02:09,420
+[HABLANTE_2] Que Perú gane.
+
+25
+00:02:09,680 --> 00:02:12,970
+[HABLANTE_2] Es solo que Dios pienso.
+
+26
+00:02:12,970 --> 00:02:14,970
+[HABLANTE_2] Esperamos que ganemos.
+
+27
+00:02:14,970 --> 00:02:16,100
+[HABLANTE_1] Muchas gracias.

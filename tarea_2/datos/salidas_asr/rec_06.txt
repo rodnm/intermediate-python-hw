@@ -1,0 +1,25 @@
+[00:00:00] HABLANTE_1: Buenas noches, soy [PERSONA_2], estudiante de Los San Marcos, ¿cuál es su nombre?
+
+[00:00:04] HABLANTE_2: [PERSONA_4].
+
+[00:00:05] HABLANTE_1: Señor [PERSONA_4], esta entrevista va a ser publicada en un forum de internet, ¿está de acuerdo?
+
+[00:00:10] HABLANTE_3: Ya no, está bien.
+
+[00:00:11] HABLANTE_1: Muy bien, la primera pregunta es ¿qué es el Perú para usted?
+
+[00:00:14] HABLANTE_3: El Perú es mi patria, es una patria donde aún nací mis ancestros, que nací hoyo y está ubicado en un sitio de América que está delimitado por sus fronteras. Es de mi patria.
+
+[00:00:36] HABLANTE_1: En toda su vida, ¿cuáles serían las principales características positivas que pueda rescatar el Perú?
+
+[00:00:43] HABLANTE_3: Bueno, las características serían su gastronomía, la gastronomía a nivel mundial tiene prestigio, de muy conocido a nivel internacional, su música, también su literatura y también los grandes científicos que ha aportado a nuestro país.
+
+[00:01:05] HABLANTE_1: ¿Y los aspectos negativos?
+
+[00:01:07] HABLANTE_3: Bueno, los aspectos negativos, digamos, el desempleo que hace Echa, a veces la inflación que hemos sufrido durante años, la inflación significa aumento constante de los precios, ese es uno de los aspectos negativos que no se quisieron controlar, no, se vivió bastante tiempo con la inflación.
+
+[00:01:29] HABLANTE_1: Si pudiera darle un comentario a la juventud, ¿cuál sería?
+
+[00:01:33] HABLANTE_3: Bueno, como dice, ¿no? ¿Por qué Estados Unidos progresan y por qué el Perú? No, porque la gran mayoría de los países desarrollados, la mentalidad de la juventud está ligada a la producción, pero nuestro país no necesariamente, porque el pensamiento de la juventud a veces piensa, por ejemplo, ser literato dice la juventud, quiero ser abogado, quiero ser periodista, pero eso no hay producción, ese no es un aspecto que no hay producción, entonces la juventud de hoy debe pensar en lo que es la producción, no deben seguir carreras técnicas, ingenierías, ligadas a la producción, porque solamente con la producción, si la juventud piensa en la producción, no, como lo hace la juventud de los Estados Unidos, como lo hace la juventud de los Estados Unidos, entonces podemos llegar a un desarrollo.
+
+[00:02:40] HABLANTE_1: Muchas gracias por sus palabras, felices fiestas, gracias.
