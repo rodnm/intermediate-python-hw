@@ -8,7 +8,7 @@
 |---|---|---|---|
 | Documentos (CER) | PaddleOCR: 0.31 | Gemini como modelo de visión y lenguaje | **0.14** |
 | Audio (WER) | faster-whisper `small`: 0.22 | Parakeet TDT 0.6B v3 | **0.14** |
-| Extracción con LLM | — | Gemini, con esquema JSON | **11/20** extracciones completamente correctas en la auditoría |
+| Extracción con LLM | — | Gemini, con esquema JSON | **11/20** extracciones completamente correctas en la auditoría (3/10 documentos, 8/10 audios) |
 
 El punto débil son los manuscritos para el OCR local y la calle con varias voces para el ASR.
 
@@ -189,9 +189,14 @@ Los enlaces de atribución usan `?curid=<pageid>`, así ninguna URL lleva un nom
 **Regla de decisión,** congelada antes de medir: menor error agregado y, si la diferencia es menor que 0.02, el modelo más barato.
 
 **LLM:**
-- Auditoría humana de 20 extracciones: **11/20 completamente correctas**. Las citas y el número de hablantes salieron siempre bien.
-- Los errores se concentran en los manuscritos del siglo XIX, donde el LLM "corrige" el OCR o infiere datos.
-- El chequeo automático de literalidad da 96 %: es más optimista que la auditoría humana.
+- Auditoría humana de 20 extracciones: **11/20 completamente correctas**, pero son 3/10 en documentos y 8/10 en audios. Por campo, 111/130 (85 %).
+- El LLM leyó el texto de la línea base (PaddleOCR y `small`), no el de los modelos finales, porque Gemini solo leyó los 10 recortes.
+- En documentos hay dos modos de falla:
+  - 8 omisiones: `null` donde el dato aparece, en impresos, fotos y manuscritos. Las reglas del prompt contra inventar empujan hacia el `null`.
+  - 8 correcciones o inferencias, todas en los manuscritos del siglo XIX ("Areguipa" → "Arequipa").
+- Las citas salieron siempre bien. El número de hablantes también, pero por construcción: el modelo cuenta las marcas `[HABLANTE_n]`, no a las personas.
+- El chequeo automático de literalidad da 96 %, pero no ve las omisiones ni los valores recortados: 6 de los 9 casos que fallaron tienen 100 %.
+- 18 de los 20 casos auditados los hizo `gemini-3.5-flash-lite`. Además, la muestra sobrerrepresenta las entrevistas, así que el 11/20 no estima todo el corpus.
 
 ## 7. Alcance y bonus
 
