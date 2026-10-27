@@ -113,7 +113,7 @@ def coincidencias(texto: str, nombre: str, parecido: int = 85) -> list[tuple[int
     puntaje = lambda a, b: max(fuzz.ratio(sep.join(plegadas[a:b]), o) for o in objetivos)
     tramos, i = [], 0
     while i < len(fichas):
-        # entre palabras vecinas solo con 8 o más letras: con menos, "buscar los" ya contendría "carlos"
+        # entre palabras vecinas solo con 8 o más letras: con menos, dos palabras unidas coinciden por azar con un nombre
         contiene = next((m for m in range(1, (n + 2) if len(unido) >= 8 else 2) if len(unido) >= 6 and i + m <= len(fichas)
                          and len(unido) < len("".join(plegadas[i:i + m])) <= 40 and unido in "".join(plegadas[i:i + m])
                          and unido not in "".join(plegadas[i + 1:i + m])), None)
