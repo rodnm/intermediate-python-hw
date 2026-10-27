@@ -1,0 +1,676 @@
+id,modalidad,tipo,entidad
+doc_001,documento,ORG,EI Per
+doc_001,documento,LOC,Lima
+doc_001,documento,MISC,Santuario Histórico
+doc_001,documento,MISC,ALIMENTACI
+doc_001,documento,MISC,Artículo 15
+doc_001,documento,MISC,Decreto Ley Nº 21147 Ley Foresta
+doc_001,documento,MISC,Fauna Silvestre
+doc_001,documento,MISC,Santuario Histórico
+doc_001,documento,LOC,MACHUPICCHU Machupicchu
+doc_001,documento,LOC,Urubamba
+doc_001,documento,LOC,Depar
+doc_001,documento,LOC,Cuzco
+doc_001,documento,LOC,Santuario Histórico de Machupicchu
+doc_001,documento,LOC,Divortium Aquarum
+doc_001,documento,LOC,Hacienda Ccollpan
+doc_001,documento,LOC,Machupícchu
+doc_001,documento,LOC,Provincia
+doc_001,documento,LOC,Urubamba
+doc_001,documento,LOC,Departamento
+doc_001,documento,LOC,Cuzco
+doc_001,documento,LOC,Mach
+doc_001,documento,LOC,##u
+doc_001,documento,LOC,##uy
+doc_001,documento,LOC,Cha
+doc_001,documento,LOC,##chabamba
+doc_001,documento,LOC,Wiñay
+doc_001,documento,LOC,##uyupata
+doc_001,documento,LOC,##aynaqente
+doc_001,documento,LOC,Mach
+doc_001,documento,LOC,##uq
+doc_001,documento,LOC,##rac
+doc_001,documento,LOC,Pul
+doc_001,documento,LOC,##pituyuc
+doc_001,documento,LOC,Patallaqta
+doc_001,documento,LOC,Palkay
+doc_001,documento,MISC,Long
+doc_001,documento,LOC,Hacienda Pisccacucho
+doc_001,documento,LOC,Lóurdes
+doc_001,documento,LOC,Hacienda Chamana
+doc_001,documento,MISC,##o de anteojos
+doc_001,documento,MISC,Tre
+doc_001,documento,MISC,##marctos orna
+doc_001,documento,LOC,##lantaytambo
+doc_001,documento,LOC,Hacienda Qqueshca
+doc_001,documento,MISC,Pun
+doc_001,documento,MISC,##as
+doc_001,documento,MISC,18 Gallito
+doc_001,documento,LOC,hacienda Sillque
+doc_001,documento,LOC,Pam
+doc_001,documento,LOC,##pacahua
+doc_001,documento,LOC,Pun
+doc_001,documento,LOC,##as de la
+doc_001,documento,MISC,##zama
+doc_001,documento,LOC,Hacienda Primavera
+doc_001,documento,MISC,Filicineae
+doc_001,documento,MISC,Orchi
+doc_001,documento,LOC,Cadena de Sa kantay
+doc_001,documento,MISC,Unidad de Conservación
+doc_002,documento,MISC,AÑO DE LA UNIVERSALIZACIÓN DE LA SALUD
+doc_002,documento,MISC,##cM
+doc_002,documento,MISC,Decreto Supremo
+doc_002,documento,MISC,Decreto Supremo N° O
+doc_002,documento,MISC,Estado de Emergencia Nacional
+doc_002,documento,MISC,CoVID
+doc_002,documento,ORG,Mid
+doc_002,documento,ORG,##is
+doc_002,documento,MISC,Red de Soporte
+doc_002,documento,MISC,ECON
+doc_002,documento,MISC,##IA
+doc_002,documento,ORG,Ministerio del Interior
+doc_002,documento,ORG,Ministerio de Defensa
+doc_002,documento,LOC,Perú
+doc_002,documento,MISC,COVID
+doc_002,documento,MISC,PRESID
+doc_002,documento,MISC,DE MINISTROS
+doc_002,documento,MISC,Decreto Supremo
+doc_002,documento,MISC,Decreto
+doc_002,documento,MISC,Supremo
+doc_002,documento,MISC,N° O44
+doc_002,documento,MISC,2020
+doc_002,documento,MISC,artículo
+doc_002,documento,MISC,Decreto Supremo
+doc_002,documento,MISC,Estado de Emergencia Nacional
+doc_002,documento,MISC,Estado de Emergencia Nacional
+doc_002,documento,MISC,Constitución Política del Perú
+doc_002,documento,MISC,Ley N° 29158
+doc_002,documento,MISC,Ley N° 046
+doc_002,documento,MISC,2020
+doc_002,documento,MISC,PCM Orgánica del Poder Ejecutivo
+doc_002,documento,ORG,Congreso de la República
+doc_002,documento,ORG,Consejo de Ministros
+doc_002,documento,MISC,Decreto Supremo
+doc_002,documento,MISC,artículo
+doc_002,documento,MISC,Decreto
+doc_002,documento,MISC,Supremo Nº
+doc_003,documento,MISC,Decreto de Urgencia
+doc_003,documento,ORG,Congreso
+doc_003,documento,MISC,JUSTICIA
+doc_003,documento,MISC,DERECHOS HUMANOS
+doc_003,documento,MISC,Consul
+doc_003,documento,LOC,Italia
+doc_003,documento,MISC,Constitución Política del Perú
+doc_003,documento,MISC,Ley N° 26859
+doc_003,documento,MISC,Ley Orgánica de Elecciones
+doc_003,documento,ORG,Congreso
+doc_003,documento,MISC,Decreto de Urgencia
+doc_003,documento,MISC,Constitución Política del Perú
+doc_003,documento,MISC,Ley
+doc_003,documento,MISC,N° 26859
+doc_003,documento,MISC,Ley Orgánica de Elecciones
+doc_003,documento,ORG,Congreso
+doc_003,documento,ORG,Sistema Electora
+doc_003,documento,MISC,N° 002
+doc_003,documento,MISC,Decreto Supremo N°
+doc_003,documento,ORG,##M
+doc_003,documento,MISC,artículo
+doc_003,documento,MISC,Decreto Supremo N° 165
+doc_003,documento,ORG,##M
+doc_003,documento,MISC,Constitución Política del Perú
+doc_003,documento,ORG,Sistema Electoral
+doc_003,documento,ORG,Poder Ejecutivo
+doc_003,documento,ORG,Comisión
+doc_003,documento,ORG,Congreso
+doc_003,documento,MISC,Ley N° 26859
+doc_003,documento,MISC,Ley Orgánica de Que
+doc_003,documento,MISC,Decreto Supremo N° 165
+doc_003,documento,MISC,Elecciones
+doc_003,documento,MISC,Texto Único
+doc_003,documento,MISC,Ley PCM
+doc_003,documento,MISC,Decreto Supremo
+doc_003,documento,ORG,Congreso
+doc_003,documento,ORG,N° 302
+doc_003,documento,MISC,##y
+doc_003,documento,ORG,del Estado
+doc_003,documento,ORG,República
+doc_003,documento,MISC,Decreto Supremo N° 08
+doc_003,documento,ORG,Congreso
+doc_003,documento,ORG,Congreso
+doc_003,documento,ORG,República
+doc_003,documento,ORG,Congreso
+doc_003,documento,MISC,Elecciones Generales
+doc_004,documento,ORG,Dirección General
+doc_004,documento,ORG,Ministerio Viceministerio de Salud Ambiental de
+doc_004,documento,MISC,Salud de Salud Pública
+doc_004,documento,MISC,##ocuidad Alimentaria
+doc_004,documento,MISC,Coronavirus 2019
+doc_004,documento,MISC,##CoV
+doc_004,documento,MISC,COVID 19
+doc_004,documento,MISC,Registro
+doc_004,documento,MISC,Autor
+doc_004,documento,MISC,##ización Sanitaria
+doc_004,documento,MISC,Noti
+doc_004,documento,MISC,##ficación Sanitaria Obligatoria
+doc_004,documento,ORG,##GESA
+doc_005,documento,ORG,Ministerio Oficina General de Salud de Comunicaciones
+doc_005,documento,ORG,Ministerio de Salud
+doc_005,documento,MISC,##VID
+doc_005,documento,LOC,España
+doc_005,documento,LOC,2 de
+doc_005,documento,LOC,España
+doc_005,documento,LOC,Lima
+doc_005,documento,ORG,GENERAL DE COMUN
+doc_006,documento,ORG,Gobierno
+doc_006,documento,MISC,Patria
+doc_006,documento,ORG,República
+doc_006,documento,LOC,Perú
+doc_006,documento,ORG,Consejo de Ministos
+doc_006,documento,ORG,Asamblea Nacional de Gobiernos Regionales
+doc_006,documento,ORG,Asociación de Municipalidades del Perú
+doc_006,documento,MISC,COVID - 19
+doc_006,documento,ORG,Organización Mundial de la Salud
+doc_006,documento,ORG,Organización Mundial de la Salud
+doc_006,documento,LOC,Perú
+doc_006,documento,LOC,Europa
+doc_006,documento,ORG,Gobierno
+doc_007,documento,MISC,LIM
+doc_007,documento,MISC,Primera
+doc_007,documento,ORG,— Sporting Tabaco
+doc_007,documento,ORG,— Sport Progreso
+doc_007,documento,ORG,TRUJILLO
+doc_007,documento,ORG,##IG Intermedia
+doc_007,documento,MISC,LIM
+doc_007,documento,ORG,Comisión de
+doc_007,documento,MISC,Intermedia
+doc_007,documento,ORG,Alianza Cóndor
+doc_007,documento,MISC,la Liga
+doc_007,documento,ORG,Cam
+doc_007,documento,ORG,Gloria
+doc_007,documento,ORG,Miguel Grau
+doc_007,documento,ORG,Santiago de Ba
+doc_007,documento,ORG,Atlético Córdova
+doc_007,documento,ORG,Sport Inca
+doc_007,documento,ORG,Atlético Peruano
+doc_007,documento,ORG,##áscar Barranco
+doc_007,documento,ORG,Com
+doc_007,documento,ORG,##it
+doc_007,documento,ORG,##ó Directivo
+doc_007,documento,ORG,Inte
+doc_007,documento,ORG,##lectu
+doc_007,documento,ORG,##al Raymondi
+doc_007,documento,ORG,América
+doc_007,documento,ORG,Sportivo Uruguay
+doc_007,documento,ORG,Spo
+doc_007,documento,ORG,##r
+doc_007,documento,ORG,Unión
+doc_007,documento,ORG,Porvenir Miraflores
+doc_007,documento,MISC,Campeonato Oficial de la Li
+doc_007,documento,ORG,Comisión de Campeonatos
+doc_007,documento,MISC,División
+doc_007,documento,ORG,Atlético Lusi
+doc_007,documento,ORG,la Libertad
+doc_007,documento,ORG,Comité Directivo de la Liga
+doc_007,documento,ORG,Juventud Soledad
+doc_007,documento,ORG,Per
+doc_007,documento,ORG,##uvian Boys
+doc_007,documento,MISC,Juventud
+doc_007,documento,LOC,Trujillo
+doc_007,documento,MISC,Campeonato
+doc_007,documento,ORG,Atlé
+doc_007,documento,MISC,Campeón de Pri
+doc_007,documento,MISC,División Intermedia
+doc_007,documento,MISC,Liga
+doc_007,documento,ORG,Lima
+doc_007,documento,MISC,Campeón de Se
+doc_007,documento,ORG,Sport San Ja
+doc_007,documento,ORG,##oc
+doc_007,documento,MISC,Campeonato
+doc_007,documento,MISC,Campeonato
+doc_007,documento,ORG,##u de Primero
+doc_007,documento,MISC,Primera Divi
+doc_007,documento,MISC,Segunda División
+doc_007,documento,ORG,Ju Lima
+doc_007,documento,ORG,Úniversitario de Deportes
+doc_007,documento,MISC,Cam
+doc_007,documento,ORG,Sport San Jacinto
+doc_007,documento,MISC,PERSON
+doc_007,documento,ORG,Deportivo
+doc_007,documento,ORG,Trujillo
+doc_007,documento,ORG,Arica
+doc_007,documento,ORG,Z de Reserva
+doc_007,documento,ORG,visión Intermedia
+doc_007,documento,ORG,Sport
+doc_007,documento,ORG,San
+doc_007,documento,ORG,Alianza Lima
+doc_007,documento,MISC,Jacinto
+doc_007,documento,ORG,Asociación Deportiva Tarapacá
+doc_007,documento,MISC,Campeonato
+doc_007,documento,ORG,Alianza Limoncillo
+doc_007,documento,ORG,Independencia Mi
+doc_007,documento,ORG,Lima
+doc_007,documento,MISC,Primera División
+doc_007,documento,MISC,División ;
+doc_007,documento,ORG,Maurice La
+doc_007,documento,ORG,Alianza Lima
+doc_007,documento,ORG,Universitario de brousse
+doc_007,documento,ORG,Sucre F. B
+doc_007,documento,ORG,Sport Boys
+doc_007,documento,MISC,División
+doc_007,documento,ORG,Sport Arica Nepe Association
+doc_007,documento,ORG,Tara
+doc_007,documento,ORG,##pacá Ferrocarril
+doc_007,documento,ORG,Victoria F. F. B
+doc_007,documento,ORG,B. C.
+doc_007,documento,ORG,Eleven Boys Association
+doc_007,documento,ORG,Ali
+doc_007,documento,MISC,Campeonato de Primera
+doc_007,documento,MISC,División Inter - za San Martin
+doc_007,documento,ORG,Departamento de Lam
+doc_007,documento,MISC,División
+doc_007,documento,ORG,bay
+doc_007,documento,ORG,Almagro Barranco
+doc_007,documento,ORG,Atlético Barra
+doc_007,documento,ORG,Miraflores
+doc_007,documento,ORG,Barra 5
+doc_007,documento,MISC,Primera División
+doc_007,documento,MISC,Segunda División
+doc_007,documento,ORG,Sport
+doc_007,documento,ORG,##ing
+doc_007,documento,ORG,Tabaco
+doc_007,documento,ORG,Unión Car
+doc_007,documento,ORG,K. D. T. Nacional
+doc_007,documento,MISC,Tercera
+doc_007,documento,ORG,B. C
+doc_007,documento,ORG,Ciclista Lima Asocia
+doc_007,documento,ORG,Sporting Club
+doc_007,documento,ORG,Zona del Rimac
+doc_007,documento,MISC,CAT
+doc_007,documento,ORG,Unión White Star
+doc_007,documento,ORG,Once Amigos Loba
+doc_007,documento,MISC,Campeonato de Pri
+doc_007,documento,ORG,Atlético Libertad
+doc_007,documento,ORG,José Gálvez
+doc_007,documento,MISC,Tercera División
+doc_007,documento,ORG,##ud Nepeña
+doc_007,documento,ORG,Unión Santa Catalina
+doc_007,documento,ORG,Association Ri
+doc_007,documento,ORG,San
+doc_007,documento,ORG,Zona
+doc_007,documento,ORG,Alianza San mac
+doc_007,documento,ORG,Atlético
+doc_007,documento,ORG,Espi
+doc_007,documento,ORG,San Lorenzo del Rima
+doc_007,documento,MISC,Inter
+doc_007,documento,ORG,Circolo Sportivo
+doc_007,documento,ORG,Depor
+doc_007,documento,ORG,Rímac
+doc_007,documento,ORG,Zona de Rímac
+doc_007,documento,ORG,Maris
+doc_007,documento,ORG,Maris Italiano
+doc_007,documento,ORG,Santa Rosa
+doc_007,documento,ORG,Nueve de Diciembre
+doc_007,documento,ORG,Zona Oeste de Lima
+doc_007,documento,ORG,Estudi
+doc_007,documento,ORG,##an
+doc_007,documento,ORG,cal
+doc_007,documento,ORG,Sucre
+doc_007,documento,ORG,Racing F. B. C
+doc_007,documento,ORG,Sang
+doc_007,documento,MISC,Campeonato de Primera División
+doc_007,documento,ORG,tes Chorrillos
+doc_007,documento,ORG,Alianza Miraflores
+doc_007,documento,ORG,Fra
+doc_007,documento,ORG,Das
+doc_007,documento,ORG,##so
+doc_007,documento,ORG,Alianza Grau
+doc_007,documento,ORG,Deportivo por
+doc_007,documento,ORG,Barranco
+doc_007,documento,ORG,Alianza Chorrillos
+doc_007,documento,ORG,Circulo
+doc_007,documento,ORG,San Martin
+doc_007,documento,ORG,Sport Parinacochas
+doc_007,documento,ORG,Zona Este
+doc_007,documento,ORG,Divi
+doc_007,documento,ORG,Barranco
+doc_007,documento,ORG,Obr
+doc_007,documento,ORG,##eros Chorrillos Chevrolet
+doc_007,documento,ORG,Atlético Ucayali
+doc_007,documento,ORG,##xardo Star
+doc_007,documento,MISC,Intermedia
+doc_007,documento,ORG,Sport Progreso
+doc_007,documento,ORG,Zona de Balnearios del Sur. Magdalena
+doc_007,documento,ORG,Zona Oeste
+doc_007,documento,ORG,Lima ; Sport
+doc_007,documento,ORG,Oriental Chorrillos
+doc_007,documento,ORG,Agricultor de Sur
+doc_007,documento,MISC,Tercera División
+doc_007,documento,ORG,Combinado Barranco
+doc_007,documento,ORG,Belgrano Chorrillos
+doc_007,documento,ORG,Progreso co
+doc_007,documento,ORG,Ola
+doc_007,documento,ORG,##ya Chorrillos
+doc_007,documento,ORG,Alfonso Ugarte Lima
+doc_007,documento,ORG,##mac
+doc_007,documento,ORG,Nacional F. B. C
+doc_007,documento,ORG,Alianza Ris
+doc_007,documento,ORG,Primero
+doc_007,documento,ORG,Alianza Firpo
+doc_007,documento,ORG,[ PERSONA
+doc_007,documento,ORG,##gio
+doc_007,documento,ORG,Cho
+doc_007,documento,ORG,##rrillos
+doc_007,documento,ORG,Ayacucho Barranco
+doc_007,documento,ORG,Liber
+doc_007,documento,MISC,División Intermedia
+doc_007,documento,ORG,América Star
+doc_007,documento,ORG,Libertad Chorrillos
+doc_007,documento,ORG,Miraflores
+doc_007,documento,ORG,Zona de Balnea
+doc_007,documento,ORG,Club Sportivo Melgar
+doc_007,documento,MISC,##S
+doc_007,documento,MISC,Campeonato
+doc_007,documento,MISC,Segunda
+doc_007,documento,MISC,Tercera División
+doc_007,documento,MISC,Segunda División
+doc_007,documento,MISC,Reserva
+doc_007,documento,MISC,División Intermedia
+doc_007,documento,ORG,Centro Sport Juventud Gloria
+doc_007,documento,MISC,Campeón de Ter
+doc_007,documento,MISC,nizar
+doc_007,documento,MISC,cera División
+doc_007,documento,ORG,Sport Arica
+doc_007,documento,ORG,Campeonato
+doc_007,documento,ORG,##SO
+doc_007,documento,MISC,Campeonato
+doc_007,documento,ORG,Liga Provincial de Fútbol de Lima
+doc_007,documento,MISC,Pri
+doc_007,documento,MISC,Campeonato Oficial
+doc_007,documento,MISC,Ped
+doc_007,documento,ORG,Sport
+doc_007,documento,MISC,Primero
+doc_007,documento,ORG,Lir Progreso
+doc_007,documento,ORG,Sportivo Melgar
+doc_007,documento,MISC,Tercera División
+doc_007,documento,MISC,PRIM
+doc_007,documento,MISC,##ERA DIVI
+doc_007,documento,ORG,Sport Arica
+doc_007,documento,ORG,Alianza Lima
+doc_007,documento,ORG,Universitario de Depor
+doc_008,documento,LOC,MACHE
+doc_008,documento,MISC,Art. 194°
+doc_008,documento,MISC,Constitución Politica del Perú
+doc_008,documento,MISC,Título Preliminar
+doc_008,documento,MISC,Ley Orgánica de Municipalidades Ley N° 27972
+doc_008,documento,ORG,Municipalidades
+doc_008,documento,ORG,Estado
+doc_008,documento,LOC,Mache
+doc_008,documento,LOC,Mach
+doc_008,documento,MISC,""" Creación de los Símbolos para el distrito"
+doc_008,documento,LOC,Mache
+doc_008,documento,ORG,Ger
+doc_008,documento,ORG,##encia de Desarrollo Social
+doc_008,documento,MISC,Acuerdo de Consejo N° o
+doc_008,documento,MISC,Resolución de Alcaldía N°331
+doc_008,documento,MISC,Con
+doc_008,documento,MISC,##curso Público
+doc_008,documento,MISC,""" Creación de los Símbolos para el distrito de Mache"
+doc_008,documento,MISC,Resolución de Alcaldía N°
+doc_008,documento,MISC,; Concurso Público
+doc_008,documento,MISC,Lema para el Distrito de Mache
+doc_008,documento,MISC,##MA
+doc_008,documento,MISC,"MACHE, AMISTAD, BELLEZA Y CULTURA"
+doc_008,documento,MISC,; Concurso Público
+doc_008,documento,MISC,""" Creación de Escudo y Bandera para el Distrito de Mache"
+doc_008,documento,MISC,Constitución Politica del Perú
+doc_008,documento,MISC,Art. 20
+doc_008,documento,MISC,Ley Orgánica de Municipalidades
+doc_009,documento,ORG,Empresa de Transporte Luis Banchero Rossi S
+doc_009,documento,LOC,Hecpputgugal
+doc_010,documento,LOC,CAN
+doc_010,documento,LOC,Tele
+doc_010,documento,LOC,Gallere
+doc_010,documento,MISC,MAJESTIC
+doc_010,documento,LOC,EELUU
+doc_010,documento,LOC,##EL
+doc_010,documento,LOC,LOS
+doc_010,documento,LOC,Perú
+doc_010,documento,MISC,FARSA DE LA COLABORACIÓN PENA
+doc_010,documento,ORG,PNP
+doc_010,documento,LOC,República
+doc_010,documento,LOC,Pun
+doc_010,documento,LOC,##o
+doc_010,documento,LOC,Uruguay
+doc_010,documento,LOC,Perú
+doc_010,documento,LOC,##ju
+doc_010,documento,MISC,BCKP
+doc_010,documento,LOC,##ier
+doc_010,documento,MISC,Caeta ANTIGUA
+doc_010,documento,MISC,C 297763 OTA
+doc_010,documento,LOC,##A
+doc_010,documento,MISC,Lava Jato
+doc_010,documento,MISC,Acu
+doc_010,documento,MISC,##L
+doc_010,documento,ORG,##EBRECH
+doc_010,documento,MISC,##ING
+doc_011,documento,MISC,##o
+doc_011,documento,LOC,Toledo
+doc_011,documento,MISC,##GA
+doc_011,documento,MISC,D CAA
+doc_011,documento,LOC,MAÑANA
+doc_011,documento,LOC,Vizca
+doc_011,documento,MISC,##GCA
+doc_011,documento,ORG,Congreso
+doc_011,documento,LOC,Lima
+doc_011,documento,LOC,Per
+doc_011,documento,LOC,##u
+doc_011,documento,MISC,tor
+doc_011,documento,MISC,Vidor in iMe
+doc_011,documento,MISC,Tu Salud con la Medcna Natural
+doc_011,documento,MISC,YLIMON
+doc_011,documento,ORG,##alu
+doc_011,documento,ORG,##d
+doc_011,documento,ORG,##alu
+doc_011,documento,ORG,##res
+doc_011,documento,ORG,Congreso
+doc_011,documento,LOC,SAN
+doc_011,documento,LOC,##DIA
+doc_011,documento,LOC,COL
+doc_011,documento,LOC,##A
+doc_011,documento,MISC,Deb
+doc_011,documento,MISC,Mundial
+doc_011,documento,LOC,##ANABANA
+doc_011,documento,LOC,Pau
+doc_011,documento,LOC,PPK
+doc_011,documento,ORG,República
+doc_011,documento,LOC,PAS
+doc_011,documento,ORG,Congreso
+doc_011,documento,MISC,Salud Natural
+doc_011,documento,ORG,Bolivia
+doc_011,documento,LOC,Tre
+doc_011,documento,LOC,Anto
+doc_011,documento,LOC,##fagasta
+doc_011,documento,ORG,##R
+doc_011,documento,ORG,Congreso
+doc_011,documento,ORG,##CO
+doc_011,documento,ORG,##GRES
+doc_011,documento,MISC,##ARIO
+doc_011,documento,MISC,MEDICINA NATURA
+doc_011,documento,LOC,EL CA
+doc_011,documento,LOC,##CA
+doc_011,documento,LOC,PAIS
+doc_011,documento,MISC,DES
+doc_011,documento,ORG,JUBILADO Antidopaje
+doc_011,documento,ORG,CON
+doc_011,documento,ORG,##GRES
+doc_011,documento,LOC,Rusia
+doc_012,documento,MISC,Lom
+doc_012,documento,MISC,Mil
+doc_012,documento,LOC,Man
+doc_012,documento,MISC,Chicha Morada De Cortesia
+doc_014,documento,ORG,Min
+doc_014,documento,ORG,##isiera de
+doc_014,documento,MISC,LIB
+doc_014,documento,LOC,SuN0ß
+doc_014,documento,LOC,Panamt
+doc_014,documento,ORG,Repúles
+doc_014,documento,ORG,##la
+doc_014,documento,MISC,V E
+doc_014,documento,MISC,Amée
+doc_014,documento,MISC,Sat
+doc_014,documento,LOC,##elbq
+doc_015,documento,LOC,Huaca Melgarejo ua
+doc_015,documento,LOC,##ca Melgarejo
+doc_015,documento,LOC,H uaca Melgarejo
+doc_015,documento,LOC,Av. La Fontana
+doc_015,documento,LOC,Santa Patricia
+doc_015,documento,LOC,Distrito
+doc_015,documento,LOC,La Fontana Avenue
+doc_015,documento,LOC,Santa Patricia
+doc_015,documento,LOC,La de La Molina
+doc_015,documento,MISC,Molina Distric
+doc_015,documento,MISC,Earl
+doc_015,documento,MISC,##y
+doc_015,documento,MISC,Intermedio Temprano
+doc_015,documento,MISC,Cultura Lima Intermediate Period
+doc_015,documento,ORG,Lima Culture
+doc_015,documento,MISC,Intermedio Tardio
+doc_015,documento,MISC,Late Intermediate Period
+doc_015,documento,MISC,Cultura Ichma
+doc_015,documento,ORG,Ichma Culture
+doc_015,documento,LOC,Lurin Valley
+doc_015,documento,LOC,Cienegui
+doc_015,documento,LOC,##lla
+doc_015,documento,LOC,Lurin
+doc_015,documento,LOC,Cienegui
+doc_015,documento,LOC,Lati
+doc_015,documento,MISC,Colonial Period
+doc_015,documento,MISC,Colonia
+doc_015,documento,LOC,Hacienda Melgarejo
+doc_015,documento,MISC,War of the Pacific
+doc_015,documento,LOC,Hacienda Melgarejo
+doc_015,documento,LOC,Chile
+doc_015,documento,MISC,Guerra del Pacífico
+doc_015,documento,LOC,Parque Hispanoamérica
+doc_015,documento,LOC,Peruvia
+doc_015,documento,LOC,Parque Hispanoamérica
+doc_015,documento,MISC,Patrimonio Cultural de la Nación del Perú
+doc_015,documento,MISC,Patrimonio Cultural de la Nación
+doc_015,documento,MISC,RDN N ' 233
+doc_015,documento,LOC,La Molina
+doc_016,documento,LOC,Perú
+doc_016,documento,MISC,##hat
+doc_016,documento,MISC,GRAVE
+doc_016,documento,ORG,Ministerio Dirección de Redes Integradas
+doc_016,documento,ORG,"Dirección de Medicamentas, de Salud de Salud"
+doc_016,documento,ORG,Insurmos
+doc_017,documento,LOC,##uazzo
+doc_019,documento,LOC,Riberalta
+doc_019,documento,ORG,Sociedad Geografiia
+doc_019,documento,MISC,Biblia
+doc_019,documento,MISC,A CAn Naci
+doc_020,documento,LOC,Sin
+doc_020,documento,LOC,##tepeo
+doc_020,documento,LOC,Patria
+doc_020,documento,LOC,Sar
+doc_021,documento,ORG,Dep
+doc_021,documento,LOC,Mbot
+doc_022,documento,MISC,##for t Anteni Red Ham
+doc_022,documento,LOC,Areguipa Ch
+doc_022,documento,MISC,Sreg
+doc_024,documento,ORG,Com
+clip_001,audio,ORG,Universidad Nacional Mayor de San Marcos
+clip_001,audio,ORG,Perú
+clip_002,audio,MISC,Dios
+clip_002,audio,MISC,Dios
+clip_003,audio,ORG,Perú
+clip_004,audio,ORG,Perú
+clip_004,audio,MISC,Mundial
+clip_008,audio,ORG,Universidad San Marcos
+clip_008,audio,ORG,Universidad San Marcos
+clip_008,audio,LOC,Perú
+clip_008,audio,LOC,Perú
+clip_008,audio,LOC,Perú
+clip_008,audio,LOC,Perú
+clip_009,audio,ORG,Estados Unidos
+clip_009,audio,LOC,Perú
+clip_012,audio,LOC,Perú
+clip_012,audio,LOC,Perú
+clip_012,audio,LOC,Perú
+clip_012,audio,LOC,Perú
+clip_012,audio,LOC,Perú
+clip_013,audio,LOC,Perú
+clip_014,audio,LOC,Los San Marcos
+clip_014,audio,LOC,Perú
+clip_014,audio,LOC,Perú
+clip_014,audio,LOC,México
+clip_014,audio,LOC,América
+clip_014,audio,LOC,Perú
+clip_014,audio,LOC,Lima
+clip_015,audio,LOC,Lima
+clip_015,audio,LOC,Lima
+clip_016,audio,LOC,Los San Marcos
+clip_016,audio,LOC,Perú
+clip_016,audio,LOC,Perú
+clip_016,audio,LOC,América
+clip_016,audio,LOC,Perú
+clip_017,audio,ORG,Estados Unidos
+clip_017,audio,ORG,Perú
+clip_018,audio,ORG,Estados Unidos
+clip_018,audio,ORG,Estados Unidos
+clip_019,audio,LOC,San Martín
+clip_019,audio,LOC,Perú
+clip_019,audio,LOC,Perú
+clip_020,audio,LOC,Perú
+clip_020,audio,MISC,Navidad
+clip_020,audio,LOC,Perú
+clip_020,audio,LOC,Perú
+clip_021,audio,LOC,Perú
+clip_021,audio,ORG,ECTBI
+clip_022,audio,MISC,Dios
+clip_022,audio,MISC,Dios
+clip_022,audio,MISC,Dios
+clip_022,audio,MISC,Dios
+clip_022,audio,MISC,Dios
+clip_022,audio,LOC,Perú
+clip_023,audio,LOC,Perú
+clip_024,audio,ORG,Comunidad Campesina de Shikui
+clip_024,audio,LOC,San Juan de Jarpa
+clip_024,audio,LOC,Chupaca
+clip_025,audio,LOC,Concepción
+clip_025,audio,LOC,Chupaca
+clip_025,audio,LOC,##anca
+clip_025,audio,LOC,Perú
+clip_026,audio,ORG,Ministerio de Agricultura
+clip_026,audio,MISC,COVID
+clip_028,audio,LOC,Zapallán
+clip_031,audio,ORG,Estados Unidos
+clip_031,audio,ORG,Ministerio de Cultura
+clip_033,audio,LOC,Perú
+clip_036,audio,LOC,México
+clip_040,audio,ORG,Centro
+clip_044,audio,MISC,Hugo
+clip_050,audio,MISC,Festival de Cine de Venecia
+clip_052,audio,ORG,Universidad de las Américas
+clip_055,audio,ORG,Secretaría de Educación
+clip_076,audio,LOC,París
+clip_076,audio,LOC,Francia
+clip_077,audio,LOC,París
+clip_092,audio,LOC,Teatro de la Ciudad
+clip_099,audio,LOC,México
+clip_099,audio,LOC,India
+clip_104,audio,LOC,España
+clip_104,audio,LOC,México
+clip_107,audio,ORG,Estados Unidos
+clip_120,audio,MISC,Liga Europea
+clip_122,audio,MISC,Olimpiadas
+clip_122,audio,MISC,Mundial de Gimnasia
+clip_127,audio,LOC,Creta
+clip_129,audio,MISC,El llano en llamas
+clip_129,audio,MISC,PERSONA _ 9
+clip_130,audio,MISC,El llano en llamas
+clip_130,audio,MISC,[ PERSONA
+clip_132,audio,MISC,##hat
+clip_134,audio,LOC,Caracas
+clip_146,audio,MISC,sticker
+clip_151,audio,MISC,Mac

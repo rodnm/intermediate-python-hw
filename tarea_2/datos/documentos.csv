@@ -1,4 +1,4 @@
-id,archivo,tipo,fuente,texto_ocr,modelo_ocr,texto_referencia,epoca,imagen_publicable,sha256,n_caracteres
+id,archivo,tipo,fuente,texto_ocr,modelo_ocr,texto_referencia,epoca,imagen_publicable,sha256,n_caracteres,region_eval
 doc_001,datos/raw/documentos/img/doc_001.png,impreso,Wikimedia Commons (CC BY 4.0),"DIARIO OFICIAL
 EI Peruano
 NORMAS LEGALES
@@ -48,7 +48,7 @@ Que los recursos ya aludidos vienen sufriendo nuosa por el limite provincial pas
 una intensa depredación producida principalmen- Nº (9), bordeando Cadena de Sa kantay con una
 te por agentes naturales y humanos, haciéndose longitud de 10.400 m.1. hasta el hito Nº (10), pún-
 necesario la protección de este ecosistema decla- to ubicado con Latitud Sur de 13º 13' 08"" y lon-
-rando el área como Unidad de Conservación en la gitud de 72? 34' 00"".","PaddleOCR 3.7.0 PP-OCRv6 (lang=es, por defecto, motor onnxruntime, CPU)",,,True,799c383605df185d0fe938866e571c8b356c07c9d2a733bf3df52ea2f0730ba9,3513
+rando el área como Unidad de Conservación en la gitud de 72? 34' 00"".","PaddleOCR 3.7.0 PP-OCRv6 (lang=es, por defecto, motor onnxruntime, CPU)",,,True,799c383605df185d0fe938866e571c8b356c07c9d2a733bf3df52ea2f0730ba9,3513,
 doc_002,datos/raw/documentos/img/doc_002.png,impreso,Wikimedia Commons (Public domain),"DIARIO OFICIAL DEL BICENTENARIO
 El Peruano FUNDADO EL 22 DE OCTUBRE DE 1825 POR EL LIBERTADOR [PERSONA_30] BOLÍVAR
 Gerente de Publicaciones Oficiales : Ricardo Montero Reyes ""AÑO DE LA UNIVERSALIZACIÓN DE LA SALUD""
@@ -88,7 +88,7 @@ N° 046-2020-PCM Orgánica del Poder Ejecutivo; y;
 EL PRESIDENTE DE LA REPÚBLICA cargo a dar cuenta al Congreso de la República; Con el voto aprobatorio del Consejo de Ministros y con
 CONSIDERANDO: DECRETA:
 Que mediante Decreto Supremo N° 044-2020-PCM se Artículo 1.- Precisión del artículo 4 del Decreto
-dispuso el estado de emergéncia a nivel nacional en el Supremo Nº 044-2020-PCM","PaddleOCR 3.7.0 PP-OCRv6 (lang=es, por defecto, motor onnxruntime, CPU)",,,True,c943e38a90af1815382431df0ccf7d520381ddcaa80a7de7b03c15f610ccfccb,2632
+dispuso el estado de emergéncia a nivel nacional en el Supremo Nº 044-2020-PCM","PaddleOCR 3.7.0 PP-OCRv6 (lang=es, por defecto, motor onnxruntime, CPU)",,,True,c943e38a90af1815382431df0ccf7d520381ddcaa80a7de7b03c15f610ccfccb,2632,
 doc_003,datos/raw/documentos/img/doc_003.png,impreso,Wikimedia Commons (Public domain),"DIARIO OFICIAL DEL BICENTENARIO
 El Peruano
 FUNDADO EL 22 DE OCTUBRE DE 1825 POR EL LIBERTADOR [PERSONA_30] BOLÍVAR
@@ -135,7 +135,7 @@ República, la revocatoria del mandato parlamentario y la aplicación de dicha n
 la convocatoria a elecciones para un nuevo Congreso, a los principios de transparencia, publicidad, eficiencia y
 realizarse el día 26 de enero de 2020, a fin de completar el eficacia, integridad, vigencia tecnológica, sostenibilidad
 periodo constitucional parlamentario de los congresistas social y ambiental, equidad, entre otros principios
-elegidos en las Elecciones Generales 2016; aplicables al derecho público;","PaddleOCR 3.7.0 PP-OCRv6 (lang=es, por defecto, motor onnxruntime, CPU)",,,True,a7e6606887b6339890ad36b1e224e597a3d7dd84550417e022a1cf3d763d4e2d,3371
+elegidos en las Elecciones Generales 2016; aplicables al derecho público;","PaddleOCR 3.7.0 PP-OCRv6 (lang=es, por defecto, motor onnxruntime, CPU)",,,True,a7e6606887b6339890ad36b1e224e597a3d7dd84550417e022a1cf3d763d4e2d,3371,
 doc_004,datos/raw/documentos/img/doc_004.png,impreso,Wikimedia Commons (Public domain),"Dirección General
 PERÚ Ministerio Viceministerio de Salud Ambiental
 de Salud de Salud Pública e Inocuidad Alimentaria
@@ -158,7 +158,30 @@ f) Se debe cumplir las especificaciones de uso del producto desinfectante y el t
 de acción, que establece el fabricante en el rotulado del producto.
 g) Culminado el proceso de limpieza y desinfección se deberá lavar las manos con agua
 y jabón.
-ELPERÚ PRIMERO","PaddleOCR 3.7.0 PP-OCRv6 (lang=es, por defecto, motor onnxruntime, CPU)",,,True,367d1bae42e1930412d7395ddc7d141809a339bab73c17501d3c042c1b5c5611,1399
+ELPERÚ PRIMERO","PaddleOCR 3.7.0 PP-OCRv6 (lang=es, por defecto, motor onnxruntime, CPU)","PERÚ
+Ministerio
+de Salud
+Viceministerio
+de Salud Pública
+Dirección General
+de Salud Ambiental
+e Inocuidad Alimentaria
+
+LIMPIEZA Y DESINFECCIÓN EN DOMICILIOS
+
+Frente a la presencia de casos sospechosos o confirmados de Coronavirus 2019-nCoV,
+COVID 19, las personas deben incrementar las medidas de limpieza y desinfección de
+sus hogares, debiendo para ello seguir las siguientes recomendaciones:
+
+a) Se debe realizar limpieza los pisos u otras superficies paredes, manijas de puertas,
+ventanas, etc., antes de desinfectar.
+
+b) La limpieza será en húmedo, utilizando paños, trapeadores, mopas, etc., se puede
+utilizar productos detergentes para remoción de materia orgánica, los mismos que
+deben contar con el Registro, Autorización Sanitaria o Notificación Sanitaria
+Obligatoria según corresponda.
+
+c) No se debe sacudir las superficies ni barrer con escobas",,True,367d1bae42e1930412d7395ddc7d141809a339bab73c17501d3c042c1b5c5611,1399,superior_40
 doc_005,datos/raw/documentos/img/doc_005.png,impreso,Wikimedia Commons (Public domain),"PERÙ Ministerio Oficina General
 de Salud de Comunicaciones
 COMUNICADO OFICIAL DE PRENSA N°21
@@ -178,7 +201,14 @@ Lima, 19 de marzo del 2020
 OFICINA DE INFORMACIÓN PÚBLICA
 OFICINA GENERAL DE COMUNICACIONES
 (Teléfono 315-6600 anexo 2948)
-QO卷●","PaddleOCR 3.7.0 PP-OCRv6 (lang=es, por defecto, motor onnxruntime, CPU)",,,True,5cb63541eafcb4c314dcd887b4179a6b69d0b4e8d8b83094b17267b86c1b5a75,954
+QO卷●","PaddleOCR 3.7.0 PP-OCRv6 (lang=es, por defecto, motor onnxruntime, CPU)","COMUNICADO OFICIAL DE PRENSA N°21
+
+El Ministerio de Salud lamenta informar el sensible fallecimiento de 
+dos personas por infección por COVID-19.
+
+Se trata de un varón de 47 años con antecedentes de viaje a España, 
+que presentaba asma bronquial y obesidad. Fue internado en la 
+unidad de cuidados intensivos del hospital 2 de Mayo, por presentar",,True,5cb63541eafcb4c314dcd887b4179a6b69d0b4e8d8b83094b17267b86c1b5a75,954,superior_40
 doc_006,datos/raw/documentos/img/doc_006.png,impreso,Wikimedia Commons (Public domain),"ANUNCIO DE DECRETO SUPREMO QUE DECLARA ESTADO DE EMERGENCIA NACIONAL
 PARA HACER FRENTE AL CORONAVIRUS
 15 DE MARZO DE 2020
@@ -207,7 +237,22 @@ convicción de que la salud y la integridad de los peruanos están por encima de
 forma posible.
 Estamos ante el riesgo de que este virus pueda extenderse en nuestro territorio, lo que haría más difícil aún enfrentarlo.
 Por ello, luego de hacer una evaluación seria y responsable, y sostener reuniones de coordinación con ministros y autoridades
-coronavirus.","PaddleOCR 3.7.0 PP-OCRv6 (lang=es, por defecto, motor onnxruntime, CPU)",,,True,d022260a62238a5fc2c5b09d56713f9dad2a0efdaa848244749831e6741caee1,2483
+coronavirus.","PaddleOCR 3.7.0 PP-OCRv6 (lang=es, por defecto, motor onnxruntime, CPU)","ANUNCIO DE DECRETO SUPREMO QUE DECLARA ESTADO DE EMERGENCIA NACIONAL
+PARA HACER FRENTE AL CORONAVIRUS
+
+15 DE MARZO DE 2020
+
+Queridos compatriotas:
+
+Durante estos dos años de Gobierno, los peruanos y peruanas hemos afrontado diversas dificultades que han puesto a prueba
+nuestra capacidad, nuestra fortaleza y nuestro compromiso con la Patria.
+
+Asumimos las riendas del país en medio de una grave crisis política e institucional. Los altos niveles de corrupción, el
+descrédito de las instituciones y la pérdida de confianza, demandaban acciones firmes y decididas, sin las cuales no hubiera
+sido posible continuar. Pero 10 hicimos juntos.
+
+A pesar que, en su momento, muchas de estas decisiones fueron consideradas como extremas, resultaron necesarias para
+sacar adelante al país.",,True,d022260a62238a5fc2c5b09d56713f9dad2a0efdaa848244749831e6741caee1,2483,superior_40
 doc_007,datos/raw/documentos/img/doc_007.png,impreso,Wikimedia Commons (Public domain),"Estos cuadros se A
 SE PROCLAMARON LOS CAMPEONES gad L
 do
@@ -292,7 +337,7 @@ Campeonato respectivo. 2 ASCENSOS to en la serie final del Campeonato de fantas 
 1o.-Declarar que ascienden a la Pri- esta categoria. estarán agrupados para los efectos del Campeonato Oficial de 1935 en la forma Pedr (F
 mera División ""B"" los clubs Sport 19.-Proclamar campeón de Primeros sigufente: Lir
 Progreso y Sportivo Melgar que han equipos de Tercera División al club PRIMERA DIVISION ""A""
-ocupade los dos primeros puestas en Sport Arica Infantas que he obtanide Alianza Lima, Universitario de Depor-","PaddleOCR 3.7.0 PP-OCRv6 (lang=es, por defecto, motor onnxruntime, CPU)",,,False,290a7671f8bc156cad98571668852a300f55fd82ef457d85661a4b11311d4d5d,8193
+ocupade los dos primeros puestas en Sport Arica Infantas que he obtanide Alianza Lima, Universitario de Depor-","PaddleOCR 3.7.0 PP-OCRv6 (lang=es, por defecto, motor onnxruntime, CPU)",,,False,290a7671f8bc156cad98571668852a300f55fd82ef457d85661a4b11311d4d5d,8193,
 doc_008,datos/raw/documentos/img/doc_008.png,impreso,Wikimedia Commons (CC BY 4.0),"ACTA DE OFICIALIZACIÓN DE LOS SÍMBOLOS PARA EL DISTRITO DE
 MACHE.
 CONSIDERANDO:
@@ -329,7 +374,7 @@ propuesta presentada por la señorita [PERSONA_36] DISTRITO DE MACHE la propuest
 [PERSONA_26].
 Estando a lo expuesto, contando con el visto bueno de asesoría legal y en
 conformidad con la Constitución Politica del Perú y las facultades dadas por el
-Art. 20 inciso 6 de la Ley Orgánica de Municipalidades N° 27972;","PaddleOCR 3.7.0 PP-OCRv6 (lang=es, por defecto, motor onnxruntime, CPU)",,,False,7b9678f366ad116c6b3e90f2d32a0f2f6d21db68a814ccbca2275436c8b8423f,2374
+Art. 20 inciso 6 de la Ley Orgánica de Municipalidades N° 27972;","PaddleOCR 3.7.0 PP-OCRv6 (lang=es, por defecto, motor onnxruntime, CPU)",,,False,7b9678f366ad116c6b3e90f2d32a0f2f6d21db68a814ccbca2275436c8b8423f,2374,
 doc_009,datos/raw/documentos/img/doc_009.png,foto,Wikimedia Commons (CC0),"COMUNICADO
 Se comunica a todos nuestros
 usuarios que, a partir del lunes 13, el
@@ -355,7 +400,7 @@ A1sesaee
 Hecpputgugalyg 47405
 OTAZAYIM
 VESMSDO
-USE TOO","PaddleOCR 3.7.0 PP-OCRv6 (lang=es, por defecto, motor onnxruntime, CPU)",,,True,2d319572c366d5418fdd0d2e23e70fce52b0e900f0962449480709ec798193fe,629
+USE TOO","PaddleOCR 3.7.0 PP-OCRv6 (lang=es, por defecto, motor onnxruntime, CPU)",,,True,2d319572c366d5418fdd0d2e23e70fce52b0e900f0962449480709ec798193fe,629,
 doc_010,datos/raw/documentos/img/doc_010.png,foto,Wikimedia Commons (CC0),"ojo e Qe NUEVO SOL HUASCARISTAS'SE 1.50 EL PENSIONISTA UBILADOS DEL PERÚ Comercio
 [PERSONA_24] PASARON A FILAS DE PENSION Y TU GRATI DES/300!
 MURIO A LOS 74 AÑOS FRANCISCO PIZARRO Iwal
@@ -468,7 +513,7 @@ sorpresa
 AL FINALDE LA PROMOCIÓN! Escribele a FITO al
 [TELEFONO]
 trome
-siempre te da más.","PaddleOCR 3.7.0 PP-OCRv6 (lang=es, por defecto, motor onnxruntime, CPU)",,,False,12c5896bf6f65baba2040245f6313bacbf65663401508abf9df5ed1fb088c9a7,7534
+siempre te da más.","PaddleOCR 3.7.0 PP-OCRv6 (lang=es, por defecto, motor onnxruntime, CPU)",,,False,12c5896bf6f65baba2040245f6313bacbf65663401508abf9df5ed1fb088c9a7,7534,
 doc_011,datos/raw/documentos/img/doc_011.png,foto,Wikimedia Commons (CC BY-SA 4.0),"51.00 JUNTATUSCUPONESYGANA mlr500 Expreso HOY despidio aprobando Guoinete Aráoz se 00000
 fftrome 5/.0.50 GRATIS extradición de Toledo Piden desafuero de Kenji, Meche
 ElComercio IGRATIS RECO CONOCE CÓMO AUMENTAR LEGARA D CAAA TENRÀ QUE CONCAA  ASUME MAÑANA Y KUCZYNSKI CON IMPEDIMENTO DE SALIDA EDICIÓN FIOURAS 6 Bruce, Bienvenido y Bocángal
@@ -565,7 +610,7 @@ DE APORTES!
 CON NUEVA LEY ORDENARAN QUE SE FINANCIE CON
 ELIMINACION DE EXONERACIONES TRIBUTARIAS INJUSTIFICADAS
 FONDO PARA AUMENTO DE
-PENSIONES AL D.L. 19990!","PaddleOCR 3.7.0 PP-OCRv6 (lang=es, por defecto, motor onnxruntime, CPU)",,,False,eccefd5bbc10915c66f643b8851a6fd18ca301a2e78c9af2a3f7e522949937ad,4984
+PENSIONES AL D.L. 19990!","PaddleOCR 3.7.0 PP-OCRv6 (lang=es, por defecto, motor onnxruntime, CPU)",,,False,eccefd5bbc10915c66f643b8851a6fd18ca301a2e78c9af2a3f7e522949937ad,4984,
 doc_012,datos/raw/documentos/img/doc_012.png,foto,Wikimedia Commons (CC BY 2.0),"ENTRADAS %15.00
 * Sopa de lo cosa
 * Rocoto Relleno
@@ -579,7 +624,10 @@ PostRe y BEBiDA
 * Manyana
 Salad Bar
 Chicha Morada
-De Cortesia!","PaddleOCR 3.7.0 PP-OCRv6 (lang=es, por defecto, motor onnxruntime, CPU)",,,True,ed662988f429eb0c4b0aab41ae1e85075756097fbd8a53c85d3192eb5d4e988a,216
+De Cortesia!","PaddleOCR 3.7.0 PP-OCRv6 (lang=es, por defecto, motor onnxruntime, CPU)","ENTRADAS S/. 15.00
+* Sopa de la casa
+* Rocoto Relleno
+* Brocheta de Pescado",,True,ed662988f429eb0c4b0aab41ae1e85075756097fbd8a53c85d3192eb5d4e988a,216,superior_40
 doc_013,datos/raw/documentos/img/doc_013.png,foto,Wikimedia Commons (CC BY-SA 4.0),"FACULTAD DE Bienvenidos a un nuevo
 CIENCIAS semestre académico!
 SOCIALES Para cuidarnos todos y todas:
@@ -604,7 +652,33 @@ HIGIENE CON MODERACIÒN
 RECUERDA QUE LOS SÍNTOMAS
 UTILIZA LAS ESCALERAS PARA MÁS COMUNES DEL COVID SON: Fiebre, tos seca, dolor de cabeza,
 SUBIR Y LAS RAMPAS PARA dolor de garganta, escalofrios,
-BAJAR DE LA FACULTAD diarrea o vomitos","PaddleOCR 3.7.0 PP-OCRv6 (lang=es, por defecto, motor onnxruntime, CPU)",,,True,a69c580c5c33c50d1bff9c9d277c3c085b2011cb669c2c0f4bb8f1b2879c095c,813
+BAJAR DE LA FACULTAD diarrea o vomitos","PaddleOCR 3.7.0 PP-OCRv6 (lang=es, por defecto, motor onnxruntime, CPU)","2
+QUÉDATE EN CASA
+SI TIENES COVID O
+SUS SÍNTOMAS
+
+4
+SI EN CLASES PRESENTAS
+ÍNTOMAS DE COVID, INFORMA
+A TU PROFESOR/A
+
+6
+LIZA LOS TACHOS
+S PARA DESCARTAR
+S MASCARILLAS
+
+8
+MANTÉN LOS AMBIENTES
+VENTILADOS Y CUIDA LOS BAÑOS
+
+10
+RECUERDA QUE LOS SÍNTOMAS
+MÁS COMUNES DEL COVID SON:
+Fiebre, tos seca, dolor de cabeza, 
+dolor de garganta, escalofríos, 
+diarrea o vómitos
+
+l Covid19!",,True,a69c580c5c33c50d1bff9c9d277c3c085b2011cb669c2c0f4bb8f1b2879c095c,813,superior_40
 doc_014,datos/raw/documentos/img/doc_014.png,foto,Wikimedia Commons (CC BY-SA 4.0),"UN
 SEMESTRE.
 A1AU931AT-A7 NUM.
@@ -651,7 +725,17 @@ Welbqin
    V. E, éise que la motrals, pe me ste emséée rés
 soe de hore asie sl puntie s Catie a sñe sopit Ée he popuote sl Cafine le somatssoion de ae
 pos cobgae gue quuisie sotiae sn le spspssn ae se
-Sérmne e sumsampe D. n ipe y  Fomsotase qQuie peturg séme loe fsin, soipane gue é scie ae ","PaddleOCR 3.7.0 PP-OCRv6 (lang=es, por defecto, motor onnxruntime, CPU)",,,True,f6ae0227b8a610963f0ebed7ad0ad85fa76cf9b269a1f9583b7897346a1308d1,3419
+Sérmne e sumsampe D. n ipe y  Fomsotase qQuie peturg séme loe fsin, soipane gue é scie ae ","PaddleOCR 3.7.0 PP-OCRv6 (lang=es, por defecto, motor onnxruntime, CPU)","MATRIZ DE PLOMO 
+DEL PRIMER EJEMPLAR DEL 
+DIARIO OFICIAL EL PERUANO
+
+NUM. 1   SEMESTRE [?]
+VIVA LA REPUBLICA.
+EL PERUANO.
+DEL SABADO 13 DE MAYO DE 1826
+
+LOS EDITORES.
+[?]",,True,f6ae0227b8a610963f0ebed7ad0ad85fa76cf9b269a1f9583b7897346a1308d1,3419,superior_40
 doc_015,datos/raw/documentos/img/doc_015.png,foto,Wikimedia Commons (CC BY-SA 4.0),"Huaca
 Melgarejo
 uaca Melgarejo es un sitio arqueológico e histórico H uaca Melgarejo is an archaeological and historical site
@@ -674,7 +758,7 @@ Hispanoamérica y es parte del Patrimonio Cultural de la
 Nación del Perú.
 Municipalidad
 Declarado Patrimonio Cultural de la Nación por RDN N' 233/INC de La Molina
-de 27 de marzo 2002.","PaddleOCR 3.7.0 PP-OCRv6 (lang=es, por defecto, motor onnxruntime, CPU)",,,True,23240db74c73bdbfa5258920d74f263ca77f692655d21451888736a275517de7,2020
+de 27 de marzo 2002.","PaddleOCR 3.7.0 PP-OCRv6 (lang=es, por defecto, motor onnxruntime, CPU)",,,True,23240db74c73bdbfa5258920d74f263ca77f692655d21451888736a275517de7,2020,
 doc_016,datos/raw/documentos/img/doc_016.png,foto,Wikimedia Commons (CC BY-SA 4.0),"Pongo
 el hombro
 VACUNACIÓN por el Perú YO ME VACUNO
@@ -700,7 +784,7 @@ el establecimiento de
 salud más cercano.
 PERÚ Ministerio Dirección de Redes Integradas Dirección de Medicamentas,
 de Salud de Salud Lima Centro Insurmos y Drogas BICENTENARIO
-PERU 2021","PaddleOCR 3.7.0 PP-OCRv6 (lang=es, por defecto, motor onnxruntime, CPU)",,,True,380f109133f6eb7a1875e8d19cffeceb1358c4606e7405df26e38126feb48bae,878
+PERU 2021","PaddleOCR 3.7.0 PP-OCRv6 (lang=es, por defecto, motor onnxruntime, CPU)",,,True,380f109133f6eb7a1875e8d19cffeceb1358c4606e7405df26e38126feb48bae,878,
 doc_017,datos/raw/documentos/img/doc_017.png,manuscrito,Wikimedia Commons (Public domain),"Vin D Loming Fristan
 Vecallyua Onuazzo 2e1822
 Mi mfon Amiza inlayoa van 0a
@@ -715,7 +799,7 @@ do tan cocelente gE poca vee  prrenta tal.
 ves lo peaderomo p sempre.
 Arior mi anigo, Digame v. rive ha
 anigo
-Mrchar coar ami Vicaris y Echenigera","PaddleOCR 3.7.0 PP-OCRv6 (lang=es, por defecto, motor onnxruntime, CPU)",,XIX,True,c62e486675c93371135f2790c481481d3a806e7db0a5642c42e0df1fb7641d3a,469
+Mrchar coar ami Vicaris y Echenigera","PaddleOCR 3.7.0 PP-OCRv6 (lang=es, por defecto, motor onnxruntime, CPU)",,XIX,True,c62e486675c93371135f2790c481481d3a806e7db0a5642c42e0df1fb7641d3a,469,
 doc_018,datos/raw/documentos/img/doc_018.png,manuscrito,Wikimedia Commons (Public domain),"of. ri lavei Egon
 Bannnco.
 Thonvsemente coumovid bé su aleut carth,
@@ -736,7 +820,16 @@ men"" en gur fui publicain.
 Hay mit foanint, por ou salt, y one
 neiter, de U. on afutvimss
 Simitralle
-Carta de César Vallejo a José María Eguren.","PaddleOCR 3.7.0 PP-OCRv6 (lang=es, por defecto, motor onnxruntime, CPU)",,XX,True,b19f8cf7b53bfb5883fc2fa16ff1236226d0980902bc0d2f9e942f763b079189,737
+Carta de César Vallejo a José María Eguren.","PaddleOCR 3.7.0 PP-OCRv6 (lang=es, por defecto, motor onnxruntime, CPU)","Trujillo, 29 de julio 917
+
+Sr. José María Eguren
+
+Barranco.
+
+Hondamente conmovido leí su atenta carta, 
+cuyos términos le agradezco de veras. Ella me ha 
+reanimado mucho, en estos días en que me sen-
+tía tan mal; pues aquí hay quienes me atacan",XX,True,b19f8cf7b53bfb5883fc2fa16ff1236226d0980902bc0d2f9e942f763b079189,737,superior_40
 doc_019,datos/raw/documentos/img/doc_019.png,manuscrito,Wikimedia Commons (CC0),"pallide akatuer,ars merono,dgy
 有 b来Bk 0
 Riberalta, jumio 10 de 1912.
@@ -771,7 +864,15 @@ Nacinal, es decir quatro anis desqones que al, la hiciera
 do puedo tecir testigo de sn innmensa labor de su asidu 
 dad, de sus fatigas.
 las atenciones  suidados de ta familin
- en esa otra","PaddleOCR 3.7.0 PP-OCRv6 (lang=es, por defecto, motor onnxruntime, CPU)",,XX,True,b1083d10728a94700a048a54f3d1bbfd27d996b70c7a00d8ec1dbf24e597bcb4,1062
+ en esa otra","PaddleOCR 3.7.0 PP-OCRv6 (lang=es, por defecto, motor onnxruntime, CPU)","Riberalta, junio 10 de 1912.
+
+Señor don Ricardo Palma
+Lima.
+
+Mi respetado y querido maestro:
+
+Desde estas apartadas co-
+marcas deseo manifestar a U. el profundo dolor que he",XX,True,b1083d10728a94700a048a54f3d1bbfd27d996b70c7a00d8ec1dbf24e597bcb4,1062,superior_40
 doc_020,datos/raw/documentos/img/doc_020.png,manuscrito,Wikimedia Commons (Public domain),"CHonit Nustese Geruanse y Bhiluas Su [PERSONA_3], y gue Son la
 Pssur Junise d n duoly aliy the figukae in la liste
 upsko il Sapitan d ente.la les
@@ -789,7 +890,7 @@ ke Otgenchaela. Lu ol lombet na cosondain rt
 a thel  olt risie su otulo, luruplr con il pnely tis. 
 Lassde.  te beyar te adble oh whaisel
 iu las aquss af Igui Iat pasa Vol inssti Lia sa Sarmt ara
- Ai meutiarn in maes pu, Veboraer","PaddleOCR 3.7.0 PP-OCRv6 (lang=es, por defecto, motor onnxruntime, CPU)",,XIX,True,4f44a23c60c4e71a5f09352f5c29a960d6e5d5f92a5cfdc72046e4c82500740c,894
+ Ai meutiarn in maes pu, Veboraer","PaddleOCR 3.7.0 PP-OCRv6 (lang=es, por defecto, motor onnxruntime, CPU)",,XIX,True,4f44a23c60c4e71a5f09352f5c29a960d6e5d5f92a5cfdc72046e4c82500740c,894,
 doc_021,datos/raw/documentos/img/doc_021.png,manuscrito,Wikimedia Commons (Public domain),"$30
 千
 Sr I.M. Rodrignen R. Prifecto del Dept. Lambayeque
@@ -802,7 +903,7 @@ Recomiindolo mii especialmente a su
 distinguida comsideracion i a la de sns aut
 ridades subaltermas.
 Aectuosamente sige
-Tierola","PaddleOCR 3.7.0 PP-OCRv6 (lang=es, por defecto, motor onnxruntime, CPU)",,XIX,True,779a0c2813f24f3cfc0dd801dfbd306deba0e93d244424735f8dc2a4001c27a3,353
+Tierola","PaddleOCR 3.7.0 PP-OCRv6 (lang=es, por defecto, motor onnxruntime, CPU)",,XIX,True,779a0c2813f24f3cfc0dd801dfbd306deba0e93d244424735f8dc2a4001c27a3,353,
 doc_022,datos/raw/documentos/img/doc_022.png,manuscrito,Wikimedia Commons (Public domain),"$30
 Sfor t Anteni Red Ham?
 Areguipa
@@ -811,7 +912,7 @@ Rvel pootaiora te esta quies
 debe instrir a V. acerca de
 Siempre Srege
 afme amige.
-alta","PaddleOCR 3.7.0 PP-OCRv6 (lang=es, por defecto, motor onnxruntime, CPU)",,XIX,True,6d13e60341c5270ca79dee9b07241dceb13472a3782db7843d497af171d7b5c9,144
+alta","PaddleOCR 3.7.0 PP-OCRv6 (lang=es, por defecto, motor onnxruntime, CPU)",,XIX,True,6d13e60341c5270ca79dee9b07241dceb13472a3782db7843d497af171d7b5c9,144,
 doc_023,datos/raw/documentos/img/doc_023.png,manuscrito,Wikimedia Commons (Public domain),"CAF
  bcd cd atince
 Él c ane
@@ -819,7 +920,15 @@ doc_023,datos/raw/documentos/img/doc_023.png,manuscrito,Wikimedia Commons (Publi
 d cn nn 
 tc n
 a faber del Aferes de Siagata D. Sei Becerira.
-amigo S.S. Digiense U la melestia n en afine","PaddleOCR 3.7.0 PP-OCRv6 (lang=es, por defecto, motor onnxruntime, CPU)",,XIX,True,5d9899fae0a9a17b228658450198dc6e599fca0201854fc227944f2179b9776a,137
+amigo S.S. Digiense U la melestia n en afine","PaddleOCR 3.7.0 PP-OCRv6 (lang=es, por defecto, motor onnxruntime, CPU)","Sr. General D. Pedro Cisneros
+
+                  Tacna Nov. 8. de 1856.
+
+Mi estimado amigo
+                     Me tomo la libertad
+de recomendar a U. el pronto Despacho de la propue-
+esta que ha hecho la Comandancia Gral. de marina,
+para Ayudante de la Capitania de puerto del Callao,",XIX,True,5d9899fae0a9a17b228658450198dc6e599fca0201854fc227944f2179b9776a,137,superior_40
 doc_024,datos/raw/documentos/img/doc_024.png,manuscrito,Wikimedia Commons (Public domain),"Mi repetabl hal y Padrino.
 la direntinia a. he lontraido in mi confi
 macion de tbaneay, me he Lituado in ente
@@ -830,11 +939,21 @@ horrrades al Comandants tiabina-Aste Jege
 eb batallon lmeo- tt hasin al. euta
 indicacion, seo eumplin con lo pusticin,
 decidids alrigads e inbariable denvion
-Ge1.","PaddleOCR 3.7.0 PP-OCRv6 (lang=es, por defecto, motor onnxruntime, CPU)",,XIX,True,d2a5b5fe7cd7a346833c8b2ca006eed4a97dafab110458cec76a5513b7506893,385
+Ge1.","PaddleOCR 3.7.0 PP-OCRv6 (lang=es, por defecto, motor onnxruntime, CPU)","Exmo Sr. D. Agustín Gamarra
+
+          [Saniti?] 12 de Agosto de 1840
+
+    Mi respetable Gral y Padrino.
+
+Sin embargo de hallarme bien enfermo con
+la disenteria q. he contraido en mi confi-
+nacion de Huancayo, me he situado en este
+Pueblo en cumplimto de la orden Supre-
+ma— Si mi mal, como es probable, se agra-",XIX,True,d2a5b5fe7cd7a346833c8b2ca006eed4a97dafab110458cec76a5513b7506893,385,superior_40
 doc_025,datos/raw/documentos/img/doc_025.png,manuscrito,Wikimedia Commons (Public domain),"Lima Iuhio, del84s
 Direetr dedhib oua
 emito a  l bols de e
 spedidos aconceruencia de la raron que me in chaye a sm nota de 28 oclparad.
 Dies grie a V
 Jolfeis
-Eehlenige","PaddleOCR 3.7.0 PP-OCRv6 (lang=es, por defecto, motor onnxruntime, CPU)",,XIX,True,1e9c5342085c70ef70b643f156747debffd009a015eaf36a15959c8eda9c2e0d,167
+Eehlenige","PaddleOCR 3.7.0 PP-OCRv6 (lang=es, por defecto, motor onnxruntime, CPU)",,XIX,True,1e9c5342085c70ef70b643f156747debffd009a015eaf36a15959c8eda9c2e0d,167,
