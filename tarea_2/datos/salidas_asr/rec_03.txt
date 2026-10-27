@@ -1,0 +1,31 @@
+[00:00:00] HABLANTE_1: Buenas noches, primeramente es mi nombre [PERSONA_2], soy estudiante de la Universidad San Marcos. A ver un momento, por favor.
+
+[00:00:09] HABLANTE_2: Yo te voy a decir la verdad.
+
+[00:00:11] HABLANTE_1: Sí, no, está bien, es lo que yo busco. A ver, buenas noches. Sí, buenas noches, mi nombre [PERSONA_2], soy estudiante de la Universidad San Marcos. ¿Cómo se llama usted?
+
+[00:00:20] HABLANTE_2: [PERSONA_12].
+
+[00:00:22] HABLANTE_1: Señor [PERSONA_16], esta entrevista va a ser publicada en un foro de internet, ¿está de acuerdo?
+
+[00:00:26] HABLANTE_2: Exacto, sí.
+
+[00:00:27] HABLANTE_1: Muy bien, ¿qué es el Perú para usted?
+
+[00:00:29] HABLANTE_2: El Perú es un país con mucha historia. Bueno, el lugar donde yo nací, y me gusta.
+
+[00:00:37] HABLANTE_1: ¿Cuáles serían los principales aspectos positivos que rescata el Perú?
+
+[00:00:42] HABLANTE_2: Mira, realmente en el Perú, aunque tengas problemas, ya sea del poder judicial o de todo el sistema en sí, yo pienso que para mí lo beneficioso de este país es la enseñanza que nos da cómo ganarnos el dinero. Porque como yo lo veo, este es un país, créame, muy rico, que yo no sé cómo hace la gente, pero aquí la gente tiene dinero, pero no lo sabe cómo realmente ahorrarlo o conservarlo. Donde yo vengo, créeme, tengo que venir acá a inspirarme para llevarme lo que yo veo aquí para poder ganarme todo el dinero allá en Estados Unidos.
+
+[00:01:25] HABLANTE_1: ¿Y cuáles serían las principales negatividades que encuentran el Perú?
+
+[00:01:33] HABLANTE_2: Faltaría así que toda la gente tuviera más respeto, por ejemplo, con la policía. Aunque yo entiendo que hay muchos elementos malos, pero hay muchos elementos buenos, muy buenos. Esas son las cosas negativas para mí. Después, ¿qué te digo? Yo creo que si todos nos educamos, ya sea desde la familia que empiece la educación para que nuestros hijos, los que vienen del mañana, tengan un comportamiento positivo con la sociedad, con la gente, y hagan las cosas bien.
+
+[00:02:06] HABLANTE_1: Si usted pudiese enviarle un mensaje a esos jóvenes, ¿cuál sería?
+
+[00:02:10] HABLANTE_2: Mira, yo les deseo realmente y el mensaje que le daría a los jóvenes ahora y tal vez funcione aquí, pero funcione en Estados Unidos. Por ejemplo, punto número uno, estudia y aprende todo lo que puedas, porque mientras más sabes, más después de desarrollar en muchos trabajos. No solamente si estudias una cosa, no solamente si no hay trabajo en eso y si no hay, te vas a morir de a menos. En lo que yo hago, por ejemplo, tengo diversidad de habilidades, ¿me entiendes? Si encuentro esto o si encuentro el otro. Aparte, yo daría tres consejos. Punto número uno, no prestes dinero. Punto número dos, no seas aval de nadie. Y punto número tres, ahorra tu dinero. Es que si quieres ayudar a alguien, ayúdate a ti mismo. Si quieres sentir pena por alguien, siente pena por ti, no por nadie. A la finales, si ayudas a alguien, lo ayudes, igual se van a quejar de ti, por ayudar y por no ayudar.
+
+[00:03:11] HABLANTE_1: Muchas gracias por sus palabras. Feliz de fiestas.
+
+[00:03:13] HABLANTE_2: Feliz de fiestas.

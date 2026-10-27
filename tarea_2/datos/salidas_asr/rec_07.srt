@@ -1,0 +1,343 @@
+1
+00:00:00,050 --> 00:00:07,050
+[HABLANTE_1] Bueno, hola, estamos en la San Martín, entre Fritas Patreas, 28 de julio.
+
+2
+00:00:07,050 --> 00:00:10,050
+[HABLANTE_1] Entonces, primero podría comenzarme diciéndome su nombre, por favor.
+
+3
+00:00:10,050 --> 00:00:12,050
+[HABLANTE_2] Mi nombre es [PERSONA_6].
+
+4
+00:00:12,050 --> 00:00:15,050
+[HABLANTE_1] [PERSONA_6], bien. Primera pregunta por usted.
+
+5
+00:00:15,050 --> 00:00:17,110
+[HABLANTE_1] Para usted, ¿qué significa el Perú?
+
+6
+00:00:17,110 --> 00:00:19,110
+[HABLANTE_2] Bueno, el Perú es mi país donde nacido.
+
+7
+00:00:19,110 --> 00:00:26,110
+[HABLANTE_2] Amo mucho porque acá vivo tengo todo lo que necesito y adoro mi país.
+
+8
+00:00:26,110 --> 00:00:30,110
+[HABLANTE_2] Es mi patria. Es un territorio donde nosotros vivimos.
+
+9
+00:00:30,110 --> 00:00:32,110
+[HABLANTE_2] Por ejemplo, yo soy de la selva central.
+
+10
+00:00:32,110 --> 00:00:35,110
+[HABLANTE_2] Amo mi territorio porque de ahí vivo, de ahí como.
+
+11
+00:00:35,110 --> 00:00:38,110
+[HABLANTE_2] Tengo mi medicina, mis plantas ancestrales.
+
+12
+00:00:38,110 --> 00:00:42,110
+[HABLANTE_2] Tengo mi cultura y mi identidad también.
+
+13
+00:00:42,110 --> 00:00:46,110
+[HABLANTE_1] ¿En qué momento diría usted que se dio cuenta de que era peruana,
+
+14
+00:00:46,110 --> 00:00:48,110
+[HABLANTE_1] que sintió que era peruana?
+
+15
+00:00:48,110 --> 00:00:50,110
+[HABLANTE_2] Bueno, creo que desde que nacido siempre, no.
+
+16
+00:00:50,110 --> 00:00:55,110
+[HABLANTE_2] Nuestros padres nos han inculcado que siempre el 28 de julio,
+
+17
+00:00:55,110 --> 00:01:01,110
+[HABLANTE_2] el día de la independencia, desde muy pequeños, lo celebrabamos.
+
+18
+00:01:01,110 --> 00:01:04,110
+[HABLANTE_2] No solamente con alimentación, sino que era nuestro Perú
+
+19
+00:01:04,110 --> 00:01:06,110
+[HABLANTE_2] y que nos compraban ropa nueva.
+
+20
+00:01:06,110 --> 00:01:08,110
+[HABLANTE_2] Me acuerdo de pequeños, una fiesta.
+
+21
+00:01:08,110 --> 00:01:10,110
+[HABLANTE_2] Era una fiesta para nosotros.
+
+22
+00:01:10,110 --> 00:01:13,110
+[HABLANTE_2] Yo creo que eso se ha perdido un poco para la tradición
+
+23
+00:01:13,110 --> 00:01:16,110
+[HABLANTE_2] porque algunos nos compraban hasta juguetes también.
+
+24
+00:01:16,110 --> 00:01:20,110
+[HABLANTE_2] Era como Navidad, 28 de julio, y nos compraban ropa.
+
+25
+00:01:20,110 --> 00:01:23,110
+[HABLANTE_2] Era hoy y era la fiesta y que íbamos a los desfiles
+
+26
+00:01:23,110 --> 00:01:26,110
+[HABLANTE_2] en nuestra zona donde vivimos.
+
+27
+00:01:26,110 --> 00:01:29,110
+[HABLANTE_2] Muy bonito, pero creo que eso se ha perdido un poco.
+
+28
+00:01:29,110 --> 00:01:32,300
+[HABLANTE_1] ¿Y ahora, cuál diría que son los aspectos positivos,
+
+29
+00:01:32,300 --> 00:01:34,300
+[HABLANTE_1] las características positivas del Perú?
+
+30
+00:01:34,300 --> 00:01:37,300
+[HABLANTE_2] Bueno, de Perú que ha crecido bastante, se ha incrementado.
+
+31
+00:01:37,300 --> 00:01:40,300
+[HABLANTE_2] Se ha incrementado.
+
+32
+00:01:40,300 --> 00:01:42,300
+[HABLANTE_2] Hay muchas fuentes también.
+
+33
+00:01:42,300 --> 00:01:45,300
+[HABLANTE_2] Ha cambiado bastante la tecnología.
+
+34
+00:01:45,300 --> 00:01:48,300
+[HABLANTE_2] Ha crecido, pero ha crecido las ciudades,
+
+35
+00:01:48,300 --> 00:01:51,300
+[HABLANTE_2] no solamente poblacional,
+
+36
+00:01:51,300 --> 00:01:54,300
+[HABLANTE_2] sino en el aspecto social, en el aspecto cultural,
+
+37
+00:01:54,300 --> 00:01:56,300
+[HABLANTE_2] en el aspecto indígena también,
+
+38
+00:01:56,300 --> 00:01:59,300
+[HABLANTE_2] muchos aspectos, y en el aspecto económico también.
+
+39
+00:01:59,300 --> 00:02:02,300
+[HABLANTE_1] ¿Y ahora, cuál diría que serían los aspectos negativos del Perú?
+
+40
+00:02:02,300 --> 00:02:05,300
+[HABLANTE_2] Bueno, los aspectos negativos es que
+
+41
+00:02:05,300 --> 00:02:08,300
+[HABLANTE_2] la corrupción y dentro de los gobiernos
+
+42
+00:02:08,300 --> 00:02:11,300
+[HABLANTE_2] siempre ha habido demasiada corrupción
+
+43
+00:02:11,300 --> 00:02:14,300
+[HABLANTE_2] y no hay políticas para nosotros, las mujeres indígenas,
+
+44
+00:02:14,300 --> 00:02:18,300
+[HABLANTE_2] no respetan los convenios, las leyes las tenemos por gusto.
+
+45
+00:02:18,300 --> 00:02:22,300
+[HABLANTE_2] Los derechos también, se nos vulneran los derechos a las mujeres,
+
+46
+00:02:22,300 --> 00:02:24,300
+[HABLANTE_2] los derechos sexuales y reproductivos,
+
+47
+00:02:24,300 --> 00:02:27,300
+[HABLANTE_2] invisibilizan el trabajo de nuestras mujeres,
+
+48
+00:02:27,300 --> 00:02:31,300
+[HABLANTE_2] y no respetan a las personas como derecho,
+
+49
+00:02:31,300 --> 00:02:33,300
+[HABLANTE_2] como seres de derechos,
+
+50
+00:02:33,300 --> 00:02:35,300
+[HABLANTE_2] porque dentro de las personas estamos las mujeres,
+
+51
+00:02:35,300 --> 00:02:38,300
+[HABLANTE_2] los hombres y los hermanos y hermanas de la ECTBI,
+
+52
+00:02:38,300 --> 00:02:41,300
+[HABLANTE_2] y son seres humanos y tienen derechos también.
+
+53
+00:02:41,300 --> 00:02:45,300
+[HABLANTE_2] Y también hay mucho racismo, no hemos perdido el racismo.
+
+54
+00:02:45,300 --> 00:02:48,300
+[HABLANTE_2] Hay mucha gente que selecciona a las personas.
+
+55
+00:02:48,300 --> 00:02:51,300
+[HABLANTE_2] ¿Acaso cuando Dios, bueno, Dios es católica,
+
+56
+00:02:51,300 --> 00:02:53,300
+[HABLANTE_2] cuando Dios, o cuando oramos, Dios dice,
+
+57
+00:02:53,300 --> 00:02:55,300
+[HABLANTE_2] ¿tú eres blanco? Sí, te escucho.
+
+58
+00:02:55,300 --> 00:02:58,300
+[HABLANTE_2] ¿Tú eres negro? No, Dios escucha,
+
+59
+00:02:58,300 --> 00:03:00,300
+[HABLANTE_2] porque somos seres humanos nada más.
+
+60
+00:03:00,300 --> 00:03:04,300
+[HABLANTE_2] Él no ve ni el color, ni el sexo, ni la raza, nada.
+
+61
+00:03:04,300 --> 00:03:06,590
+[HABLANTE_1] ¿Y por último, qué mensaje le daría
+
+62
+00:03:06,590 --> 00:03:09,590
+[HABLANTE_1] a las futuras generaciones de peruanos?
+
+63
+00:03:09,590 --> 00:03:14,980
+[HABLANTE_2] Bueno, ahora con esa tecnología los jóvenes no leen.
+
+64
+00:03:14,980 --> 00:03:16,980
+[HABLANTE_2] No hay mucha educación,
+
+65
+00:03:16,980 --> 00:03:18,980
+[HABLANTE_2] mucha falta de respeto a los padres.
+
+66
+00:03:18,980 --> 00:03:21,980
+[HABLANTE_2] Yo creo que tienen que ser educados, formados,
+
+67
+00:03:21,980 --> 00:03:24,040
+[HABLANTE_2] tienen que tener valores.
+
+68
+00:03:24,040 --> 00:03:26,040
+[HABLANTE_2] Y de acuerdo a los ejemplos que tenemos
+
+69
+00:03:26,040 --> 00:03:29,040
+[HABLANTE_2] de este índice de corrupción que hay en el Perú
+
+70
+00:03:29,040 --> 00:03:31,040
+[HABLANTE_2] que se ha estabilizado, creo,
+
+71
+00:03:31,040 --> 00:03:35,040
+[HABLANTE_2] en los entes, en municipalidades,
+
+72
+00:03:35,040 --> 00:03:38,040
+[HABLANTE_2] en gobiernos regionales, en el mismo gobierno,
+
+73
+00:03:38,040 --> 00:03:40,040
+[HABLANTE_2] tienen que cambiar, tienen que mejorarlo.
+
+74
+00:03:40,040 --> 00:03:43,040
+[HABLANTE_2] Tenemos que tener generaciones nuevas.
+
+75
+00:03:43,040 --> 00:03:45,040
+[HABLANTE_2] Por ejemplo, nosotros como mujeres luchadoras
+
+76
+00:03:45,040 --> 00:03:47,040
+[HABLANTE_2] que debemos dejar generaciones
+
+77
+00:03:47,040 --> 00:03:49,040
+[HABLANTE_2] que conozcan sus derechos,
+
+78
+00:03:49,040 --> 00:03:51,040
+[HABLANTE_2] que se hagan respetar.
+
+79
+00:03:51,040 --> 00:03:53,040
+[HABLANTE_2] No solamente el derecho a nuestro territorio
+
+80
+00:03:53,040 --> 00:03:55,040
+[HABLANTE_2] donde vivimos, sino el derecho a nuestro cuerpo.
+
+81
+00:03:55,040 --> 00:03:58,040
+[HABLANTE_2] Que nadie nos toque, que nadie nos viola,
+
+82
+00:03:58,040 --> 00:04:01,040
+[HABLANTE_2] que nadie haga abuso de nosotras.
+
+83
+00:04:01,040 --> 00:04:03,040
+[HABLANTE_2] Y no nos maten tampoco.
+
+84
+00:04:03,040 --> 00:04:05,070
+[HABLANTE_1] Bueno, muchas gracias por la entrevista.
+
+85
+00:04:05,070 --> 00:04:07,070
+[HABLANTE_1] Me sigamos luchando por un Perú.
+
+86
+00:04:07,070 --> 00:04:09,740
+[HABLANTE_3] Gracias.

@@ -1,0 +1,187 @@
+1
+00:00:00,000 --> 00:00:07,130
+[HABLANTE_1] Buenas noches, primeramente es mi nombre [PERSONA_2], soy estudiante de la Universidad San Marcos.
+
+2
+00:00:07,130 --> 00:00:09,700
+[HABLANTE_1] A ver un momento, por favor.
+
+3
+00:00:09,700 --> 00:00:11,700
+[HABLANTE_2] Yo te voy a decir la verdad.
+
+4
+00:00:11,700 --> 00:00:13,700
+[HABLANTE_1] Sí, no, está bien, es lo que yo busco.
+
+5
+00:00:13,700 --> 00:00:15,990
+[HABLANTE_1] A ver, buenas noches.
+
+6
+00:00:15,990 --> 00:00:19,990
+[HABLANTE_1] Sí, buenas noches, mi nombre [PERSONA_2], soy estudiante de la Universidad San Marcos.
+
+7
+00:00:19,990 --> 00:00:20,990
+[HABLANTE_1] ¿Cómo se llama usted?
+
+8
+00:00:20,990 --> 00:00:22,990
+[HABLANTE_2] [PERSONA_12].
+
+9
+00:00:22,990 --> 00:00:26,990
+[HABLANTE_1] Señor [PERSONA_16], esta entrevista va a ser publicada en un foro de internet, ¿está de acuerdo?
+
+10
+00:00:26,990 --> 00:00:27,990
+[HABLANTE_2] Exacto, sí.
+
+11
+00:00:27,990 --> 00:00:29,990
+[HABLANTE_1] Muy bien, ¿qué es el Perú para usted?
+
+12
+00:00:29,990 --> 00:00:34,310
+[HABLANTE_2] El Perú es un país con mucha historia.
+
+13
+00:00:34,310 --> 00:00:37,310
+[HABLANTE_2] Bueno, el lugar donde yo nací, y me gusta.
+
+14
+00:00:37,310 --> 00:00:42,820
+[HABLANTE_1] ¿Cuáles serían los principales aspectos positivos que rescata el Perú?
+
+15
+00:00:42,820 --> 00:00:55,660
+[HABLANTE_2] Mira, realmente en el Perú, aunque tengas problemas, ya sea del poder judicial o de todo el sistema en sí,
+
+16
+00:00:55,660 --> 00:01:03,660
+[HABLANTE_2] yo pienso que para mí lo beneficioso de este país es la enseñanza que nos da cómo ganarnos el dinero.
+
+17
+00:01:03,660 --> 00:01:09,660
+[HABLANTE_2] Porque como yo lo veo, este es un país, créame, muy rico, que yo no sé cómo hace la gente,
+
+18
+00:01:09,660 --> 00:01:16,660
+[HABLANTE_2] pero aquí la gente tiene dinero, pero no lo sabe cómo realmente ahorrarlo o conservarlo.
+
+19
+00:01:17,660 --> 00:01:22,660
+[HABLANTE_2] Donde yo vengo, créeme, tengo que venir acá a inspirarme para llevarme lo que yo veo aquí
+
+20
+00:01:22,660 --> 00:01:25,660
+[HABLANTE_2] para poder ganarme todo el dinero allá en Estados Unidos.
+
+21
+00:01:25,660 --> 00:01:33,760
+[HABLANTE_1] ¿Y cuáles serían las principales negatividades que encuentran el Perú?
+
+22
+00:01:33,760 --> 00:01:40,820
+[HABLANTE_2] Faltaría así que toda la gente tuviera más respeto, por ejemplo, con la policía.
+
+23
+00:01:40,820 --> 00:01:45,820
+[HABLANTE_2] Aunque yo entiendo que hay muchos elementos malos, pero hay muchos elementos buenos, muy buenos.
+
+24
+00:01:45,820 --> 00:01:47,950
+[HABLANTE_2] Esas son las cosas negativas para mí.
+
+25
+00:01:47,950 --> 00:01:50,110
+[HABLANTE_2] Después, ¿qué te digo?
+
+26
+00:01:50,110 --> 00:01:56,850
+[HABLANTE_2] Yo creo que si todos nos educamos, ya sea desde la familia que empiece la educación
+
+27
+00:01:56,850 --> 00:02:01,850
+[HABLANTE_2] para que nuestros hijos, los que vienen del mañana, tengan un comportamiento positivo
+
+28
+00:02:01,850 --> 00:02:06,680
+[HABLANTE_2] con la sociedad, con la gente, y hagan las cosas bien.
+
+29
+00:02:06,680 --> 00:02:10,680
+[HABLANTE_1] Si usted pudiese enviarle un mensaje a esos jóvenes, ¿cuál sería?
+
+30
+00:02:10,680 --> 00:02:17,680
+[HABLANTE_2] Mira, yo les deseo realmente y el mensaje que le daría a los jóvenes ahora
+
+31
+00:02:17,680 --> 00:02:20,680
+[HABLANTE_2] y tal vez funcione aquí, pero funcione en Estados Unidos.
+
+32
+00:02:20,680 --> 00:02:25,840
+[HABLANTE_2] Por ejemplo, punto número uno, estudia y aprende todo lo que puedas,
+
+33
+00:02:25,840 --> 00:02:29,840
+[HABLANTE_2] porque mientras más sabes, más después de desarrollar en muchos trabajos.
+
+34
+00:02:29,840 --> 00:02:33,840
+[HABLANTE_2] No solamente si estudias una cosa, no solamente si no hay trabajo en eso
+
+35
+00:02:33,840 --> 00:02:36,100
+[HABLANTE_2] y si no hay, te vas a morir de a menos.
+
+36
+00:02:36,100 --> 00:02:41,100
+[HABLANTE_2] En lo que yo hago, por ejemplo, tengo diversidad de habilidades, ¿me entiendes?
+
+37
+00:02:41,100 --> 00:02:43,100
+[HABLANTE_2] Si encuentro esto o si encuentro el otro.
+
+38
+00:02:43,100 --> 00:02:46,100
+[HABLANTE_2] Aparte, yo daría tres consejos.
+
+39
+00:02:46,100 --> 00:02:49,190
+[HABLANTE_2] Punto número uno, no prestes dinero.
+
+40
+00:02:49,190 --> 00:02:52,190
+[HABLANTE_2] Punto número dos, no seas aval de nadie.
+
+41
+00:02:52,190 --> 00:02:55,190
+[HABLANTE_2] Y punto número tres, ahorra tu dinero.
+
+42
+00:02:55,190 --> 00:02:59,190
+[HABLANTE_2] Es que si quieres ayudar a alguien, ayúdate a ti mismo.
+
+43
+00:02:59,190 --> 00:03:03,190
+[HABLANTE_2] Si quieres sentir pena por alguien, siente pena por ti, no por nadie.
+
+44
+00:03:03,190 --> 00:03:07,190
+[HABLANTE_2] A la finales, si ayudas a alguien, lo ayudes,
+
+45
+00:03:07,190 --> 00:03:11,190
+[HABLANTE_2] igual se van a quejar de ti, por ayudar y por no ayudar.
+
+46
+00:03:11,190 --> 00:03:13,190
+[HABLANTE_1] Muchas gracias por sus palabras. Feliz de fiestas.
+
+47
+00:03:13,190 --> 00:03:18,190
+[HABLANTE_2] Feliz de fiestas.

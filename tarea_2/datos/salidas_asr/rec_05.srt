@@ -1,0 +1,99 @@
+1
+00:00:00,850 --> 00:00:06,850
+[HABLANTE_1] Buenas noches, soy [PERSONA_8], estudiante de Los San Marcos.
+
+2
+00:00:06,850 --> 00:00:10,850
+[HABLANTE_1] Esta entrevista va a ser registrada en internet, ¿está de acuerdo usted?
+
+3
+00:00:10,850 --> 00:00:11,850
+[HABLANTE_2] Sí, estoy de acuerdo.
+
+4
+00:00:11,850 --> 00:00:12,850
+[HABLANTE_1] Muy bien.
+
+5
+00:00:12,850 --> 00:00:14,850
+[HABLANTE_1] Para usted, ¿qué es el Perú?
+
+6
+00:00:14,850 --> 00:00:20,000
+[HABLANTE_3] Pues yo no soy peruano, entrada.
+
+7
+00:00:20,000 --> 00:00:26,190
+[HABLANTE_3] Pero Perú, yo creo que junto con México los dos países que más historia tienen,
+
+8
+00:00:26,190 --> 00:00:31,740
+[HABLANTE_3] más cultura y más restos de civilizaciones prehispánicas,
+
+9
+00:00:31,740 --> 00:00:37,740
+[HABLANTE_3] más ciudades coloniales, mucho más riquezas de cultura, de todo.
+
+10
+00:00:37,740 --> 00:00:39,740
+[HABLANTE_3] En América me parece que son los dos más ricos.
+
+11
+00:00:39,740 --> 00:00:40,860
+[HABLANTE_1] Muchas gracias.
+
+12
+00:00:40,860 --> 00:00:45,860
+[HABLANTE_1] ¿Y usted en su estadía en Perú, cuáles son las principales características positivas que podría destacar?
+
+13
+00:00:45,860 --> 00:00:49,340
+[HABLANTE_3] La gente es increíblemente amable.
+
+14
+00:00:49,340 --> 00:00:51,340
+[HABLANTE_3] Lima, por ejemplo, me parece que no ha sido muy ordenada.
+
+15
+00:00:51,340 --> 00:00:52,340
+[HABLANTE_4] ¡Ah!
+
+16
+00:00:52,340 --> 00:00:53,340
+[HABLANTE_5] ¡Ah!
+
+17
+00:00:53,340 --> 00:00:55,340
+[HABLANTE_3] El hotel es muy bien organizada.
+
+18
+00:00:55,340 --> 00:00:58,340
+[HABLANTE_3] Yo apenas un día entonces no te puedo decir mucho más de eso.
+
+19
+00:00:58,340 --> 00:01:03,210
+[HABLANTE_1] En ese día, ¿cuál sería el aspecto más negativo que notó?
+
+20
+00:01:03,210 --> 00:01:07,270
+[HABLANTE_3] Pues aquí en Lima el servicio es muy lento.
+
+21
+00:01:07,270 --> 00:01:10,530
+[HABLANTE_3] El servicio es terriblemente lento en los restaurantes.
+
+22
+00:01:10,530 --> 00:01:12,530
+[HABLANTE_3] Pero digo, eso no es que sea tan negativo,
+
+23
+00:01:12,530 --> 00:01:15,530
+[HABLANTE_3] por lo único negativo que puedo decir de Lima en realidad.
+
+24
+00:01:15,530 --> 00:01:16,530
+[HABLANTE_1] Muchas gracias, señor.
+
+25
+00:01:16,530 --> 00:01:17,530
+[HABLANTE_1] ¡Felices fiestas!
